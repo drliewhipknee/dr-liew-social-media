@@ -253,7 +253,7 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
 # LINKEDIN  (new Posts API — /rest/posts, LinkedIn-Version 202401)
 # ══════════════════════════════════════════════════════════════════════════════
 
-LI_VERSION = "202401"
+LI_VERSION = "202501"
 
 
 def _li_get_member_urn(token: str) -> str:
