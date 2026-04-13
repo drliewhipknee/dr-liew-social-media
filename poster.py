@@ -254,19 +254,19 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def _li_get_member_urn(token: str) -> str:
-    """Call /v2/me to get the real member URN for the authenticated user."""
+    """Call /v2/userinfo (OpenID Connect) to get the member URN.
+    Returns urn:li:member:{sub} — compatible with ugcPosts /author field.
+    Requires openid + profile scopes on the token.
+    """
     r = requests.get(
-        "https://api.linkedin.com/v2/me",
-        headers={
-            "Authorization": f"Bearer {token}",
-            "X-Restli-Protocol-Version": "2.0.0",
-        },
+        "https://api.linkedin.com/v2/userinfo",
+        headers={"Authorization": f"Bearer {token}"},
         timeout=10,
     )
-    log.info(f"  /v2/me \u2192 {r.status_code} {r.text[:300]}")
+    log.info(f"  /v2/userinfo \u2192 {r.status_code} {r.text[:300]}")
     r.raise_for_status()
-    member_id = r.json().get("id", "")
-    urn = f"urn:li:person:{member_id}"
+    sub = r.json().get("sub", "")
+    urn = f"urn:li:member:{sub}"
     log.info(f"  Detected member URN: {urn}")
     return urn
 
