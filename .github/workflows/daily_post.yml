@@ -1,94 +1,23 @@
-name: Daily Social Media Post
-
-# ─────────────────────────────────────────────────────────────────
-#  Runs automatically every morning at 8:00am ACST (UTC+9:30)
-#  = 22:30 UTC the night before.
-#
-#  You can also trigger it manually from the GitHub Actions tab
-#  (useful for testing and for posting a specific date).
-# ─────────────────────────────────────────────────────────────────
+name: LinkedIn Post (8:00am ACST)
 
 on:
   schedule:
-    # 22:30 UTC = 08:00 ACST (UTC+9:30)
     - cron: '30 22 * * *'
-
   workflow_dispatch:
-    inputs:
-      target_date:
-        description: 'Date to post (YYYY-MM-DD). Leave blank for today.'
-        required: false
-        default: ''
-      dry_run:
-        description: 'Dry run (true = show what would post, without posting)'
-        required: false
-        default: 'false'
-        type: choice
-        options:
-          - 'false'
-          - 'true'
 
 jobs:
   post:
-    name: Post to Social Media
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
     steps:
-      # 1. Check out your repository (including images/ folder and scripts)
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      # 2. Set up Python
+      - uses: actions/checkout@v3
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-          cache: 'pip'
-
-      # 3. Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      # 4. Determine the target date
-      #    - If triggered manually with a date: use that date
-      #    - If triggered on schedule: use today's date in ACST
-      - name: Determine target date
-        id: date
-        run: |
-          if [ -n "${{ github.event.inputs.target_date }}" ]; then
-            echo "TARGET_DATE=${{ github.event.inputs.target_date }}" >> $GITHUB_ENV
-          else
-            # Get current date in ACST (UTC+9:30)
-            echo "TARGET_DATE=$(TZ='Australia/Adelaide' date +%Y-%m-%d)" >> $GITHUB_ENV
-          fi
-          echo "Posting for date: $TARGET_DATE"
-
-      # 5. Run the poster
       - name: Run poster
         env:
-          # Facebook + Instagram
-          FB_PAGE_ACCESS_TOKEN:    ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          FB_PAGE_ID:              ${{ secrets.FB_PAGE_ID }}
-          IG_BUSINESS_ACCOUNT_ID:  ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
-          # LinkedIn
-          LI_ACCESS_TOKEN:         ${{ secrets.LI_ACCESS_TOKEN }}
-          LI_COMPANY_PAGE_ID:      ${{ secrets.LI_COMPANY_PAGE_ID }}
-          LI_PERSONAL_URN:         ${{ secrets.LI_PERSONAL_URN }}
-          # GITHUB_REPOSITORY and GITHUB_SHA are automatic GitHub Actions variables
-          # (used to build raw.githubusercontent.com image URLs for Instagram)
-        run: |
-          DRY_FLAG=""
-          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
-            DRY_FLAG="--dry-run"
-          fi
-          python poster.py --date "$TARGET_DATE" $DRY_FLAG
-
-      # 6. Upload the post log as an artifact (so you can download and review it)
-      - name: Upload post log
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: post-log-${{ env.TARGET_DATE }}
-          path: post_log.jsonl
-          retention-days: 90
+          LI_ACCESS_TOKEN: ${{ secrets.LI_ACCESS_TOKEN }}
+          LI_PERSON_URN: ${{ secrets.LI_PERSON_URN }}
+        run: python poster.py --platform linkedin
