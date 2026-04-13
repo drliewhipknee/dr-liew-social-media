@@ -416,10 +416,12 @@ def get_todays_posts(target_date: str) -> list[dict]:
     return [p for p in POSTS if p["date"] == target_date]
 
 
-def run(target_date: str, dry_run: bool):
-    log.info(f"═══ Dr Liew Social Media Poster  |  date={target_date}  dry_run={dry_run} ═══")
+def run(target_date: str, dry_run: bool, platform_filter: str = "all"):
+    log.info(f"═══ Dr Liew Social Media Poster  |  date={target_date}  dry_run={dry_run}  platform={platform_filter} ═══")
 
     posts = get_todays_posts(target_date)
+    if platform_filter != "all":
+        posts = [p for p in posts if platform_filter.lower() in p["platform"].lower()]
     if not posts:
         log.info(f"No posts scheduled for {target_date} — nothing to do.")
         return
@@ -480,8 +482,9 @@ def run(target_date: str, dry_run: bool):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Dr Liew social media auto-poster")
-    parser.add_argument("--date",    default=str(date.today()), help="Target date YYYY-MM-DD (default: today)")
-    parser.add_argument("--dry-run", action="store_true",        help="Show what would be posted without posting")
+    parser.add_argument("--date",     default=str(date.today()), help="Target date YYYY-MM-DD (default: today)")
+    parser.add_argument("--dry-run",  action="store_true",        help="Show what would be posted without posting")
+    parser.add_argument("--platform", default="all",              help="Platform filter: linkedin, facebook, instagram, or all (default: all)")
     args = parser.parse_args()
 
     # Validate date format
@@ -489,4 +492,4 @@ if __name__ == "__main__":
         log.error("--date must be in YYYY-MM-DD format")
         sys.exit(1)
 
-    run(args.date, args.dry_run)
+    run(args.date, args.dry_run, args.platform)
