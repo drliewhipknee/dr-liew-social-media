@@ -263,10 +263,10 @@ def _li_get_member_urn(token: str) -> str:
         },
         timeout=10,
     )
-    log.info(f"  /v2/me \u2192 {r.status_code} {r.text[:300]}")
+    log.info(f"  /v2/me → {r.status_code} {r.text[:300]}")
     r.raise_for_status()
     member_id = r.json().get("id", "")
-    urn = f"urn:li:member:{member_id}"
+    urn = f"urn:li:person:{member_id}"
     log.info(f"  Detected member URN: {urn}")
     return urn
 
@@ -345,14 +345,14 @@ def _li_post(author_urn: str, token: str, caption: str, image_path: Path | None,
     )
     r.raise_for_status()
     post_id = r.headers.get("x-restli-id") or r.json().get("id", "")
-    log.info(f"  LinkedIn OK  \u2192 {author_urn}  post ID: {post_id}")
+    log.info(f"  LinkedIn OK  → {author_urn}  post ID: {post_id}")
     return post_id
 
 
 def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     """
     Post to LinkedIn personal profile (and optionally company page).
-    Auto-detects the member URN from /v2/me to ensure it matches the token.
+    Falls back to LI_PERSONAL_URN secret if /v2/me is unavailable.
     """
     token      = env("LI_ACCESS_TOKEN")
     company_id = env("LI_COMPANY_PAGE_ID", required=False)
@@ -368,22 +368,23 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     results  = {}
 
     if audience in ("both", "personal"):
+        # Try /v2/me first; fall back to the stored LI_PERSONAL_URN secret
+        member_urn = env("LI_PERSONAL_URN", required=False)
         try:
             member_urn = _li_get_member_urn(token)
         except Exception as e:
-            log.error(f"  Could not get member URN from /v2/me: {e}")
-            member_urn = None
+            log.warning(f"  /v2/me unavailable ({e}); falling back to LI_PERSONAL_URN={member_urn}")
 
         if member_urn:
             results["personal"] = _li_post(member_urn, token, caption, image, dry_run)
+        else:
+            log.error("  No member URN available — skipping personal LinkedIn post")
 
     if company_id and audience in ("company",):
         company_urn = f"urn:li:organization:{company_id}"
         results["company"] = _li_post(company_urn, token, caption, image, dry_run)
 
     return results
-    return results
-
 
 # ══════════════════════════════════════════════════════════════════════════════
 # MAIN ORCHESTRATOR
