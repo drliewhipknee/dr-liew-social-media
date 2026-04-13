@@ -81,9 +81,6 @@ def find_images(post: dict) -> list[Path]:
 
 
 # ── Image upload for Instagram (needs a public URL) ────────────────────────────
-# Uses GitHub raw content URLs — images are already in the repo so no extra
-# service or API key is needed. Format:
-#   https://raw.githubusercontent.com/{owner}/{repo}/{branch}/images/{filename}
 def upload_image_for_instagram(image_path: Path) -> str:
     """Return a publicly accessible URL for an image already committed to the repo."""
     github_repo  = env("GITHUB_REPOSITORY")   # e.g. "cwliew1/dr-liew-social"
@@ -337,8 +334,8 @@ def _li_post(author_urn: str, token: str, caption: str, image_path: Path | None,
 
 def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     """
-    Post to LinkedIn Company Page and/or personal profile.
-    Returns dict with 'company' and 'personal' keys.
+    Post to LinkedIn personal profile (and optionally company page if audience="company").
+    Returns dict with 'company' and/or 'personal' keys.
     """
     token        = env("LI_ACCESS_TOKEN")
     company_id   = env("LI_COMPANY_PAGE_ID", required=False)
@@ -354,7 +351,7 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     image    = images[0] if images else None   # LinkedIn single image per post
     results  = {}
 
-    if company_id and audience in ("both", "company"):
+    if company_id and audience in ("company",):
         company_urn = f"urn:li:organization:{company_id}"
         results["company"] = _li_post(company_urn, token, caption, image, dry_run)
 
