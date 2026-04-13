@@ -30,6 +30,17 @@ logging.basicConfig(
 )
 log = logging.getLogger("poster")
 
+# ── Unicode helper ────────────────────────────────────────────────────────────────────────────────────
+def fix_surrogates(text: str) -> str:
+    """Convert surrogate pairs to proper Unicode characters.
+    posts_data.py stores emoji as UTF-16 surrogate pairs (e.g. \\ud83e\\uddb4).
+    Python 3's utf-8 encoder rejects lone surrogates, so we round-trip through
+    utf-16 to merge the pairs into proper code points first."""
+    try:
+        return text.encode("utf-16", "surrogatepass").decode("utf-16")
+    except Exception:
+        return text.encode("utf-8", "surrogatepass").decode("utf-8", "replace")
+
 # ── Configuration (from environment variables / GitHub Secrets) ────────────────
 def env(key, required=True):
     val = os.environ.get(key, "").strip()
@@ -101,7 +112,7 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
     """Post to Facebook Page. Returns post ID on success."""
     page_id    = env("FB_PAGE_ID")
     page_token = env("FB_PAGE_ACCESS_TOKEN")
-    caption    = post["caption"]
+    caption    = fix_surrogates(post["caption"])
     if post.get("hashtags") and post["hashtags"] not in caption:
         caption += "\n\n" + post["hashtags"]
     if post.get("website_link"):
@@ -163,7 +174,7 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
     """Post to Instagram Business Account. Returns post ID."""
     ig_id      = env("IG_BUSINESS_ACCOUNT_ID")
     page_token = env("FB_PAGE_ACCESS_TOKEN")
-    caption    = post["caption"]
+    caption    = fix_surrogates(post["caption"])
     if post.get("hashtags") and post["hashtags"] not in caption:
         caption += "\n\n" + post["hashtags"]
 
@@ -362,7 +373,7 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     token      = env("LI_ACCESS_TOKEN")
     company_id = env("LI_COMPANY_PAGE_ID", required=False)
 
-    caption = post["caption"]
+    caption = fix_surrogates(post["caption"])
     if post.get("hashtags") and post["hashtags"] not in caption:
         caption += "\n\n" + post["hashtags"]
     if post.get("website_link"):
