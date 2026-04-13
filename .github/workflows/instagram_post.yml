@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 9 * * *'
   workflow_dispatch:
+    inputs:
+      date:
+        description: 'Target date YYYY-MM-DD (leave blank for today)'
+        required: false
+        default: ''
 
 jobs:
   post:
@@ -21,4 +26,10 @@ jobs:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python poster.py --platform instagram
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          if [ -n "$INPUT_DATE" ]; then
+            python poster.py --platform instagram --date "$INPUT_DATE"
+          else
+            python poster.py --platform instagram
+          fi
