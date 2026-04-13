@@ -253,90 +253,109 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
 # LINKEDIN
 # ══════════════════════════════════════════════════════════════════════════════
 
-def _li_upload_image(image_path: Path, author_urn: str, token: str) -> str:
-    """Upload one image to LinkedIn (new REST API) and return the image URN."""
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type":  "application/json",
-        "LinkedIn-Version": "202412",
-        "X-Restli-Protocol-Version": "2.0.0",
-    }
+def _li_get_member_urn(token: str) -> str:
+    """Call /v2/me to get the real member URN for the authenticated user."""
+    r = requests.get(
+        "https://api.linkedin.com/v2/me",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "X-Restli-Protocol-Version": "2.0.0",
+        },
+        timeout=10,
+    )
+    log.info(f"  /v2/me \u2192 {r.status_code} {r.text[:300]}")
+    r.raise_for_status()
+    member_id = r.json().get("id", "")
+    urn = f"urn:li:member:{member_id}"
+    log.info(f"  Detected member URN: {urn}")
+    return urn
 
-    # Step 1: initialize upload
+
+def _li_upload_image(image_path: Path, author_urn: str, token: str) -> str:
+    """Upload one image to LinkedIn (legacy v2 assets API) and return the asset URN."""
     r = requests.post(
-        "https://api.linkedin.com/rest/images?action=initializeUpload",
-        headers=headers,
-        json={"initializeUploadRequest": {"owner": author_urn}},
+        "https://api.linkedin.com/v2/assets?action=registerUpload",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type":  "application/json",
+            "X-Restli-Protocol-Version": "2.0.0",
+        },
+        json={
+            "registerUploadRequest": {
+                "recipes": ["urn:li:digitalmediaRecipe:feedshare-image"],
+                "owner": author_urn,
+                "serviceRelationships": [{
+                    "relationshipType": "OWNER",
+                    "identifier": "urn:li:userGeneratedContent"
+                }]
+            }
+        },
         timeout=30,
     )
     r.raise_for_status()
     data = r.json()
-    upload_url = data["value"]["uploadUrl"]
-    image_urn  = data["value"]["image"]
+    upload_url = data["value"]["uploadMechanism"]["com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest"]["uploadUrl"]
+    asset_urn  = data["value"]["asset"]
 
-    # Step 2: upload binary
     with open(image_path, "rb") as f:
-        up = requests.put(upload_url, data=f, headers={"Content-Type": "application/octet-stream"}, timeout=60)
+        up = requests.put(upload_url, data=f, headers={"Content-Type": "image/jpeg"}, timeout=60)
     up.raise_for_status()
-    log.info(f"  LinkedIn image uploaded: {image_urn}")
-    return image_urn
+    log.info(f"  LinkedIn image uploaded: {asset_urn}")
+    return asset_urn
 
 
 def _li_post(author_urn: str, token: str, caption: str, image_path: Path | None, dry_run: bool) -> str | None:
-    """Create one LinkedIn post using the new REST API (single image or text-only)."""
+    """Create one LinkedIn ugcPost (legacy v2 API)."""
     if dry_run:
         log.info(f"  [DRY RUN] LinkedIn post to {author_urn}")
         return "dry-run-li"
 
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type":  "application/json",
-        "LinkedIn-Version": "202412",
-        "X-Restli-Protocol-Version": "2.0.0",
-    }
+    media = []
+    if image_path and image_path.exists():
+        asset_urn = _li_upload_image(image_path, author_urn, token)
+        media = [{
+            "status": "READY",
+            "description": {"text": ""},
+            "media": asset_urn,
+            "title": {"text": ""},
+        }]
 
     payload = {
         "author": author_urn,
-        "commentary": caption,
-        "visibility": "PUBLIC",
-        "distribution": {
-            "feedDistribution": "MAIN_FEED",
-            "targetEntities": [],
-            "thirdPartyDistributionChannels": [],
-        },
         "lifecycleState": "PUBLISHED",
-        "isReshareDisabledByAuthor": False,
+        "specificContent": {
+            "com.linkedin.ugc.ShareContent": {
+                "shareCommentary": {"text": caption},
+                "shareMediaCategory": "IMAGE" if media else "NONE",
+                **({"media": media} if media else {}),
+            }
+        },
+        "visibility": {"com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"},
     }
 
-    if image_path and image_path.exists():
-        image_urn = _li_upload_image(image_path, author_urn, token)
-        payload["content"] = {
-            "media": {
-                "title": "",
-                "id": image_urn,
-            }
-        }
-
     r = requests.post(
-        "https://api.linkedin.com/rest/posts",
-        headers=headers,
+        "https://api.linkedin.com/v2/ugcPosts",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type":  "application/json",
+            "X-Restli-Protocol-Version": "2.0.0",
+        },
         json=payload,
         timeout=30,
     )
     r.raise_for_status()
-    post_id = r.headers.get("x-restli-id") or r.headers.get("X-RestLi-Id") or ""
-    log.info(f"  LinkedIn OK  → {author_urn}  post ID: {post_id}")
+    post_id = r.headers.get("x-restli-id") or r.json().get("id", "")
+    log.info(f"  LinkedIn OK  \u2192 {author_urn}  post ID: {post_id}")
     return post_id
 
 
 def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     """
-    Post to LinkedIn Company Page and/or personal profile.
-    Returns dict with 'company' and 'personal' keys.
+    Post to LinkedIn personal profile (and optionally company page).
+    Auto-detects the member URN from /v2/me to ensure it matches the token.
     """
-    token        = env("LI_ACCESS_TOKEN")
-    company_id   = env("LI_COMPANY_PAGE_ID", required=False)
-    personal_urn = env("LI_PERSONAL_URN", required=False)   # e.g. urn:li:person:XXXXXXX
+    token      = env("LI_ACCESS_TOKEN")
+    company_id = env("LI_COMPANY_PAGE_ID", required=False)
 
     caption = post["caption"]
     if post.get("hashtags") and post["hashtags"] not in caption:
@@ -345,16 +364,24 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
         caption += f"\n\n{post['website_link']}"
 
     audience = post.get("li_audience", "Both").lower()
-    image    = images[0] if images else None   # LinkedIn single image per post
+    image    = images[0] if images else None
     results  = {}
+
+    if audience in ("both", "personal"):
+        try:
+            member_urn = _li_get_member_urn(token)
+        except Exception as e:
+            log.error(f"  Could not get member URN from /v2/me: {e}")
+            member_urn = None
+
+        if member_urn:
+            results["personal"] = _li_post(member_urn, token, caption, image, dry_run)
 
     if company_id and audience in ("company",):
         company_urn = f"urn:li:organization:{company_id}"
         results["company"] = _li_post(company_urn, token, caption, image, dry_run)
 
-    if personal_urn and audience in ("both", "personal"):
-        results["personal"] = _li_post(personal_urn, token, caption, image, dry_run)
-
+    return results
     return results
 
 
