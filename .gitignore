@@ -1,0 +1,24 @@
+# Generated build outputs (large — don't commit)
+generated_images/
+backgrounds/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Fonts (large binary files — stay local)
+*.otf
+*.ttf
+
+# Local build tools (not needed by GitHub Actions)
+generate_backgrounds.py
+generate_images.py
+build_images.py
+push_images.py
+
+# Sensitive credentials (never commit)
+CREDENTIALS_READY.md
+
+# macOS
+.DS_Store

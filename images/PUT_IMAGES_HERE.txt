@@ -1,0 +1,16 @@
+DROP YOUR NANOBANA.AI IMAGES INTO THIS FOLDER.
+
+Naming convention:
+  Single posts:   YYYY-MM-DD-platform.jpg
+  Carousel slide: YYYY-MM-DD-platform-slideN.jpg
+
+Examples:
+  2026-04-09-instagram.jpg
+  2026-04-09-instagram-slide1.jpg
+  2026-04-09-instagram-slide2.jpg
+  2026-04-10-linkedin.jpg
+  2026-04-14-facebook.jpg
+
+Supported formats: .jpg  .jpeg  .png
+
+The posting script finds images automatically by filename on the scheduled date.
