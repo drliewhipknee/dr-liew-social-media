@@ -258,7 +258,7 @@ def _li_upload_image(image_path: Path, author_urn: str, token: str) -> str:
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type":  "application/json",
-        "LinkedIn-Version": "202401",
+        "LinkedIn-Version": "20250101",
         "X-Restli-Protocol-Version": "2.0.0",
     }
 
@@ -291,7 +291,7 @@ def _li_post(author_urn: str, token: str, caption: str, image_path: Path | None,
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type":  "application/json",
-        "LinkedIn-Version": "202401",
+        "LinkedIn-Version": "20250101",
         "X-Restli-Protocol-Version": "2.0.0",
     }
 
