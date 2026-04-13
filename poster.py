@@ -81,16 +81,15 @@ def find_images(post: dict) -> list[Path]:
 
 
 # ── Image upload for Instagram (needs a public URL) ────────────────────────────
-# Uses GitHub raw content URLs — images are already in the repo so no extra
-# service or API key is needed. Format:
-#   https://raw.githubusercontent.com/{owner}/{repo}/{branch}/images/{filename}
+# Uses jsDelivr CDN to serve GitHub-hosted images with proper content-type headers.
+# Instagram's API rejects raw.githubusercontent.com URLs; jsDelivr works reliably.
+# Format: https://cdn.jsdelivr.net/gh/{owner}/{repo}@main/images/{filename}
 def upload_image_for_instagram(image_path: Path) -> str:
     """Return a publicly accessible URL for an image already committed to the repo."""
-    github_repo  = env("GITHUB_REPOSITORY")   # e.g. "cwliew1/dr-liew-social"
-    github_sha   = env("GITHUB_SHA", required=False) or "main"  # commit SHA or branch
+    github_repo  = env("GITHUB_REPOSITORY")   # e.g. "drliewhipknee/dr-liew-social-media"
     filename     = image_path.name
-    url = f"https://raw.githubusercontent.com/{github_repo}/{github_sha}/images/{filename}"
-    log.info(f"  GitHub raw image URL: {url}")
+    url = f"https://cdn.jsdelivr.net/gh/{github_repo}@main/images/{filename}"
+    log.info(f"  jsDelivr CDN image URL: {url}")
     return url
 
 
