@@ -263,7 +263,7 @@ def _li_get_member_urn(token: str) -> str:
         },
         timeout=10,
     )
-    log.info(f"  /v2/me → {r.status_code} {r.text[:300]}")
+    log.info(f"  /v2/me \u2192 {r.status_code} {r.text[:300]}")
     r.raise_for_status()
     member_id = r.json().get("id", "")
     urn = f"urn:li:person:{member_id}"
@@ -345,14 +345,15 @@ def _li_post(author_urn: str, token: str, caption: str, image_path: Path | None,
     )
     r.raise_for_status()
     post_id = r.headers.get("x-restli-id") or r.json().get("id", "")
-    log.info(f"  LinkedIn OK  → {author_urn}  post ID: {post_id}")
+    log.info(f"  LinkedIn OK  \u2192 {author_urn}  post ID: {post_id}")
     return post_id
 
 
 def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     """
-    Post to LinkedIn personal profile (and optionally company page).
+    Post to LinkedIn personal profile and/or company page.
     Falls back to LI_PERSONAL_URN secret if /v2/me is unavailable.
+    ugcPosts requires urn:li:member:\d+ for personal, urn:li:organization:\d+ for company.
     """
     token      = env("LI_ACCESS_TOKEN")
     company_id = env("LI_COMPANY_PAGE_ID", required=False)
@@ -368,23 +369,38 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     results  = {}
 
     if audience in ("both", "personal"):
-        # Try /v2/me first; fall back to the stored LI_PERSONAL_URN secret
+        # Try /v2/me first; fall back to stored LI_PERSONAL_URN.
+        # ugcPosts requires urn:li:member:ID — normalise any urn:li:person: prefix.
         member_urn = env("LI_PERSONAL_URN", required=False)
+        if member_urn and member_urn.startswith("urn:li:person:"):
+            member_urn = member_urn.replace("urn:li:person:", "urn:li:member:", 1)
+            log.info(f"  Normalised personal URN to {member_urn}")
         try:
-            member_urn = _li_get_member_urn(token)
+            detected = _li_get_member_urn(token)
+            if detected.startswith("urn:li:person:"):
+                detected = detected.replace("urn:li:person:", "urn:li:member:", 1)
+            member_urn = detected
         except Exception as e:
-            log.warning(f"  /v2/me unavailable ({e}); falling back to LI_PERSONAL_URN={member_urn}")
+            log.warning(f"  /v2/me unavailable ({e}); using LI_PERSONAL_URN={member_urn}")
 
         if member_urn:
-            results["personal"] = _li_post(member_urn, token, caption, image, dry_run)
+            try:
+                results["personal"] = _li_post(member_urn, token, caption, image, dry_run)
+            except Exception as e:
+                log.error(f"  Personal LinkedIn post failed: {e}")
+                results["personal_error"] = str(e)
         else:
             log.error("  No member URN available — skipping personal LinkedIn post")
 
-    if company_id and audience in ("company",):
+    # Company page: post when audience is "company" or "both"
+    if company_id and audience in ("both", "company"):
         company_urn = f"urn:li:organization:{company_id}"
-        results["company"] = _li_post(company_urn, token, caption, image, dry_run)
-
-    return results
+        try:
+            results["company"] = _li_post(company_urn, token, caption, image, dry_run)
+        except Exception as e:
+            log.error(f"  Company LinkedIn post failed: {e}")
+            results["company_error"] = str(e)
+            raise  # re-raise so main loop counts this as an error
 
 # ══════════════════════════════════════════════════════════════════════════════
 # MAIN ORCHESTRATOR
