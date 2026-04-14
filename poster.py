@@ -149,20 +149,20 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        # Single image: upload unpublished, then publish via /feed (required for Business Suite pages)
+        # Single image: upload unpublished via JSON, then publish via /feed
         r = requests.post(
             f"{base}/photos",
-            data={"access_token": page_token, "published": "false", "url": cdn_url(images[0])},
+            json={"access_token": page_token, "published": False, "url": cdn_url(images[0])},
             timeout=60,
         )
         r.raise_for_status()
         photo_id = r.json()["id"]
         r = requests.post(
             f"{base}/feed",
-            data={
+            json={
                 "message": caption,
                 "access_token": page_token,
-                "attached_media[0]": json.dumps({"media_fbid": photo_id}),
+                "attached_media": [{"media_fbid": photo_id}],
             },
             timeout=30,
         )
