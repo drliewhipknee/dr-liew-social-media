@@ -149,10 +149,10 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        # Single image: upload unpublished via JSON, then publish via /feed
+        # Single image: upload to photo library (no_story=true), then post via /feed
         r = requests.post(
             f"{base}/photos",
-            json={"access_token": page_token, "published": False, "url": cdn_url(images[0])},
+            json={"access_token": page_token, "no_story": True, "url": cdn_url(images[0])},
             timeout=60,
         )
         r.raise_for_status()
