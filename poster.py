@@ -122,7 +122,7 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
         log.info(f"  [DRY RUN] Facebook — would post: {post['topic'][:60]}")
         return "dry-run-fb"
 
-    base = f"https://graph.facebook.com/v19.0/{page_id}"
+    base = f"https://graph.facebook.com/v21.0/{page_id}"
 
     if len(images) > 1:
         # Carousel: upload each image as unpublished, then create multi-photo post
@@ -146,13 +146,26 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
+        # Upload photo as unpublished first, then publish via /feed
+        # (avoids #200 publish_actions error on Business Suite pages)
         with open(images[0], "rb") as f:
             r = requests.post(
                 f"{base}/photos",
-                data={"caption": caption, "access_token": page_token},
+                data={"access_token": page_token, "published": "false"},
                 files={"source": f},
                 timeout=60,
             )
+        r.raise_for_status()
+        photo_id = r.json()["id"]
+        r = requests.post(
+            f"{base}/feed",
+            data={
+                "message": caption,
+                "access_token": page_token,
+                "attached_media[0]": json.dumps({"media_fbid": photo_id}),
+            },
+            timeout=30,
+        )
     else:
         r = requests.post(
             f"{base}/feed",
