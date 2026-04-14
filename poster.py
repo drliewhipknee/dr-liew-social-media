@@ -149,10 +149,10 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        # Single image: post via /feed with link URL (avoids /photos permission block)
+        # Post caption as text-only to /feed (image endpoint blocked by Facebook API for this app)
         r = requests.post(
             f"{base}/feed",
-            json={"message": caption, "access_token": page_token, "link": cdn_url(images[0])},
+            json={"message": caption, "access_token": page_token},
             timeout=30,
         )
     else:
