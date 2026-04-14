@@ -124,17 +124,20 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
 
     base = f"https://graph.facebook.com/v21.0/{page_id}"
 
+    github_repo = env("GITHUB_REPOSITORY")
+
+    def cdn_url(img_path: Path) -> str:
+        return f"https://cdn.jsdelivr.net/gh/{github_repo}@main/images/{img_path.name}"
+
     if len(images) > 1:
-        # Carousel: upload each image as unpublished, then create multi-photo post
+        # Carousel: upload each image via URL as unpublished, then post to feed
         media_ids = []
         for img in images:
-            with open(img, "rb") as f:
-                r = requests.post(
-                    f"{base}/photos",
-                    data={"access_token": page_token, "published": "false"},
-                    files={"source": f},
-                    timeout=60,
-                )
+            r = requests.post(
+                f"{base}/photos",
+                data={"access_token": page_token, "published": "false", "url": cdn_url(img)},
+                timeout=60,
+            )
             r.raise_for_status()
             media_ids.append(r.json()["id"])
             time.sleep(1)
@@ -146,13 +149,12 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        with open(images[0], "rb") as f:
-            r = requests.post(
-                f"{base}/photos",
-                data={"caption": caption, "access_token": page_token, "published": "true"},
-                files={"source": f},
-                timeout=60,
-            )
+        # Single image: post via URL to avoid file-upload permission issues
+        r = requests.post(
+            f"{base}/photos",
+            data={"caption": caption, "access_token": page_token, "url": cdn_url(images[0])},
+            timeout=60,
+        )
     else:
         r = requests.post(
             f"{base}/feed",
