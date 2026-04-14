@@ -149,10 +149,10 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        # Post caption as text-only to /feed (image endpoint blocked by Facebook API for this app)
+        # Post caption as text-only to /feed using form-encoded (consistent with carousel approach)
         r = requests.post(
             f"{base}/feed",
-            json={"message": caption, "access_token": page_token},
+            data={"message": caption, "access_token": page_token},
             timeout=30,
         )
     else:
