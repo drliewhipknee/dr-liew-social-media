@@ -456,25 +456,4 @@ More at drchienwenliew.com.au \ud83d\udd17 Link in bio""" + DISCLAIMER_IG,
 "image_file":"2026-05-05-facebook.jpg",
 "nanobanana_prompt":"Facebook image 1200x630px. Navy background. White heading: 'Total Knee Replacement in Adelaide'. Teal subheading: 'Dr Chien-Wen Liew | Orthopaedics 360'. Minimal knee joint outline. Professional, trustworthy design."},
 
-{"id":79,"date":"2026-04-15","day":"Wednesday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Eastwood Private Hospital",
-"caption":"""One of the parts of recovery that I have noticed over the past 12 years in the private sector has been the vast differences in hospital facilities. Many hospitals were older, being constructed over 30 years ago, with little ability to renovate and improve as technology changed, and standards improved. At some point, it becomes difficult to start fresh.
-
-That\u2019s when we heard and saw Eastwood Private. We were lucky enough to move into one of Adelaide\u2019s most beautiful hospitals \u2014 rooms that overlook the parklands or curated gardens internally, and the most advanced, technological equipment available today.
-
-Our rooms are on level 2, and we\u2019re excited about the vast array of services that the hospital can now take care of, including physiotherapy, radiology, and other orthopaedic specialists.""",
-"hashtags":"#orthopaedics360 #eastwoodprivate #hospital #adelaide #sagreat",
-"website_link":"","image_file":"2026-04-15-instagram.jpg",
-"nanobanana_prompt":""},
-
-{"id":80,"date":"2026-04-17","day":"Friday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Colleagues at Orthopaedics 360",
-"caption":"""Going over my career in orthopaedics, one thing stood out \u2014 being surrounded by amazing people. Here are my 3 colleagues, and all round amazing team from Orthopaedics 360.
-
-We started Orthopaedics 360 in 2017, when we realised that we all shared the same goal \u2014 to provide the very best patient care that we could with a similar philosophy. We had all spent time and effort curating our orthopaedic skills into narrow focus, tissue sparing methods.
-
-And when you have colleagues who are also friends, it makes it an amazing collaboration and a lot of fun. These are some of the brightest minds I\u2019ve come across, and a fantastic group of people too. Plus, they all work out extremely hard at the gym \u2014 keeping each other accountable in all facets of life and orthopaedics.""",
-"hashtags":"#orthopaedics #sagreat #bestcolleagues #doctorshavingfun @orthopaedics360 #eastwoodprivate",
-"website_link":"","image_file":"2026-04-17-instagram.jpg",
-"nanobanana_prompt":""},
 ]
