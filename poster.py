@@ -19,6 +19,9 @@ Usage:
 import os, sys, json, time, logging, argparse, re
 from datetime import date, datetime
 from pathlib import Path
+import zoneinfo
+
+ADELAIDE_TZ = zoneinfo.ZoneInfo('Australia/Adelaide')
 
 import requests
 
@@ -50,15 +53,32 @@ def env(key, required=True):
     return val
 
 # ── Post data import ───────────────────────────────────────────────────────────
+# Load ALL posts from both files and merge — posts_data.py has Apr/early-May,
+# posts_data2.py has May 8 onwards. Both are needed to cover the full schedule.
 sys.path.insert(0, str(Path(__file__).parent))
+POSTS = []
 try:
-    from posts_data2 import POSTS
+    from posts_data import POSTS as _P1
+    POSTS += _P1
 except ImportError:
-    try:
-        from posts_data import POSTS
-    except ImportError:
-        log.error("Cannot import POSTS from posts_data.py or posts_data2.py")
-        sys.exit(1)
+    pass
+try:
+    from posts_data2 import POSTS as _P2
+    POSTS += _P2
+except ImportError:
+    pass
+if not POSTS:
+    log.error("Cannot import POSTS from posts_data.py or posts_data2.py")
+    sys.exit(1)
+# Deduplicate by (date, platform) — keep first occurrence
+_seen = set()
+_deduped = []
+for _p in POSTS:
+    _key = (_p["date"], _p.get("platform", ""))
+    if _key not in _seen:
+        _seen.add(_key)
+        _deduped.append(_p)
+POSTS = _deduped
 
 # ── Image helpers ──────────────────────────────────────────────────────────────
 IMAGES_DIR = Path(__file__).parent / "images"
@@ -149,10 +169,18 @@ def post_facebook(post: dict, images: list[Path], dry_run: bool) -> str | None:
             timeout=30,
         )
     elif images:
-        # Post caption as text-only to /feed using form-encoded (consistent with carousel approach)
+        # Single image: upload unpublished then publish via /feed (works from non-cloud IPs)
+        r = requests.post(
+            f"{base}/photos",
+            data={"access_token": page_token, "published": "false", "url": cdn_url(images[0])},
+            timeout=60,
+        )
+        r.raise_for_status()
+        photo_id = r.json()["id"]
         r = requests.post(
             f"{base}/feed",
-            data={"message": caption, "access_token": page_token},
+            data={"message": caption, "access_token": page_token,
+                  "attached_media[0]": json.dumps({"media_fbid": photo_id})},
             timeout=30,
         )
     else:
@@ -494,7 +522,7 @@ def run(target_date: str, dry_run: bool, platform_filter: str = "all"):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Dr Liew social media auto-poster")
-    parser.add_argument("--date",     default=str(date.today()), help="Target date YYYY-MM-DD (default: today)")
+    parser.add_argument("--date",     default=datetime.now(ADELAIDE_TZ).strftime('%Y-%m-%d'), help="Target date YYYY-MM-DD (default: today in Adelaide time)")
     parser.add_argument("--dry-run",  action="store_true",        help="Show what would be posted without posting")
     parser.add_argument("--platform", default="all",              help="Platform filter: linkedin, facebook, instagram, or all (default: all)")
     args = parser.parse_args()
