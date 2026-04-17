@@ -409,7 +409,7 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
     if post.get("website_link"):
         caption += f"\n\n{post['website_link']}"
 
-    audience = post.get("li_audience", "Both").lower()
+    audience = (post.get("li_audience") or "Both").lower()
     image    = images[0] if images else None
     results  = {}
     personal_failed = False
