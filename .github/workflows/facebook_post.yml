@@ -1,8 +1,6 @@
-name: Facebook Post (3:30pm ACST)
+name: Facebook Post (Mac scheduled task only — do not use)
 
 on:
-  schedule:
-    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       date:
