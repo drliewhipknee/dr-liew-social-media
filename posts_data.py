@@ -235,7 +235,7 @@ Questions about your specific procedure? Visit drchienwenliew.com.au 🔗 Link i
 "format":"Post","topic":"Direct Anterior Approach for THA — Clinical Advantages and Patient Selection",
 "caption":"""The direct anterior approach (DAA) for total hip arthroplasty: clinical rationale and patient selection criteria.
 
-The DAA has become an important part of my surgical practice for primary total hip replacement. It is not the ONLY method I perform
+The DAA has become an important part of my surgical practice for primary total hip replacement. It is now the ONLY method I perform
 
 What the literature supports:
 
@@ -250,10 +250,10 @@ What it does not guarantee:
 The DAA has its own complication profile — particularly around femoral stem preparation and acetabular component positioning in patients with challenging anatomy. Higher BMI, muscular thighs, limited pre-operative ROM, and prior hip surgery all increase technical difficulty.
 
 My patient selection criteria for DAA:
-▸ No significant ceongenital abnormalities (ie severe dysplasia)
+▸ No significant congenital abnormalities (ie severe dysplasia)
 ▸ A fused hip
 
-I use the DAA routinely for all patients. I no longer offer anything else. The approach should serve the patient.
+I use the DAA routinely for all patients. I no longer offer anything else. The approach should serve the patient. If a patient has anatomy that won't work, I refer on. 
 
 Open to discussion with colleagues on selection criteria or specific cases.
 
