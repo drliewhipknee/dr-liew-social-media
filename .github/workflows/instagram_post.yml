@@ -1,8 +1,8 @@
-name: Instagram Post (6:30pm ACST)
+name: Instagram Post (4:30pm ACST)
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
       date:
