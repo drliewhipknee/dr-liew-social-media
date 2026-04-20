@@ -293,7 +293,7 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
 # LINKEDIN  (new Posts API — /rest/posts, LinkedIn-Version 202401)
 # ══════════════════════════════════════════════════════════════════════════════
 
-LI_VERSION = "202603"
+LI_VERSION = "202401"
 
 
 def _li_get_member_urn(token: str) -> str:
@@ -379,13 +379,14 @@ def _li_post_new(author_urn: str, token: str, caption: str, image_path: Path | N
         image_urn = _li_upload_image_new(author_urn, token, image_path)
         body["content"] = {"media": {"id": image_urn}}
 
+    log.info(f"  Sending commentary ({len(caption)} chars): {caption[:120]!r}")
     r = requests.post(
         "https://api.linkedin.com/rest/posts",
         headers=headers,
         json=body,
         timeout=30,
     )
-    log.info(f"  /rest/posts → {r.status_code} {r.text[:300]}")
+    log.info(f"  /rest/posts → {r.status_code} {r.text[:500]}")
     r.raise_for_status()
     try:
         post_id = r.headers.get("x-restli-id") or r.json().get("id", "unknown")
