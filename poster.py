@@ -94,13 +94,13 @@ def find_images(post: dict) -> list[Path]:
     plat  = post["platform"].lower()
     fmt   = post.get("format", "").lower()
 
-    if "carousel" in fmt:
+    if "carousel" in fmt or "infographic" in fmt:
         slides = sorted(IMAGES_DIR.glob(f"{d}-{plat}-slide*.jpg"))
         if not slides:
             slides = sorted(IMAGES_DIR.glob(f"{d}-{plat}-slide*.png"))
         if slides:
             return slides
-        log.warning(f"No carousel slide images found for post {post['id']} — falling back to single image")
+        log.warning(f"No carousel/infographic slide images found for post {post['id']} — falling back to single image")
 
     # single image
     for ext in ("jpg", "jpeg", "png"):

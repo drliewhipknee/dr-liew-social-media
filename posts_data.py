@@ -30,7 +30,7 @@ Orthopaedics 360 | drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipArthritis #HipReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #Osteoarthritis #ArthritisAwareness #HipHealth #PatientEducation #AdelaideHealth #DrChienWenLiew #BoneHealth #HipPain",
 "website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-04-09-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D medical render of healthy hip joint cartilage, glistening smooth surfaces, warm studio lighting, dark background, no text|3D render of severely worn hip joint showing bone-on-bone contact, arthritic erosion visible, clinical close-up, dark background|Illustrated cross-section of hip joint showing cartilage layers and synovial fluid, medical visualisation, deep navy tones|Older person wincing and gently holding their hip, soft window light, figure blurred, empathetic lifestyle photograph, no face visible"""},
 
 {"id":2,"date":"2026-04-10","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Article","topic":"When Should a GP Refer for Hip Replacement?",
@@ -61,7 +61,7 @@ What factors most commonly lead you to delay referral? I’d welcome your perspe
 #Orthopaedics #GPReferral #TotalHipReplacement #ArthroplastyAustralia #AdelaideOrthopedics #MedEd #HipSurgeon #JointReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-04-10-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Two physicians in warm consultation, one gesturing toward an open patient file across a timber desk, professional office lighting, figures softly focused, no faces visible, premium private medical environment"""},
 
 {"id":3,"date":"2026-04-12","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"5 Signs You Might Need a Knee Replacement",
@@ -85,7 +85,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #KneeArthritis #KneePain #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalKneeReplacement #KneeHealth #JointHealth #PatientEducation #AdelaideHealth #Osteoarthritis #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-04-12-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Close-up 3D render of knee joint showing worn cartilage and exposed bone, dark background, photorealistic studio lighting|X-ray of arthritic knee on illuminated medical light box, blue-white glow, dark dramatic background|Person holding their knee in mild discomfort, soft warm natural light, figure gently blurred, no face visible|Person walking carefully down a flight of stairs, warmly lit corridor, figure softly focused, no face visible"""},
 
 {"id":4,"date":"2026-04-13","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Dr Liew's Approach to Total Joint Replacement",
@@ -110,7 +110,7 @@ Happy to connect with GP colleagues or discuss cases informally.
 #Arthroplasty #TotalJointReplacement #HipSurgeon #KneeSurgeon #OrthopaedicSurgery #AdelaideOrthopedics #SurgicalTechnique #MedEd""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-04-13-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Elegant private hospital consulting room, dark timber desk, leather chair, architectural lamp, warm-cool contrast lighting, framed credentials on wall, no people, premium interior design photography"""},
 
 {"id":5,"date":"2026-04-14","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Am I Too Old for a Hip Replacement?",
@@ -137,7 +137,7 @@ Full guide at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipReplacement #AgeAndSurgery #AdelaideOrthopaedicSurgeon #TotalHipReplacement #Osteoarthritis #JointHealth #Orthopaedics360 #HipHealth #AdelaideHealth #PatientEducation #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-04-14-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Active man in his 70s playing lawn bowls on a manicured green, figure soft and joyful in warm afternoon light, sweeping lawn, social and aspirational, people are background elements"""},
 
 {"id":6,"date":"2026-04-14","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Am I Too Old for a Hip Replacement?",
@@ -156,7 +156,7 @@ I’ve written a detailed guide on this topic — you can read it at the link be
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #HipReplacement #JointHealth #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-04-14-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Couple in their 70s walking hand-in-hand on a tree-lined park path, golden afternoon light filtering through leaves, figures warmly lit and softly blurred, aspirational lifestyle photography"""},
 
 {"id":7,"date":"2026-04-16","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"5 Myths About Knee Replacement — Debunked",
@@ -175,7 +175,7 @@ Swipe to get the evidence-based truth on each one →
 Visit drchienwenliew.com.au to learn more.""",
 "hashtags":"#KneeReplacement #TotalKneeReplacement #KneeMyths #MedicalMyths #AdelaideOrthopaedicSurgeon #Orthopaedics360 #KneeHealth #Osteoarthritis #JointHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/knee-replacement-techniques/","image_file":"2026-04-16-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of total knee replacement implant components, polished cobalt chrome femoral shell and white polyethylene tibial insert, dark studio background, cinematic product photography|Person swimming laps in a sunlit outdoor pool, overhead shot, water surface and light caustics the hero, figure motion-blurred, deep blue water|Person cycling confidently on a bike path at golden hour, figure soft against warm amber sky and green trees, aspirational|Active person kneeling in a garden, soft morning light, figure warm and blurred, no face visible, lifestyle photography"""},
 
 {"id":8,"date":"2026-04-17","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"My Lateral Curved Incision for TKR",
@@ -200,7 +200,7 @@ Happy to discuss with any colleagues considering a similar approach.
 #TotalKneeReplacement #SurgicalTechnique #Arthroplasty #KneeSurgeon #AdelaideOrthopedics #MedEd #OrthopedicSurgery""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/my-lateral-curved-incision-for-total-knee-replacements/","image_file":"2026-04-17-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Close-up of surgeon's gloved hands poised over a sterile blue surgical drape, operating room bokeh in background, cool precise surgical lighting, no instruments or blood, professional medical photography"""},
 
 {"id":9,"date":"2026-04-19","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"What Happens on the Day of Surgery?",
@@ -229,7 +229,7 @@ Questions about your specific procedure? Visit drchienwenliew.com.au 🔗 Link i
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#SurgeryDay #HipReplacement #KneeReplacement #JointReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #WhatToExpect #AdelaideHealth #OrthopedicSurgery #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-04-19-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Modern private hospital corridor at dusk, pristine white floor reflecting soft blue overhead lights, a single nurse in scrubs walking away in the distance, blurred, clinical and reassuring, no text"""},
 
 {"id":10,"date":"2026-04-20","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Direct Anterior Approach for THA — Clinical Advantages and Patient Selection",
@@ -260,7 +260,7 @@ Open to discussion with colleagues on selection criteria or specific cases.
 #AnteriorHipReplacement #DirectAnteriorApproach #TotalHipReplacement #HipSurgeon #Arthroplasty #AdelaideOrthopedics #SurgicalTechnique #MedEd""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/direct-anterior-approach/","image_file":"2026-04-20-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Orthopaedic surgeon reviewing 3D hip anatomy on a clinical light table, figure thoughtful and slightly blurred, warm desk lamp glow, medical journals in soft background, scholarly professional setting"""},
 
 {"id":11,"date":"2026-04-21","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"The Hip Joint: A Visual Guide",
@@ -285,7 +285,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipAnatomy #HipJoint #HipArthritis #Orthopaedics360 #AdelaideOrthopaedicSurgeon #PatientEducation #HipHealth #Osteoarthritis #AdelaideHealth #BoneHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-04-21-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of femoral head and acetabulum in close contact, smooth ivory bone surfaces, dramatic studio lighting, dark background|3D render of full pelvis and proximal femur from anterior view, clean clinical studio lighting, dark navy background|Detailed 3D render of hip joint labrum and articular cartilage, cross-section view, warm clinical lighting|Illustrated anatomical view of hip joint capsule and ligaments, medical model precision, dark navy background"""},
 
 {"id":12,"date":"2026-04-21","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Am I Too Young for a Knee Replacement?",
@@ -308,7 +308,7 @@ Dr Liew’s full guide on this topic is at the link below.
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #KneeReplacement #JointHealth #OrthopaedicSurgery #SouthAustralia #Arthroplasty",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-04-21-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Active person in their 40s doing yoga in a bright sunlit studio, figure warm and softly focused, timber floors, large windows, peaceful and aspirational, no face visible"""},
 
 {"id":13,"date":"2026-04-23","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"Recovery Timeline After Total Knee Replacement",
@@ -334,7 +334,7 @@ Full recovery information at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #TKR #KneeReplacementRecovery #Orthopaedics360 #AdelaideOrthopaedicSurgeon #JointReplacement #RecoveryTimeline #PatientJourney #PostOpCare #AdelaideHealth #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-04-23-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person using a walking frame in a bright hospital corridor, figure softly backlit and blurred, warm clinical light, no face visible|Person doing gentle knee flexion exercises in a sunny home interior, figure soft and engaged, warm domestic setting|Person walking confidently on a suburban footpath, golden autumn trees, warm morning light, figure soft and progressing|Pair of people walking briskly in a park with coffee cups, green trees, soft morning light, social and aspirational"""},
 
 {"id":14,"date":"2026-04-24","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Hip vs Knee Arthritis — Differentiating for Referral",
@@ -365,7 +365,7 @@ Happy to discuss referral cases informally before you send them through.
 #Orthopaedics #HipArthritis #KneeArthritis #GPReferral #AdelaideOrthopedics #DiagnosticPearl #MedEd #ArthroplastyAustralia""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-04-24-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""GP reviewing hip and knee X-ray images on a medical lightbox, figure silhouetted against blue-white glow, professional clinical environment, medical photography, no text"""},
 
 {"id":15,"date":"2026-04-26","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Hip vs Knee Arthritis — Patient Guide",
@@ -395,7 +395,7 @@ Learn more at drchienwenliew.com.au
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipArthritis #KneeArthritis #JointPain #Osteoarthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #HipPain #KneePain #AdelaideHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-04-26-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person sitting on a park bench gently massaging their hip, soft morning light, lush trees in background, figure gently focused, empathetic lifestyle photography, no face visible"""},
 
 {"id":16,"date":"2026-04-27","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Pre-Operative Optimisation Before TJR",
@@ -420,7 +420,7 @@ If you’re referring a patient for joint replacement, flagging these issues ear
 #Arthroplasty #PreOperativeOptimisation #TotalJointReplacement #GPReferral #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-04-27-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Modern clinical assessment room, blood pressure cuff and medical equipment on a timber tray, clean white surfaces, soft warm lighting, no people, premium healthcare still life photography"""},
 
 {"id":17,"date":"2026-04-28","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Quote Card","topic":"Dr Liew Quote — Restoring Quality of Life",
@@ -437,7 +437,7 @@ Adelaide Hip & Knee Replacement Surgeon
 Orthopaedics 360 | drchienwenliew.com.au""",
 "hashtags":"#Orthopaedics360 #AdelaideOrthopaedicSurgeon #HipReplacement #KneeReplacement #DrChienWenLiew #JointReplacement #AdelaideHealth #PatientCare #MedicalProfessional #WhyIMedicine",
 "website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-04-28-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Older couple walking along a quiet beach at low tide, small warm silhouettes against a wide expanse of pale sand and soft blue ocean, golden late afternoon light, fine art lifestyle photography"""},
 
 {"id":18,"date":"2026-04-28","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Pre-Operative Information for Hip & Knee Surgery",
@@ -460,7 +460,7 @@ We’ve put together a detailed pre-operative guide at the link below — it cov
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #SurgeryPrep #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-04-28-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Bright private hospital room, crisp white linen on a modern adjustable bed, warm sunlight through large window, fresh flowers on the bedside table, no people, welcoming and reassuring interior photography"""},
 
 {"id":19,"date":"2026-04-30","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"5 Exercises to Help Before Your Knee Replacement",
@@ -482,7 +482,7 @@ Full patient information at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneePrehab #KneeReplacement #TKR #ExerciseBeforeSurgery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PhysioLife #JointHealth #KneeHealth #PatientJourney #AdelaideHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-04-30-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person doing gentle seated leg raises in a bright sunlit home, figure soft and engaged, no face visible|Person standing and doing wall squats, home environment, natural light, figure slightly blurred|Person doing calf raises holding a kitchen bench, warm domestic setting, morning light|Person walking briskly in a neighbourhood park, green trees, golden morning light, figure soft and aspirational"""},
 
 {"id":20,"date":"2026-05-01","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Post-Operative Complication Prevention in TJR",
@@ -507,7 +507,7 @@ For GP colleagues: early recognition of post-operative complications is importan
 #TotalJointReplacement #ComplicationPrevention #ArthroplastyAustralia #GPReferral #MedEd #Orthopaedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement-risk-factors/","image_file":"2026-05-01-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Medical monitoring equipment in a softly lit post-operative recovery bay, muted blue and warm white tones, no patients, premium healthcare interior photography"""},
 
 {"id":21,"date":"2026-05-03","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"BMI and Joint Replacement Surgery",
@@ -533,7 +533,7 @@ drchienwenliew.com.au
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#BMIAndSurgery #HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #SurgicalRisk #PatientEducation #AdelaideHealth #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-05-03-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person walking briskly along a coastal path, figure softly blurred against wide blue ocean and pale sky, aspirational and active, no face visible, editorial lifestyle photography"""},
 
 {"id":22,"date":"2026-05-04","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"The Role of Physiotherapy in Joint Replacement",
@@ -560,7 +560,7 @@ If your patient is struggling with physiotherapy engagement or progress, please 
 #PhysiotherapyAndSurgery #TotalJointReplacement #Arthroplasty #MedEd #GPReferral #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-05-04-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Physiotherapist guiding a patient through knee exercises in a bright rehabilitation gym, figures softly blurred, natural light through large windows, no faces clearly visible, professional healthcare photography"""},
 
 {"id":23,"date":"2026-05-05","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"The Knee Joint: Anatomy & What Gets Replaced",
@@ -585,7 +585,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #TKR #KneeAnatomy #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalKneeReplacement #KneeImplant #PatientEducation #BoneHealth #AdelaideHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://www.youtube.com/watch?v=WvZQqRq_4mI","image_file":"2026-05-05-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of knee joint anatomy: distal femur and proximal tibia with smooth hyaline cartilage, dark background, studio lighting|3D render of total knee replacement components laid out: chrome femoral component, polyethylene insert, tibial baseplate, dark studio background|Illustrated cross-section of knee joint showing medial and lateral menisci and collateral ligaments, clinical render, dark navy|Photorealistic 3D render of cemented knee implant in anatomical position, side view, dark dramatic background"""},
 
 {"id":24,"date":"2026-05-05","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Total Knee Replacement in Adelaide",
@@ -604,7 +604,7 @@ I’ve written a detailed overview of the procedure and what to expect at the li
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #KneeReplacement #TotalKneeReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-05-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Aerial view of Adelaide city and parklands at golden hour, warm amber light across rooftops and river, no text, fine art landscape photography, premium and aspirational"""},
 
 {"id":25,"date":"2026-05-07","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"Hip Replacement Approaches Compared",
@@ -627,7 +627,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipReplacement #AnteriorHipReplacement #DirectAnteriorApproach #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalHipReplacement #HipSurgery #PatientEducation #AdelaideHealth #JointReplacement #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-05-07-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Surgical theatre viewed from above, sterile blue drapes across a patient, team of three surgeons working, figures blurred and abstracted, cool cinematic lighting|3D render of hip joint from posterior approach angle, acetabulum exposed, anatomical orientation, dark studio background|3D render of hip joint from anterior approach, femoral head elevated, anatomical orientation, dark dramatic background|Close-up of surgeon's gloved hands positioned precisely over blue sterile drape, soft clinical lighting, no blood"""},
 
 {"id":1,"date":"2026-04-09","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"What Is Hip Arthritis?",
@@ -649,7 +649,7 @@ Orthopaedics 360 | drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipArthritis #HipReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #Osteoarthritis #ArthritisAwareness #HipHealth #PatientEducation #AdelaideHealth #DrChienWenLiew #BoneHealth #HipPain",
 "website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-04-09-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D medical render of healthy hip joint cartilage, glistening smooth surfaces, warm studio lighting, dark background, no text|3D render of severely worn hip joint showing bone-on-bone contact, arthritic erosion visible, clinical close-up, dark background|Illustrated cross-section of hip joint showing cartilage layers and synovial fluid, medical visualisation, deep navy tones|Older person wincing and gently holding their hip, soft window light, figure blurred, empathetic lifestyle photograph, no face visible"""},
 
 {"id":2,"date":"2026-04-10","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Article","topic":"When Should a GP Refer for Hip Replacement?",
@@ -680,7 +680,7 @@ What factors most commonly lead you to delay referral? I’d welcome your perspe
 #Orthopaedics #GPReferral #TotalHipReplacement #ArthroplastyAustralia #AdelaideOrthopedics #MedEd #HipSurgeon #JointReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-04-10-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Two physicians in warm consultation, one gesturing toward an open patient file across a timber desk, professional office lighting, figures softly focused, no faces visible, premium private medical environment"""},
 
 {"id":3,"date":"2026-04-12","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"5 Signs You Might Need a Knee Replacement",
@@ -704,7 +704,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #KneeArthritis #KneePain #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalKneeReplacement #KneeHealth #JointHealth #PatientEducation #AdelaideHealth #Osteoarthritis #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-04-12-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Close-up 3D render of knee joint showing worn cartilage and exposed bone, dark background, photorealistic studio lighting|X-ray of arthritic knee on illuminated medical light box, blue-white glow, dark dramatic background|Person holding their knee in mild discomfort, soft warm natural light, figure gently blurred, no face visible|Person walking carefully down a flight of stairs, warmly lit corridor, figure softly focused, no face visible"""},
 
 {"id":4,"date":"2026-04-13","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Dr Liew's Approach to Total Joint Replacement",
@@ -729,7 +729,7 @@ Happy to connect with GP colleagues or discuss cases informally.
 #Arthroplasty #TotalJointReplacement #HipSurgeon #KneeSurgeon #OrthopaedicSurgery #AdelaideOrthopedics #SurgicalTechnique #MedEd""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-04-13-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Elegant private hospital consulting room, dark timber desk, leather chair, architectural lamp, warm-cool contrast lighting, framed credentials on wall, no people, premium interior design photography"""},
 
 {"id":5,"date":"2026-04-14","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Am I Too Old for a Hip Replacement?",
@@ -756,7 +756,7 @@ Full guide at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipReplacement #AgeAndSurgery #AdelaideOrthopaedicSurgeon #TotalHipReplacement #Osteoarthritis #JointHealth #Orthopaedics360 #HipHealth #AdelaideHealth #PatientEducation #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-04-14-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Active man in his 70s playing lawn bowls on a manicured green, figure soft and joyful in warm afternoon light, sweeping lawn, social and aspirational, people are background elements"""},
 
 {"id":6,"date":"2026-04-14","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Am I Too Old for a Hip Replacement?",
@@ -775,7 +775,7 @@ I’ve written a detailed guide on this topic — you can read it at the link be
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #HipReplacement #JointHealth #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-04-14-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Couple in their 70s walking hand-in-hand on a tree-lined park path, golden afternoon light filtering through leaves, figures warmly lit and softly blurred, aspirational lifestyle photography"""},
 
 {"id":7,"date":"2026-04-16","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"5 Myths About Knee Replacement — Debunked",
@@ -793,7 +793,7 @@ Orthopaedics 360 | drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #TotalKneeReplacement #KneeMyths #MedicalMyths #AdelaideOrthopaedicSurgeon #Orthopaedics360 #KneeHealth #Osteoarthritis #JointHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/knee-replacement-techniques/","image_file":"2026-04-16-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of total knee replacement implant components, polished cobalt chrome femoral shell and white polyethylene tibial insert, dark studio background, cinematic product photography|Person swimming laps in a sunlit outdoor pool, overhead shot, water surface and light caustics the hero, figure motion-blurred, deep blue water|Person cycling confidently on a bike path at golden hour, figure soft against warm amber sky and green trees, aspirational|Active person kneeling in a garden, soft morning light, figure warm and blurred, no face visible, lifestyle photography"""},
 
 {"id":8,"date":"2026-04-17","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"My Lateral Curved Incision for TKR",
@@ -818,7 +818,7 @@ Happy to discuss with any colleagues considering a similar approach.
 #TotalKneeReplacement #SurgicalTechnique #Arthroplasty #KneeSurgeon #AdelaideOrthopedics #MedEd #OrthopedicSurgery""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/my-lateral-curved-incision-for-total-knee-replacements/","image_file":"2026-04-17-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Close-up of surgeon's gloved hands poised over a sterile blue surgical drape, operating room bokeh in background, cool precise surgical lighting, no instruments or blood, professional medical photography"""},
 
 {"id":9,"date":"2026-04-19","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"What Happens on the Day of Surgery?",
@@ -847,7 +847,7 @@ Questions about your specific procedure? Visit drchienwenliew.com.au 🔗 Link i
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#SurgeryDay #HipReplacement #KneeReplacement #JointReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #WhatToExpect #AdelaideHealth #OrthopedicSurgery #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-04-19-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Modern private hospital corridor at dusk, pristine white floor reflecting soft blue overhead lights, a single nurse in scrubs walking away in the distance, blurred, clinical and reassuring, no text"""},
 
 {"id":10,"date":"2026-04-20","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Direct Anterior Approach for THA — Clinical Advantages and Patient Selection",
@@ -880,7 +880,7 @@ Open to discussion with colleagues on selection criteria or specific cases.
 #AnteriorHipReplacement #DirectAnteriorApproach #TotalHipReplacement #HipSurgeon #Arthroplasty #AdelaideOrthopedics #SurgicalTechnique #MedEd""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/direct-anterior-approach/","image_file":"2026-04-20-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Orthopaedic surgeon reviewing 3D hip anatomy on a clinical light table, figure thoughtful and slightly blurred, warm desk lamp glow, medical journals in soft background, scholarly professional setting"""},
 
 {"id":11,"date":"2026-04-21","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"The Hip Joint: A Visual Guide",
@@ -905,7 +905,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipAnatomy #HipJoint #HipArthritis #Orthopaedics360 #AdelaideOrthopaedicSurgeon #PatientEducation #HipHealth #Osteoarthritis #AdelaideHealth #BoneHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-04-21-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of femoral head and acetabulum in close contact, smooth ivory bone surfaces, dramatic studio lighting, dark background|3D render of full pelvis and proximal femur from anterior view, clean clinical studio lighting, dark navy background|Detailed 3D render of hip joint labrum and articular cartilage, cross-section view, warm clinical lighting|Illustrated anatomical view of hip joint capsule and ligaments, medical model precision, dark navy background"""},
 
 {"id":12,"date":"2026-04-21","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Am I Too Young for a Knee Replacement?",
@@ -928,7 +928,7 @@ Dr Liew’s full guide on this topic is at the link below.
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #KneeReplacement #JointHealth #OrthopaedicSurgery #SouthAustralia #Arthroplasty",
 "website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-04-21-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Active person in their 40s doing yoga in a bright sunlit studio, figure warm and softly focused, timber floors, large windows, peaceful and aspirational, no face visible"""},
 
 {"id":13,"date":"2026-04-23","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"Recovery Timeline After Total Knee Replacement",
@@ -954,7 +954,7 @@ Full recovery information at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #TKR #KneeReplacementRecovery #Orthopaedics360 #AdelaideOrthopaedicSurgeon #JointReplacement #RecoveryTimeline #PatientJourney #PostOpCare #AdelaideHealth #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-04-23-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person using a walking frame in a bright hospital corridor, figure softly backlit and blurred, warm clinical light, no face visible|Person doing gentle knee flexion exercises in a sunny home interior, figure soft and engaged, warm domestic setting|Person walking confidently on a suburban footpath, golden autumn trees, warm morning light, figure soft and progressing|Pair of people walking briskly in a park with coffee cups, green trees, soft morning light, social and aspirational"""},
 
 {"id":14,"date":"2026-04-24","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Hip vs Knee Arthritis — Differentiating for Referral",
@@ -985,7 +985,7 @@ Happy to discuss referral cases informally before you send them through.
 #Orthopaedics #HipArthritis #KneeArthritis #GPReferral #AdelaideOrthopedics #DiagnosticPearl #MedEd #ArthroplastyAustralia""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-04-24-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""GP reviewing hip and knee X-ray images on a medical lightbox, figure silhouetted against blue-white glow, professional clinical environment, medical photography, no text"""},
 
 {"id":15,"date":"2026-04-26","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Hip vs Knee Arthritis — Patient Guide",
@@ -1015,7 +1015,7 @@ Learn more at drchienwenliew.com.au
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipArthritis #KneeArthritis #JointPain #Osteoarthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #HipPain #KneePain #AdelaideHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-04-26-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person sitting on a park bench gently massaging their hip, soft morning light, lush trees in background, figure gently focused, empathetic lifestyle photography, no face visible"""},
 
 {"id":16,"date":"2026-04-27","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Pre-Operative Optimisation Before TJR",
@@ -1040,7 +1040,7 @@ If you’re referring a patient for joint replacement, flagging these issues ear
 #Arthroplasty #PreOperativeOptimisation #TotalJointReplacement #GPReferral #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-04-27-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Modern clinical assessment room, blood pressure cuff and medical equipment on a timber tray, clean white surfaces, soft warm lighting, no people, premium healthcare still life photography"""},
 
 {"id":17,"date":"2026-04-28","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Quote Card","topic":"Dr Liew Quote — Restoring Quality of Life",
@@ -1057,7 +1057,7 @@ Adelaide Hip & Knee Replacement Surgeon
 Orthopaedics 360 | drchienwenliew.com.au""",
 "hashtags":"#Orthopaedics360 #AdelaideOrthopaedicSurgeon #HipReplacement #KneeReplacement #DrChienWenLiew #JointReplacement #AdelaideHealth #PatientCare #MedicalProfessional #WhyIMedicine",
 "website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-04-28-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Older couple walking along a quiet beach at low tide, small warm silhouettes against a wide expanse of pale sand and soft blue ocean, golden late afternoon light, fine art lifestyle photography"""},
 
 {"id":18,"date":"2026-04-28","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Pre-Operative Information for Hip & Knee Surgery",
@@ -1080,7 +1080,7 @@ We’ve put together a detailed pre-operative guide at the link below — it cov
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #SurgeryPrep #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-04-28-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Bright private hospital room, crisp white linen on a modern adjustable bed, warm sunlight through large window, fresh flowers on the bedside table, no people, welcoming and reassuring interior photography"""},
 
 {"id":19,"date":"2026-04-30","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"5 Exercises to Help Before Your Knee Replacement",
@@ -1098,7 +1098,7 @@ Full patient information at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneePrehab #KneeReplacement #TKR #ExerciseBeforeSurgery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PhysioLife #JointHealth #KneeHealth #PatientJourney #AdelaideHealth #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-04-30-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person doing gentle seated leg raises in a bright sunlit home, figure soft and engaged, no face visible|Person standing and doing wall squats, home environment, natural light, figure slightly blurred|Person doing calf raises holding a kitchen bench, warm domestic setting, morning light|Person walking briskly in a neighbourhood park, green trees, golden morning light, figure soft and aspirational"""},
 
 {"id":20,"date":"2026-05-01","day":"Friday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"Post-Operative Complication Prevention in TJR",
@@ -1123,7 +1123,7 @@ For GP colleagues: early recognition of post-operative complications is importan
 #TotalJointReplacement #ComplicationPrevention #ArthroplastyAustralia #GPReferral #MedEd #Orthopaedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement-risk-factors/","image_file":"2026-05-01-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Medical monitoring equipment in a softly lit post-operative recovery bay, muted blue and warm white tones, no patients, premium healthcare interior photography"""},
 
 {"id":21,"date":"2026-05-03","day":"Sunday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"BMI and Joint Replacement Surgery",
@@ -1149,7 +1149,7 @@ drchienwenliew.com.au
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#BMIAndSurgery #HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #SurgicalRisk #PatientEducation #AdelaideHealth #Arthroplasty #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-05-03-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Person walking briskly along a coastal path, figure softly blurred against wide blue ocean and pale sky, aspirational and active, no face visible, editorial lifestyle photography"""},
 
 {"id":22,"date":"2026-05-04","day":"Monday","platform":"LinkedIn","li_audience":"",
 "format":"Post","topic":"The Role of Physiotherapy in Joint Replacement",
@@ -1176,7 +1176,7 @@ If your patient is struggling with physiotherapy engagement or progress, please 
 #PhysiotherapyAndSurgery #TotalJointReplacement #Arthroplasty #MedEd #GPReferral #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
 "hashtags":"",
 "website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-05-04-linkedin.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Physiotherapist guiding a patient through knee exercises in a bright rehabilitation gym, figures softly blurred, natural light through large windows, no faces clearly visible, professional healthcare photography"""},
 
 {"id":23,"date":"2026-05-05","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Infographic","topic":"The Knee Joint: Anatomy & What Gets Replaced",
@@ -1201,7 +1201,7 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#KneeReplacement #TKR #KneeAnatomy #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalKneeReplacement #KneeImplant #PatientEducation #BoneHealth #AdelaideHealth #JointHealth #DrChienWenLiew",
 "website_link":"https://www.youtube.com/watch?v=WvZQqRq_4mI","image_file":"2026-05-05-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Photorealistic 3D render of knee joint anatomy: distal femur and proximal tibia with smooth hyaline cartilage, dark background, studio lighting|3D render of total knee replacement components laid out: chrome femoral component, polyethylene insert, tibial baseplate, dark studio background|Illustrated cross-section of knee joint showing medial and lateral menisci and collateral ligaments, clinical render, dark navy|Photorealistic 3D render of cemented knee implant in anatomical position, side view, dark dramatic background"""},
 
 {"id":24,"date":"2026-05-05","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Total Knee Replacement in Adelaide",
@@ -1220,7 +1220,7 @@ I’ve written a detailed overview of the procedure and what to expect at the li
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
 "hashtags":"#AdelaideHealth #KneeReplacement #TotalKneeReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
 "website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-05-facebook.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Aerial view of Adelaide city and parklands at golden hour, warm amber light across rooftops and river, no text, fine art landscape photography, premium and aspirational"""},
 
 {"id":25,"date":"2026-05-07","day":"Thursday","platform":"Instagram","li_audience":"",
 "format":"Carousel","topic":"Hip Replacement Approaches Compared",
@@ -1243,5 +1243,5 @@ More at drchienwenliew.com.au 🔗 Link in bio
 ⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
 "hashtags":"#HipReplacement #AnteriorHipReplacement #DirectAnteriorApproach #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalHipReplacement #HipSurgery #PatientEducation #AdelaideHealth #JointReplacement #DrChienWenLiew",
 "website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-05-07-instagram.jpg",
-"nanobanana_prompt":""},
+"nanobanana_prompt":"""Surgical theatre viewed from above, sterile blue drapes across a patient, team of three surgeons working, figures blurred and abstracted, cool cinematic lighting|3D render of hip joint from posterior approach angle, acetabulum exposed, anatomical orientation, dark studio background|3D render of hip joint from anterior approach, femoral head elevated, anatomical orientation, dark dramatic background|Close-up of surgeon's gloved hands positioned precisely over blue sterile drape, soft clinical lighting, no blood"""},
 ]
