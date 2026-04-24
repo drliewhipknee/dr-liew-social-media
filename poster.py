@@ -350,7 +350,7 @@ def _li_upload_image_new(owner_urn: str, token: str, image_path: Path) -> str:
 
 
 def _li_post_new(author_urn: str, token: str, caption: str, image_path: Path | None, dry_run: bool) -> str:
-    """Post via LinkedIn ugcPosts API — reliably shows commentary + image."""
+    """Post via LinkedIn /rest/posts API (LinkedIn-Version 202401) — compatible with urn:li:image: URNs."""
     if dry_run:
         log.info(f"  [DRY RUN] LinkedIn post to {author_urn}")
         return "dry-run-li"
@@ -358,6 +358,7 @@ def _li_post_new(author_urn: str, token: str, caption: str, image_path: Path | N
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json",
+        "LinkedIn-Version": "202401",
         "X-Restli-Protocol-Version": "2.0.0",
     }
 
@@ -367,50 +368,32 @@ def _li_post_new(author_urn: str, token: str, caption: str, image_path: Path | N
         image_urn = _li_upload_image_new(author_urn, token, image_path)
         time.sleep(2)  # brief pause to let LinkedIn process the upload
 
-    # Build ugcPosts body — this API reliably displays both commentary and image
+    # Build /rest/posts body — new API, compatible with urn:li:image: URNs
+    body = {
+        "author": author_urn,
+        "commentary": caption,
+        "visibility": "PUBLIC",
+        "distribution": {
+            "feedDistribution": "MAIN_FEED",
+            "targetEntities": [],
+            "thirdPartyDistributionChannels": [],
+        },
+        "lifecycleState": "PUBLISHED",
+        "isReshareDisabledByAuthor": False,
+    }
     if image_urn:
-        body = {
-            "author": author_urn,
-            "lifecycleState": "PUBLISHED",
-            "specificContent": {
-                "com.linkedin.ugc.ShareContent": {
-                    "shareCommentary": {"text": caption},
-                    "shareMediaCategory": "IMAGE",
-                    "media": [{"status": "READY", "media": image_urn}],
-                }
-            },
-            "visibility": {
-                "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
-            },
-        }
-    else:
-        body = {
-            "author": author_urn,
-            "lifecycleState": "PUBLISHED",
-            "specificContent": {
-                "com.linkedin.ugc.ShareContent": {
-                    "shareCommentary": {"text": caption},
-                    "shareMediaCategory": "NONE",
-                }
-            },
-            "visibility": {
-                "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
-            },
-        }
+        body["content"] = {"media": {"id": image_urn}}
 
     log.info(f"  Sending commentary ({len(caption)} chars): {caption[:120]!r}")
     r = requests.post(
-        "https://api.linkedin.com/v2/ugcPosts",
+        "https://api.linkedin.com/rest/posts",
         headers=headers,
         json=body,
         timeout=30,
     )
-    log.info(f"  /v2/ugcPosts → {r.status_code} {r.text[:500]}")
+    log.info(f"  /rest/posts → {r.status_code} {r.text[:500]}")
     r.raise_for_status()
-    try:
-        post_id = r.json().get("id", "unknown")
-    except Exception:
-        post_id = "unknown"
+    post_id = r.headers.get("x-restli-id") or r.headers.get("X-RestLi-Id") or "unknown"
     log.info(f"  LinkedIn OK  → {author_urn}  post ID: {post_id}")
     return post_id
 
