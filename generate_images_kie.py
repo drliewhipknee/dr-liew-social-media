@@ -19,7 +19,7 @@ Usage:
     python3 generate_images_kie.py --force                                  # regenerate even if done
 """
 
-import argparse, json, logging, sys, time
+import argparse, json, logging, os, sys, time
 from datetime import datetime
 from pathlib import Path
 
@@ -34,7 +34,21 @@ except ImportError:
     from PIL import Image, ImageDraw
 
 # ── Config ────────────────────────────────────────────────────────────────────
-KIE_API_KEY  = "961df6a53af50676575fee66b918b68c"
+# Load API key from .env file (never hardcode secrets in source)
+def _load_env():
+    env_path = Path(__file__).parent / ".env"
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
+_load_env()
+KIE_API_KEY  = os.environ.get("KIE_API_KEY", "")
+if not KIE_API_KEY:
+    print("ERROR: KIE_API_KEY not found. Add it to your .env file.", file=sys.stderr)
+    sys.exit(1)
 KIE_BASE     = "https://api.kie.ai/api/v1"
 MODEL        = "gpt-image-2-text-to-image"
 POLL_INTERVAL = 6    # seconds between status checks

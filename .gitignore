@@ -22,3 +22,7 @@ CREDENTIALS_READY.md
 
 # macOS
 .DS_Store
+
+# Environment / secrets (never commit)
+.env
+*.env
