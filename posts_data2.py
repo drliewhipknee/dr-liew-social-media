@@ -10,2805 +10,3550 @@ DISCLAIMER_FB = "\n\nThis post contains general educational information only. Pl
 
 POSTS = [
 
-{"id":26,"date":"2026-05-08","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Referral Pathways to Orthopaedics 360",
-"caption":"""A practical guide for GP colleagues on referring to Orthopaedics 360.
+{"id":80,"date":"2026-04-30","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Patient Specific Technology in Hip replacement surgery",
+"caption":"""Patient-specific instrumentation in total hip arthroplasty: the biomechanical rationale, current evidence, and how it fits into a modern arthroplasty practice.The core problem PSI addresses is well-established: acetabular component positioning is the single most consequential — and most variable — technical step in primary THA. Lewinnek's original safe zone (40° ± 10° abduction, 15° ± 10° anteversion) remains widely referenced, yet multiple registry analyses including AOANJRR data consistently show that 30–40% of cups placed by experienced surgeons fall outside it using conventional instrumentation alone.The consequences are not trivial. Malpositioned cups drive edge loading, accelerated polyethylene wear, increased dislocation risk, and are overrepresented in early revision cases.What PSI actually involvesPre-operative CT acquisition is processed through planning software to generate a patient-specific 3D pelvic and femoral model. The surgeon defines target cup abduction, anteversion, centre of rotation, leg length, and femoral offset digitally — before entering the operating theatre. Custom acetabular and/or femoral guides are then manufactured to register against specific bony landmarks identified during planning, guiding reaming and implant seating to the pre-planned position.
 
-I want to make the referral process as straightforward as possible for the GPs I work with. Here’s what you need to know.
+What the evidence supports — and what it doesn't
+Systematic reviews (Danoff et al. JBJS 2016; Xu et al. Orthop Traumatol 2019) demonstrate PSI reduces outliers in cup positioning compared to conventional instrumentation, with statistically significant improvement in achieving target anteversion in particular.
+What is less established is whether this translates to meaningful improvements in long-term revision rates at 10–15 years in the general primary THA population. Registry data has not yet shown a clear survival benefit in unselected cases — and this is the honest answer to give when the technology is discussed.
 
-Who to refer:
-Patients with symptomatic hip or knee arthritis who have had a reasonable trial of conservative management (physiotherapy, analgesia, activity modification) and whose functional limitation is significantly affecting their quality of life. You don’t need to wait for “bone on bone” imaging before referring.
+The functional positioning question
+One area where pre-operative CT planning adds clear value regardless of guide use is the incorporation of functional pelvic tilt. Supine pelvic CT does not capture standing or seated pelvic position — a limitation that has driven interest in EOS imaging and functional planning protocols. Patients with significant lumbar pathology, prior spinal fusion, or high pelvic incidence are at elevated dislocation risk precisely because their functional cup orientation differs substantially from their supine position at surgery. Recognising this pre-operatively changes the target anteversion, and in some cases the implant selection.
 
-What to include in the referral:
-• Duration and character of symptoms
-• Conservative treatments trialled and duration
-• Current medications (particularly anticoagulants, immunosuppressants)
-• Relevant co-morbidities: diabetes, obesity, cardiac, respiratory
-• Recent imaging (X-rays preferred — weight-bearing views where possible)
-• Patient’s goals and activity expectations
+For well-anatomy primary THA, experienced intraoperative technique with fluoroscopic verification remains reliable and reproducible. PSI adds value at the margins — and the margins are exactly where complications cluster.
 
-How to refer:
-• Medical Objects: preferred
-• Email: drliew@orthopaedics360.com.au
-• Fax: available on our website
+https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/
 
-Hospital: Eastwood Private Hospital, Adelaide
+Hashtags: #Orthopaedics #Arthroplasty #TotalHipReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR #PatientSpecificTechnology #JointReplacement""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A precision-machined hip replacement implant — titanium femoral stem, ceramic ball head, acetabular shell — arranged on a brushed white clinical surface. Side lighting picks up the metallic grain. A faint digital overlay suggests templating lines and measurements, slightly out of focus in the background. Deep Navy (#0B1F3A) tones. No people. Technical, exacting, composed."""},
 
-Expected timeframe: Our team will contact the patient within 2 business days of receiving the referral to arrange an appointment.
+{"id":84,"date":"2026-05-03","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"GLP-1 Drugs (Ozempic/Wegovy) and Joint Replacement — What the Evidence Says",
+"caption":"""GLP-1 receptor agonists and arthroplasty: an emerging clinical conversation that warrants a nuanced approach.
 
-For urgent cases (rapidly progressive symptoms, inability to weight-bear, acute hip fracture query) please call our rooms directly.
+As GLP-1 receptor agonists (semaglutide, tirzepatide) move from diabetes management into widespread obesity treatment, orthopaedic surgeons and referring GPs are beginning to encounter a consistent question: *does GLP-1 use affect joint replacement outcomes?*
 
-I’m always happy to take a quick call before you refer if you’d like to discuss a case first.
+Here is where the evidence currently sits.
 
-#GPReferral #AdelaideOrthopedics #Orthopaedics360 #TotalHipReplacement #TotalKneeReplacement #ArthroplastyAustralia #MedEd #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-05-08-linkedin.jpg",
-"nanobanana_prompt":"""Modern private medical practice reception area, timber counter, warm architectural lighting, potted greenery, no people, premium interior design photography, professional and welcoming"""},
+**Weight reduction and surgical risk**
+Obesity is an established risk factor for complications in total hip and knee arthroplasty — including wound complications, PJI, VTE, and implant loosening. GLP-1-associated weight loss, if achieved pre-operatively, theoretically reduces these risks. A BMI closer to 35 or below represents a clinically meaningful reduction in perioperative risk for many patients. Early registry data from large US centres supports this conceptually, though long-term arthroplasty-specific outcomes data is still emerging.
 
-{"id":27,"date":"2026-05-10","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"What Activities Can I Return to After Hip Replacement?",
-"caption":"""One of the most common questions after hip replacement: “what activities can I get back to?” 🏌️‍♂️
+**The muscle mass question**
+GLP-1 drugs promote weight loss through appetite suppression, but a meaningful proportion of that weight loss can be lean muscle mass — particularly without concurrent resistance training. For patients preparing for joint replacement, muscle mass and quadriceps/hip abductor strength are critical for post-operative rehabilitation and outcome. This warrants specific clinical attention: patients on GLP-1 agents approaching surgery should be advised to maintain structured resistance exercise programs.
 
-Here’s a general guide — keeping in mind that your specific advice comes from your surgical team.
+**Perioperative management**
+Current guidance (Australian and Society for Perioperative Medicine) recommends withholding GLP-1 drugs on the day of surgery and potentially 1 week prior due to delayed gastric emptying and aspiration risk. This is now a standard pre-operative checklist item at our centre.
 
-✅ Generally well-tolerated after recovery:
-→ Walking (encouraged from day one)
-→ Swimming and hydrotherapy (from ≈6 weeks)
-→ Cycling — stationary first, then road cycling
-→ Golf (typically from 3–6 months)
-→ Doubles tennis, bowls, gentle hiking
+**The practical message for GPs**
+GLP-1 therapy before joint replacement may benefit appropriately selected patients, particularly those with BMI ≥40. However, patient counselling should address: structured resistance training to preserve muscle, pre-operative medication cessation, and realistic timelines — meaningful weight reduction before surgery typically requires 6–12 months.
 
-⚠️ Usually discouraged or discussed individually:
-→ High-impact running
-→ Contact sports
-→ Singles tennis or squash (repetitive high-impact loading)
+As always, individualise the conversation.
 
-✔️ The goal of hip replacement is to restore an active life. Most patients return to the activities that matter to them.
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/nutrition-and-joint-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Macro close-up of a cartilage-surface joint model — smooth ivory acetabular cup surface meeting degraded bone texture at the edges. Soft warm directional light, clean white background. Ship Cove blue (#A2B9D8) glass water bottle and a simple white capsule tablet placed beside it, slightly out of focus. Clinical precision. Minimal. No people."""},
 
-Always get specific clearance from your surgeon before returning to sports or impact activities.
+{"id":86,"date":"2026-05-05","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Cementless Implants — Why They Matter for Active Patients Under 65",
+"caption":"""Cementless fixation in total arthroplasty: the case for biological integration in younger, active patients.
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
+Implant fixation philosophy has shifted significantly over the past two decades. For patients under 65 with good bone quality and higher activity expectations, cementless (press-fit) fixation has become the default at most high-volume arthroplasty centres.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #LifeAfterHipReplacement #ReturnToSport #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipHealth #ActiveLife #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-05-10-instagram.jpg",
-"nanobanana_prompt":"""Group of active adults in their 60s and 70s cycling on a coastal path at golden hour, figures soft and joyful against blue ocean and amber sky, no text, aspirational lifestyle sports photography"""},
+**The biological rationale**
 
-{"id":28,"date":"2026-05-11","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Implant Selection in Total Hip Arthroplasty",
-"caption":"""Implant selection in total hip arthroplasty: the factors that guide my decision-making.
+Cementless implants rely on osseointegration — the ingrowth of bone into a porous or textured implant surface — for primary and secondary fixation. Modern hydroxyapatite-coated and trabecular metal surfaces achieve this reliably. Primary stability from press-fit geometry provides immediate fixation; secondary stability from bone ingrowth provides long-term durability.
 
-This is a topic I discuss regularly with patients and referring practitioners. There is no single “best” implant — but there are principles that guide appropriate selection.
+**The relevance for younger patients**
 
-Fixation method: cemented vs uncemented
-For most patients under 75 with good bone quality, I favour uncemented fixation (press-fit), which relies on osseointegration for long-term stability. In older patients, those with osteoporosis, or cases with abnormal anatomy, cemented fixation remains an excellent and evidence-backed choice. The AOANJRR data supports both approaches when correctly indicated.
+A 58-year-old undergoing THA today may reasonably expect 25–30+ years of implant use. The AOANJRR reports excellent long-term survivorship data for cementless femoral components. Crucially, cementless fixation simplifies revision surgery: cement removal is technically demanding, time-consuming, and associated with greater bone loss. Preserving bone stock — the principle of "leaving something in reserve" — is directly relevant for the younger patient who may one day require revision.
 
-Bearing surfaces
-The predominant bearing surface in my practice for primary THA is ceramic-on-polyethylene (ceramic head on highly cross-linked poly liner). This combination offers excellent wear characteristics and a long track record. Metal-on-metal bearings are largely abandoned in primary THA given the well-documented adverse outcomes.
+**Activity level considerations**
 
-Cup design
-I use a cementless hemispherical acetabular component in most primary cases. Position and orientation — inclination and anteversion — are more important than the specific implant brand.
+Higher activity loading generates greater stress at the bone-implant interface. While cemented fixation distributes load through the cement mantle, well-osseointegrated cementless components handle cyclic loading with equivalent or superior outcomes in active patients. The biomechanical argument for cementless fixation in patients with active lifestyles (golf, cycling, hiking, travel) is well-supported by registry data.
 
-Stem design
-For uncemented cases, I use a tapered wedge stem in the majority of primaries. The choice varies with canal morphology and bone quality as assessed on pre-operative templating.
+**The nuance**
 
-The implant is one component of a successful outcome. Correct surgical technique, alignment, and soft tissue management matter more than brand selection.
+This is not a blanket recommendation. In patients with osteoporosis, poor canal morphology, or cases involving significant deformity or revision, cemented or hybrid constructs remain appropriate and evidence-backed. The decision is always individualised.
 
-Happy to discuss specific implant questions with GP colleagues.
+For most patients under 65 presenting for primary THA in our practice, cementless fixation is the preferred and clinically justified choice.
 
-#TotalHipReplacement #ImplantSelection #Arthroplasty #SurgicalTechnique #AdelaideOrthopedics #MedEd #HipSurgeon #AOANJRR""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/the-hip-prosthesis-i-use-for-total-hip-replacements/","image_file":"2026-05-11-linkedin.jpg",
-"nanobanana_prompt":"""Three orthopaedic hip implant components arranged on a dark clinical surface, chrome titanium stem, ceramic head and acetabular shell, dramatic studio lighting catching metal surfaces, medical product photography"""},
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Titanium cementless acetabular shell photographed on a matte black surface. The porous beaded coating catches the light — each micro-sphere sharply rendered. Femoral stem beside it, offset. Ship Cove blue (#A2B9D8) fabric beneath both. Ultra-sharp product photography aesthetic, no people, wide negative space to the left."""},
 
-{"id":29,"date":"2026-05-12","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Infographic","topic":"Understanding Osteoarthritis",
-"caption":"""Osteoarthritis: what’s actually happening inside your joint? 🔍
+{"id":88,"date":"2026-05-08","day":"Friday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"What to Expect on Surgery Day — Patient Guide",
+"caption":"""Having hip or knee replacement surgery coming up? Here's what your surgery day will look like.
 
-Osteoarthritis (OA) is the most common form of arthritis — and the most common reason for hip and knee replacement surgery. But what exactly is it?
+Most patients tell us afterwards that it was far less daunting than they expected. Knowing what to expect makes a real difference.
 
-OA is a disease of the whole joint, not just the cartilage. Here’s what happens over time:
+On the day, you'll:
+✔️ Arrive at Eastwood or Calvary Adelaide Hospital in the morning
+✔️ Meet your anaesthetist and nursing team
+✔️ Head to the operating theatre (the procedure takes 60–90 minutes)
+✔️ Wake up in the recovery room with your pain managed
+✔️ Be up walking with a physiotherapist that same afternoon
 
-🔵 Cartilage breakdown — the smooth joint surface gradually wears and thins
-🔵 Bone changes — the underlying bone becomes denser (sclerosis) and forms spurs (osteophytes)
-🔵 Synovial inflammation — the joint lining can become inflamed, causing swelling
-🔵 Capsule thickening — the joint becomes stiffer and less mobile
+Yes — the same afternoon. Modern joint replacement is designed for early mobilisation. Getting you moving quickly is part of what makes recovery faster and smoother.
 
-Risk factors include age, obesity, previous joint injury, genetics, and repetitive heavy work or sport.
+We understand that surgery can feel overwhelming. Our team at Orthopaedics 360 is with you every step of the way.
 
-OA is progressive but manageable. Many people live well with it for years using non-surgical approaches.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#Osteoarthritis #OA #JointHealth #HipArthritis #KneeArthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ArthritisAwareness #BoneHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-05-12-instagram.jpg",
-"nanobanana_prompt":"""3D render of joint cartilage showing smooth healthy surface next to rough degraded arthritic surface, dark background, cinematic medical visualisation|Illustrated cross-section of arthritic joint showing cartilage erosion and marginal bone spurs, clinical render, warm lighting|X-ray of arthritic hip joint on an illuminated light box, striking blue-white glow, dark background|Older person doing gentle morning stretches in a sunlit garden, figure warm and softly focused, lush green background"""},
-
-{"id":30,"date":"2026-05-12","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"The Direct Anterior Approach to Hip Replacement",
-"caption":"""The Direct Anterior Approach to hip replacement — what it is and whether it might be right for you.
-
-In recent years, the Direct Anterior Approach (DAA) has become more widely used in hip replacement surgery. It’s an approach that enters the hip through a natural gap between muscle groups at the front of the hip — without cutting or detaching any muscle.
-
-For suitable patients, this can mean:
-• Less disruption to the surrounding muscles
-• Earlier return to walking without aids in some cases
-• Lower dislocation risk in appropriately selected patients
-
-However, the DAA isn’t the right choice for every patient. Anatomy, body type, prior surgery, and the surgeon’s experience with the technique all influence whether it’s appropriate.
-
-At Orthopaedics 360, I use the Direct Anterior Approach for suitable candidates and am equally comfortable with alternative approaches where the anatomy warrants it. The right approach is always the one that gives the best result for that individual patient.
-
-For a more detailed explanation of the procedure, visit the link below.
+Read our full patient guide at the link below.
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #AnteriorHipReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/anterior-hip-replacements/","image_file":"2026-05-12-facebook.jpg",
-"nanobanana_prompt":"""Operating theatre from the patient's perspective looking up, ceiling lights and surgical team silhouettes overhead, blurred and softly lit, cool blue-white cinematic lighting, no faces visible"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #Adelaide #Orthopaedics360 #JointHealth",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Photorealistic luxury editorial social media post, 1:1 square format, premium private orthopaedic practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Private hospital reception lounge — warm timber panelling, contemporary upholstered chairs, soft lamp light, fresh flowers on side table, no people, calm and welcoming. Shallow depth of field, editorial and cinematic, warm. FLOATING PANEL — lower 42%: Deep navy #16233A, gently rounded top corners, inset from all edges — does not touch image edges. Soft diffused indigo-blue radiant glow from BEHIND the panel spreads outward beyond all four edges — panel gently backlit and floating. Neue Montreal typeface. All text left-aligned, generous left padding. LINE 2 — large bold white, wraps naturally, render EVERY word, no truncation: What to Expect on Surgery Day — Patient Guide. LINE 3 — small regular white: Dr Chien-Wen Liew | Hip & Knee Surgeon, Adelaide. LINE 4 — drchienwenliew.com.au bold white, medium-large, prominently legible. BOTTOM ROW: RIGHT — clean circular reserved area ~110px diameter in the bottom-right corner of the panel, solid deep navy #16233A inside, subtle light border ring. No text overlaps this circle. This circle will have Dr Liew's portrait composited later. Aesthetic: sophisticated, warm, luxury private surgical practice."""},
 
-{"id":31,"date":"2026-05-14","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Questions to Ask Your Surgeon Before Joint Replacement",
-"caption":"""Before your joint replacement consultation, come prepared. 📝
+{"id":90,"date":"2026-05-08","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Multimodal Anaesthesia and Same-Day Mobilisation in Modern TJR",
+"caption":"""The evolution of perioperative anaesthesia protocols has been one of the most impactful — and perhaps underappreciated — drivers of improved arthroplasty outcomes over the past decade.
 
-Swipe for 6 questions every patient should ask their surgeon before deciding on surgery →
+**Multimodal anaesthesia: the principle**
 
-Being an informed patient leads to better decisions. Don’t be afraid to ask hard questions — a good surgeon will welcome them.
+The goal is effective analgesia with minimal systemic opioid burden. The multimodal approach stacks analgesic agents with different mechanisms of action — achieving additive pain control while reducing the dose of each individual agent.
 
-Here’s a preview:
-1️⃣ What surgical approach do you use, and why?
-2️⃣ What implant will you use, and what’s its track record?
-3️⃣ What is your personal revision rate for this procedure?
-4️⃣ What does recovery actually look like — week by week?
-5️⃣ What risks am I specifically at risk of, given my health?
-6️⃣ What happens if I choose not to have surgery?
+A standard protocol in our practice includes:
+- **Spinal anaesthesia** with low-dose bupivacaine ± intrathecal opioid
+- **Regional nerve blocks** — adductor canal block for TKA; pericapsular nerve group (PENG) block or iliopsoas plane block for THA
+- **IV and oral adjuncts** — paracetamol, NSAIDs (where not contraindicated), pregabalin/celecoxib pre-operative loading
+- **Peri-articular infiltration** — liposomal bupivacaine or ropivacaine cocktail injected at wound closure
+- **Post-operative** — strict non-opioid first-line with opioids as rescue only
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
+**The mobilisation connection**
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #AdelaideOrthopaedicSurgeon #Orthopaedics360 #InformedConsent #SurgeryQuestions #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-05-14-instagram.jpg",
-"nanobanana_prompt":"""Patient and surgeon in a warm consultation, doctor gesturing toward a model on the desk, figures softly blurred, professional lighting|Doctor reviewing imaging on a tablet in a consulting room, figure thoughtful, warm lamp light, no face clearly visible|Patient and family member listening in a consultation room, warm natural light, figures softly focused, empathetic setting|Surgeon pointing to an anatomy model, consulting room, professional environment, figures softly blurred"""},
+Effective multimodal anaesthesia is what enables same-day mobilisation. When patients are ambulatory within 4–6 hours of surgery, the downstream benefits are substantial: reduced VTE risk, reduced hospital-acquired deconditioning, faster return of muscle control, improved patient confidence, and reduced length of stay.
 
-{"id":32,"date":"2026-05-15","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Managing Patient Expectations in Elective Arthroplasty",
-"caption":"""Managing patient expectations in elective arthroplasty: a surgeon’s practical approach to consent.
+Our target is standing and short-distance ambulation with a physiotherapist the same afternoon as surgery. This is now standard practice for ASA I–II patients and carefully selected ASA III patients.
 
-Getting consent right in joint replacement is not just a legal obligation — it’s a clinical one. Misaligned expectations are one of the primary drivers of patient dissatisfaction following technically successful operations.
+**The opioid-sparing imperative**
 
-What I aim to establish in the pre-operative consultation:
+Beyond comfort, opioid minimisation has patient safety implications. Post-operative cognitive dysfunction, ileus, urinary retention, and falls risk all correlate with opioid loading. For older patients, this is particularly relevant.
 
-1. What surgery can achieve for this patient, specifically. Not what it achieves on average, but what is realistic for someone with their age, BMI, co-morbidities, and degree of deformity. I am careful not to overpromise.
+The message for GPs: ask your patients about their anaesthesia protocol before admission. Modern TJR should involve a clearly articulated multimodal plan, not PCA morphine as a default.
 
-2. What the recovery actually involves. Many patients underestimate the rehabilitation commitment. I describe recovery in terms of milestones, not timelines — because the timeline varies. The milestones (walking unaided, driving, returning to work, returning to sport) are more useful anchors.
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A long clean hospital corridor at dawn — empty, polished floor reflecting soft overhead light. Recovery room signage blurred in the distance. Warm cream walls, Ship Cove blue (#A2B9D8) accent stripe at floor level. No people. The atmosphere of a system working precisely. Calm, confident, institutional."""},
 
-3. The complication profile — in plain language. Rates of infection, DVT, dislocation, nerve injury, leg length discrepancy, and the possibility of revision. Discussing these clearly is not discouraging — it is respectful.
+{"id":92,"date":"2026-05-12","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Intra-operative imaging - are hip replacements performed without imaging a thing of the past?",
+"caption":"""INTRAOPERATIVE IMAGING IN TOTAL HIP ARTHROPLASTY: IS UNASSISTED PLACEMENT A THING OF THE PAST?
 
-4. The alternative. What happens if they don’t have surgery. Many patients haven’t had this framed clearly. For some, conservative management for another 12–18 months is a reasonable and valid choice.
+For decades, total hip arthroplasty was performed with the surgeon relying on mechanical guides, tactile feedback, and experience to position the acetabular cup and femoral stem. This "eyeballing" approach — adjusted by anatomical landmarks and feel — was the standard of care, and skilled surgeons achieved consistently good results with it.
 
-5. Realistic outcome language. I avoid phrases like “new hip, new life” or “back to normal.” I use language like “significantly improved pain and function in most cases” and “meaningful improvement in quality of life for the majority of patients.”
+But the evidence has always told a more nuanced story.
 
-The goal is an informed patient who enters the operating room with appropriate expectations — and who is not surprised by their recovery.
+— THE PROBLEM WITH UNASSISTED PLACEMENT —
 
-#Arthroplasty #InformedConsent #PatientExpectations #TotalJointReplacement #MedEd #AdelaideOrthopedics #HipSurgeon #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-05-15-linkedin.jpg",
-"nanobanana_prompt":"""Senior doctor seated at a desk reviewing patient notes, warm desk lamp, framed artwork behind, figure slightly soft, professional and authoritative, no face clearly visible"""},
+Lewinnek et al.'s 1978 "safe zone" — 40° ± 10° inclination and 15° ± 10° anteversion — remains widely cited despite subsequent questioning of its universal applicability. What is clear from the literature is that freehand cup placement results in a surprisingly high proportion of outliers: multiple studies have demonstrated that between 25% and 50% of cups placed without imaging assistance fall outside the intended target zone.
 
-{"id":33,"date":"2026-05-17","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Walking After Hip Replacement — What to Expect",
-"caption":"""Walking after hip replacement: what’s normal, what’s not, and when to call. 👣
+Cup malposition is directly implicated in dislocation, impingement, accelerated bearing wear, and revision surgery. Leg length discrepancy — a frequent source of patient dissatisfaction after THA — is another consequence of unassisted technique, particularly in cases where soft tissue tension is difficult to judge.
 
-One of the most reassuring things about modern hip replacement is how quickly most patients are back on their feet.
+The Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) continues to identify instability and dislocation as among the leading indications for revision THA. Positioning accuracy matters.
 
-⏱️ Day of surgery: most patients sit up and take their first steps with physiotherapy support
-⏱️ Days 1–2: walking short distances with a frame or crutches
-⏱️ Weeks 1–2: building distance gradually, stairs with support
-⏱️ Weeks 3–6: transitioning to one crutch or stick
-⏱️ 6+ weeks: most patients walking independently
+— WHAT INTRAOPERATIVE FLUOROSCOPY OFFERS —
 
-Some things that are normal early on:
-→ A limp while muscles strengthen — this gradually improves
-→ Fatigue — even short walks are tiring at first
-→ Mild swelling in the hip and thigh
+Fluoroscopic guidance (C-arm imaging) during THA allows the surgeon to verify, in real time:
 
-Contact your surgical team if you notice:
-⚠️ Sudden increase in pain or swelling
-⚠️ Wound redness, warmth, or discharge
-⚠️ Calf pain or swelling (possible DVT)
+- Acetabular cup inclination and anteversion relative to the anterior pelvic plane
+- Femoral offset — confirming restoration of the patient's native offset
+- Leg length equality — comparing directly to the contralateral side intraoperatively
+- Stem alignment and seating within the femoral canal
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au
+Critically, any identified outlier can be corrected before the patient leaves the table — a correction that is straightforward intraoperatively but may require revision surgery postoperatively.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipReplacementRecovery #WalkingAfterHipReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-05-17-instagram.jpg",
-"nanobanana_prompt":"""Two people walking along a tree-lined suburban path on a bright autumn morning, figures warmly lit and softly focused, golden leaves on the footpath, gentle sense of progress and ease"""},
+The direct anterior approach (DAA) is particularly well-suited to fluoroscopic assistance, as the supine patient position allows an unobstructed C-arm view without table repositioning. This is one of several reasons I use the DAA as my standard approach.
 
-{"id":34,"date":"2026-05-18","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"AOANJRR Outcomes Data — What It Means for Referrers",
-"caption":"""A brief review of what the AOANJRR 2024 Annual Report tells us about total joint arthroplasty outcomes — and what it means for referring practitioners.
+— THE EVIDENCE FOR FLUOROSCOPY —
 
-The Australian Orthopaedic Association National Joint Replacement Registry is one of the most comprehensive arthroplasty registries in the world. Its annual data is essential reading for anyone involved in referring patients for joint replacement.
+Multiple comparative studies demonstrate improved component positioning accuracy with fluoroscopic guidance. Woolson et al. and subsequent authors have shown meaningful reductions in cup inclination outliers with C-arm assistance. Leg length discrepancy of >10 mm — a reliable predictor of patient dissatisfaction — is significantly reduced with intraoperative imaging.
 
-Key highlights from the 2024 report relevant to clinical practice:
+Importantly, fluoroscopy adds only minutes to operating time and carries no meaningful additional risk. The argument against its use has always been experiential confidence — "I know where the cup should go" — but the data consistently suggest that confidence and accuracy are not perfectly correlated.
 
-Primary total hip arthroplasty:
-• Cumulative revision rate at 15 years: approximately 7–8% across all primary THAs
-• Cementless fixation continues to demonstrate lower revision rates than cemented in patients < 75 years
-• The anterior approach has the lowest dislocation revision rate among the major approaches in recent years
-• Ceramic-on-polyethylene remains the dominant and lowest-revision bearing surface
+— MY PRACTICE —
 
-Primary total knee arthroplasty:
-• Cumulative revision rate at 15 years: approximately 7–9%
-• Patella resurfacing continues to be associated with lower revision rates for anterior knee pain
-• Obesity (BMI > 40) remains associated with significantly higher revision rates
+Intraoperative fluoroscopy is standard in every THA I perform. I consider it a non-negotiable quality step — the equivalent of checking your work before you close. In a procedure designed to last decades, getting positioning right the first time is worth every additional moment it takes.
 
-Implications for referring GPs:
-• Modern primary joint replacement has excellent long-term survivorship — the threshold for referral should not be artificially elevated on concerns about implant longevity
-• Patient selection and pre-operative optimisation (BMI, anaemia, diabetes control) remain the highest-yield targets for improving outcomes at the GP level
-• Early referral allows time for this optimisation before listing
+For GPs referring patients for hip replacement: asking your patient's surgeon how they verify component position intraoperatively is a reasonable and increasingly common question. The answer tells you something about their commitment to accuracy.
 
-Reference: AOANJRR Annual Report 2024, Australian Orthopaedic Association.
+[Reference: AOANJRR Annual Report 2023; Lewinnek GE et al. J Bone Joint Surg Am 1978; Woolson ST et al. J Arthroplasty 2009; Paprosky WG et al. Clin Orthop Relat Res 2004]
 
-#AOANJRR #TotalJointReplacement #Arthroplasty #AdelaideOrthopedics #GPReferral #MedEd #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-05-18-linkedin.jpg",
-"nanobanana_prompt":"""Glowing dashboard with upward trend analytics charts on a dark screen, cool blue data visualisation aesthetic, no text readable, professional technology photography"""},
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#TotalHipReplacement #HipArthroplasty #IntraoperativeImaging #Fluoroscopy #OrthopedicSurgery #AOANJRR #AdelaideSurgeon #ComponentPositioning #HipSurgery #Orthopaedics #JointReplacement #SurgicalPrecision #MedicalEducation #GPReferral",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/frequently-asked-questions-before-total-hip-replacement-surgery/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A radiolucent operating table rail with a sterile drape at the edge — no patient, no surgeon. Beside it, a C-arm fluoroscopy unit in the middle-ground, soft-focused. OR theatre lighting from above, casting clean shadows. Deep Navy (#0B1F3A) background beyond the lit field. No people. Precision atmosphere."""},
 
-{"id":35,"date":"2026-05-19","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Stat Card","topic":"40,000+ Hip and 60,000+ Knee Replacements Per Year in Australia",
-"caption":"""Did you know?
+{"id":94,"date":"2026-05-14","day":"Thursday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Am I Too Young for Joint Replacement?",
+"caption":"""One of the most common questions we hear: "Am I too young for a hip or knee replacement?"
 
-Over 40,000 hip replacements and 60,000 knee replacements are performed in Australia every year.
+The short answer: age alone is rarely the deciding factor.
 
-That makes joint replacement one of the most commonly performed surgical procedures in the country — and one of the most studied.
+The real question isn't how old you are — it's how much your quality of life is being affected. Joint replacement is about function and freedom from pain. If you're 52 and you can't sleep through the night, can't walk your dog, and have tried physio and medication without meaningful relief — you deserve a conversation with a specialist.
 
-What the data consistently shows:
-📊 High patient satisfaction rates across both hip and knee replacement
-📊 Significant improvements in pain and function
-📊 Implant survivorship > 90% at 15 years in most studies
+Modern implants are designed to last 20–30+ years. The AOANJRR (Australia's joint replacement registry) reports that over 92% of hip replacements are still functioning at 25 years.
 
-Joint replacement isn’t a last resort. It’s a well-established, evidence-backed solution for end-stage hip and knee arthritis — when the time is right.
+Younger, more active patients often do remarkably well. And yes, revision surgery exists if ever needed — but it's not inevitable.
 
-Source: AOANJRR Annual Report 2024
+You don't have to wait until you're older. You don't have to wait until the pain is unbearable.
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Arthroplasty #AdelaideOrthopaedicSurgeon #Orthopaedics360 #AOANJRR #AustralianHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-05-19-instagram.jpg",
-"nanobanana_prompt":"""Wide-angle interior of a modern hospital atrium, high glass ceilings, natural light flooding in, dozens of softly blurred figures moving through the space, cinematic scale, architectural photography"""},
-
-{"id":36,"date":"2026-05-19","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Questions to Ask Before Hip or Knee Replacement",
-"caption":"""Going in for a joint replacement consultation? Come prepared.
-
-Being an informed patient leads to better decisions and better outcomes. Here are six questions worth asking your orthopaedic surgeon.
-
-1. What surgical approach do you use, and why is it right for me?
-2. What implant will you use, and what does the registry data say about it?
-3. What does recovery actually look like, week by week, for someone with my health profile?
-4. What risks am I specifically at higher risk of, given my age and medical history?
-5. What happens if I choose not to have surgery at this point?
-6. How many of these procedures do you perform each year?
-
-These are all reasonable, appropriate questions — and any surgeon worth seeing will answer them directly and without defensiveness.
-
-At Orthopaedics 360, we encourage patients to come to their consultation with questions. Our goal is to give you the clearest possible information so you can make the right decision for you.
+Read more at the link below.
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #PatientEducation #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-05-19-facebook.jpg",
-"nanobanana_prompt":"""Patient and doctor having a warm conversation in a bright consulting room across a desk, figures softly blurred, natural window light, empathetic healthcare photography"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Photorealistic luxury editorial social media post, 1:1 square format, premium private orthopaedic practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Person (anonymous, back to camera, small in frame) hiking a gentle coastal trail with a scenic blue ocean vista ahead, warm golden hour light, sense of freedom and active ageing. Shallow depth of field, editorial and cinematic, warm. FLOATING PANEL — lower 42%: Deep navy #16233A, gently rounded top corners, inset from all edges — does not touch image edges. Soft diffused indigo-blue radiant glow from BEHIND the panel spreads outward beyond all four edges — panel gently backlit and floating. Neue Montreal typeface. All text left-aligned, generous left padding. LINE 2 — large bold white, wraps naturally, render EVERY word, no truncation: Am I Too Young for Joint Replacement?. LINE 3 — small regular white: Dr Chien-Wen Liew | Hip & Knee Surgeon, Adelaide. LINE 4 — drchienwenliew.com.au bold white, medium-large, prominently legible. BOTTOM ROW: RIGHT — clean circular reserved area ~110px diameter in the bottom-right corner of the panel, solid deep navy #16233A inside, subtle light border ring. No text overlaps this circle. This circle will have Dr Liew's portrait composited later. Aesthetic: sophisticated, warm, luxury private surgical practice."""},
 
-{"id":37,"date":"2026-05-21","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Your Pre-Op Checklist",
-"caption":"""Surgery is coming up — here’s your preparation checklist. ✔️
+{"id":96,"date":"2026-05-17","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Patient-Reported Outcome Measures (PROMs) in Arthroplasty — What Matters Beyond X-rays",
+"caption":"""Post-operative X-rays confirm implant position. They tell us very little about whether the patient's life has actually improved.
 
-Swipe through 5 key things to organise before your hip or knee replacement →
+This is the clinical gap that patient-reported outcome measures (PROMs) are designed to fill — and their increasing integration into arthroplasty practice represents a meaningful step forward.
 
-Good preparation genuinely makes a difference — not just to how smoothly surgery goes, but to how quickly you recover at home.
+**What are PROMs?**
 
-Don’t underestimate the home setup. Patients who come home to a well-organised environment consistently have an easier first week.
+PROMs are validated, patient-completed questionnaires that capture self-reported pain, function, and quality of life. In arthroplasty, the most commonly used instruments include:
+- **KOOS / HOOS** (Knee/Hip Injury and Osteoarthritis Outcome Score)
+- **Oxford Hip Score / Oxford Knee Score**
+- **WOMAC** (Western Ontario and McMaster Universities OA Index)
+- **EQ-5D** — general health utility
 
-Your surgical team will give you specific instructions for your procedure. This is a general guide to get you thinking early.
+**Why they matter**
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full pre-op guide at drchienwenliew.com.au 🔗 Link in bio
+The AOANJRR has expanded its data collection beyond revision rates to include patient-reported outcomes, recognising that survivorship alone does not equal success. A hip replacement with excellent radiographic positioning but poor pain relief is not a good outcome. Conversely, a technically imperfect X-ray with a patient-reported Oxford Hip Score of 44/48 is functionally excellent.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#SurgeryPrep #HipReplacement #KneeReplacement #PreOpChecklist #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-21-instagram.jpg",
-"nanobanana_prompt":"""Neatly packed overnight bag — clothes, phone charger, books — on a timber floor, warm natural light, domestic still life photography|Prescription medication bottles and a glass of water on a clean white surface, soft warm morning light, simple still life|Bright private hospital corridor, clean floor, natural light flooding from windows, empty and reassuring, architectural photography|Friendly nurse at a modern reception desk in a private hospital, figure warmly blurred, welcoming professional environment"""},
+Studies consistently show that approximately 15–20% of TKA patients are dissatisfied at 1 year. PROM data helps identify this cohort earlier and understand the drivers — unmet functional expectations, persistent pain, pre-operative mental health factors.
 
-{"id":38,"date":"2026-05-22","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"DVT Prophylaxis After Total Joint Replacement",
-"caption":"""DVT prophylaxis after total joint replacement: our current protocol and the evidence behind it.
+**Pre-operative PROMs**
 
-Venous thromboembolism (VTE) remains one of the most clinically significant post-operative complications in lower limb arthroplasty. Our current protocol at Orthopaedics 360 is guided by NHMRC guidelines and the AOANJRR complication data.
+Pre-operative PROM scores have become one of the strongest predictors of post-operative outcome. Patients with severe pre-operative functional impairment and poor mental health scores require specific counselling about realistic outcome expectations — this is now part of our pre-operative consult.
 
-Chemical prophylaxis:
-• Low-molecular weight heparin (enoxaparin) or a direct oral anticoagulant (DOAC — typically rivaroxaban or aspirin for low-risk patients) commenced within 12–24 hours post-operatively
-• Duration: 14 days for TKR; 35 days for THA in line with the evidence base for risk period
-• Patient selection for DOAC vs LMWH vs aspirin guided by individual bleeding risk, renal function, and co-morbidities
+**The practical message for referring GPs**
 
-Mechanical prophylaxis:
-• Compression stockings commenced pre-operatively
-• Intermittent pneumatic compression intra- and immediately post-operatively
-• Early mobilisation — weight-bearing and walking commenced day of surgery
+When assessing readiness for referral, functional limitation as reported by the patient is as valid an indicator as X-ray grade. A patient with OA grade 2 radiographically but Oxford Knee Score of 18 is functionally impaired and deserves orthopaedic assessment.
 
-For GP colleagues:
-• If your patient presents with calf pain, swelling, or dyspnoea post-TJR, a high index of suspicion for DVT/PE is warranted regardless of whether they are on chemical prophylaxis
-• Proximal DVT or PE in a post-arthroplasty patient warrants urgent assessment
-• Bilateral calf DVTs in low-risk patients: discussed case by case — please contact our rooms if uncertain about anticoagulation management
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A printed patient outcome questionnaire on a clean white clinical desk — pen resting across it, uncapped. Soft window light from the left. Blurred laptop screen in background with a faint graph visible. Ship Cove blue (#A2B9D8) folder beside the form. No people. Data, care, evidence. Simple and composed."""},
 
-Reference: NHMRC Clinical Practice Guideline for the Prevention of VTE; AOANJRR Annual Report.
+{"id":98,"date":"2026-05-19","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Kinematic knee replacements with kinematic prostheses - the perfect combination?",
+"caption":"""KINEMATIC ALIGNMENT + PURPOSE-BUILT IMPLANTS: THE PERFECT COMBINATION?
 
-#VTEProphylaxis #TotalJointReplacement #DVTPrevention #ArthroplastyAustralia #MedEd #AdelaideOrthopedics #GPReferral #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement-risk-factors/","image_file":"2026-05-22-linkedin.jpg",
-"nanobanana_prompt":"""Close-up of medical compression stocking on a lower leg, clinical background, soft directional light, professional healthcare product photography"""},
+Kinematic alignment (KA) in total knee arthroplasty has moved from a fringe idea to a legitimate and growing alternative to mechanical alignment (MA) over the past decade. But as KA adoption has increased, a more refined question has emerged: does it matter what implant you use?
 
-{"id":39,"date":"2026-05-24","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Can I Travel After Hip Replacement?",
-"caption":""""Can I fly after my hip replacement?" ✈️
+The short answer is yes — and the reasons are worth understanding.
 
-Yes — but timing and precautions matter. Here’s what to know.
+— WHAT KA ASKS OF AN IMPLANT —
 
-⏱️ When is it generally safe to fly?
-Most guidelines suggest avoiding long-haul flights for at least 6 weeks after hip replacement. Short domestic flights may be possible from 4 weeks with surgeon clearance.
+Mechanical alignment targets a neutral mechanical axis (0° HKA angle), which means the implant geometry is designed around a predictable, standardised knee position. The articular surfaces, tibial slope, and rotational alignment are all calibrated to work best in a mechanically aligned knee.
 
-⚠️ The main risk: DVT (blood clots)
-Long periods of immobility after joint replacement increase the risk of deep vein thrombosis. This doesn’t mean you can’t travel — it means you need to plan carefully.
+Kinematic alignment, by contrast, aims to restore the patient's pre-arthritic constitutional anatomy — which may involve varus or valgus angles outside the mechanical "safe zone." This creates biomechanical demands that standard MA implants were never designed to accommodate.
 
-✅ Tips for flying post-hip replacement:
-→ Get your surgeon’s clearance before booking
-→ Book an aisle seat — you’ll need to stand and move regularly
-→ Stay well hydrated
-→ Wear your compression stockings
-→ Take any prescribed prophylaxis as directed
+In particular:
+- Tibial component coronal alignment may be intentionally non-perpendicular to the mechanical axis
+- The tibial insert must accommodate asymmetric loading patterns that differ from those in MA
+- Rotational alignment is patient-specific rather than landmark-referenced
 
-→ Car travel: short trips (< 30 min) are usually fine within 2–4 weeks. Long road trips should follow the same precautions as flying.
+Using an MA implant for KA — essentially "bending" the implant to fit the technique — is technically feasible, but raises legitimate questions about long-term fixation, polyethylene wear patterns, and stress distribution.
 
-Always get specific clearance from your surgical team before planning post-operative travel.
+— PURPOSE-BUILT KA IMPLANTS —
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
+Several manufacturers have developed implants specifically intended for kinematic or personalised alignment. These include the Medacta GMK Efficiency and certain Zimmer Persona IQ configurations, among others. These implants incorporate design features such as:
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TravelAfterSurgery #DVTPrevention #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipReplacementRecovery #PatientJourney #AdelaideHealth #JointHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-05-24-instagram.jpg",
-"nanobanana_prompt":"""Sunlit international airport terminal, wide floor-to-ceiling windows overlooking a tarmac, traveller with rolling suitcase softly blurred and walking away confidently, warm amber morning light, no faces, lifestyle travel photography"""},
+- Asymmetric tibial baseplates that better accommodate non-neutral coronal positioning
+- Insert geometry optimised for the kinematic arc of motion rather than a standardised mechanical arc
+- Designs validated in configurations outside the traditional 0° ± 3° mechanical target
 
-{"id":40,"date":"2026-05-25","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Surgical Approaches to Hip Replacement — Overview for GPs",
-"caption":"""Surgical approaches to total hip replacement: a practical overview for GP colleagues.
+The biomechanical rationale is sound: an implant designed for a kinematically aligned knee should theoretically perform better in that position than one adapted from a mechanical alignment design.
 
-One of the most common questions I receive from referring GPs is: “What surgical approach do you use, and why does it matter?”
+— WHAT THE EVIDENCE SAYS —
 
-Here is a plain-English summary of the three main approaches used in total hip replacement surgery in Australia.
+It is important to be honest about the current state of evidence. Long-term data on purpose-built KA implants is limited — the technique and the implants are both relatively new, and the AOANJRR's implant-specific revision data for KA configurations is still maturing.
 
-Posterior Approach
-The most widely used approach worldwide. Incision at the back of the hip. Excellent long-term outcomes and well-established in the literature. Posterior soft tissue repair has substantially reduced dislocation rates in modern practice.
+Medium-term functional outcomes with KA (regardless of implant type) have been favourable in multiple RCTs and observational series, including the landmark Monk et al. RCT and subsequent work by Dossett and others. Whether purpose-built implants outperform adapted MA implants in KA specifically is a question the literature has not yet fully answered.
 
-Direct Lateral Approach
-Incision to the outer side of the hip. Reliable access to the joint. Widely performed in Australia with good outcomes data. Some patients report more lateral hip discomfort early in recovery.
+What we do know from JBJS and other high-impact publications is that surgeon experience and reproducibility of technique are strong predictors of KA outcomes — more so, potentially, than implant choice alone.
 
-Direct Anterior Approach (DAA)
-Muscle-sparing technique through a natural gap at the front of the hip. No muscle is cut from bone. Advantages include earlier return to independent walking and reduced dislocation risk in carefully selected patients. Technical demands are higher, and patient selection matters.
+— MY VIEW —
 
-My practice: I use the Direct Anterior Approach as my primary technique for suitable patients at Eastwood Private Hospital, supported by a dedicated traction table and intra-operative fluoroscopy.
+I believe there is a logical and mechanistically sound case for purpose-built KA implants when performing kinematic alignment. The principle of matching the implant to the technique — rather than adapting a technique to an implant — reflects a coherent engineering philosophy. I continue to follow the emerging data on implant-specific outcomes with interest.
 
-The choice of approach matters less than the surgeon’s experience with their chosen technique. When referring, asking about approach, outcomes and volume is entirely appropriate.
+For referring GPs: patients asking about "kinematic" or "personalised" knee replacement are engaging with a genuine and active debate in arthroplasty. It is a reasonable area of enquiry, and outcomes data continues to evolve.
 
-#HipReplacement #DirectAnteriorApproach #SurgicalApproach #AdelaideOrthopedics #GPReferral #MedEd #TotalHipReplacement #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-05-25-linkedin.jpg",
-"nanobanana_prompt":"""Orthopaedic anatomy model of pelvis and hip joint on a consultation desk, warm professional lamp, medical reference books and journals softly blurred in background, no people, scholarly still life"""},
+[Reference: AOANJRR Annual Report 2023; Monk AP et al. Bone Joint J 2017; Dossett HG et al. J Bone Joint Surg Am 2014; Calliess T et al. Knee Surg Sports Traumatol Arthrosc 2017]
 
-{"id":41,"date":"2026-05-26","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Infographic","topic":"Knee Replacement — The Numbers",
-"caption":"""Knee replacement by the numbers 📊
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#KinematicAlignment #KneeReplacement #TotalKneeArthroplasty #TKR #JointReplacement #OrthopedicSurgery #AOANJRR #KneeAlignment #ArthroplastyDebate #AdelaideSurgeon #Orthopaedics #KneeImplant #MedactagMK #PersonalisedKnee #GPReferral",
+"website_link":"https://www.drchienwenliew.com.au/knee-conditions/knee-arthritis/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A total knee replacement tibial component and femoral component arranged on a pristine white surface — the polyethylene insert between them. Macro lens, soft side light picking up machined edges. Ship Cove blue (#A2B9D8) depth in the background bokeh. No people. Mechanical precision, wide-format negative space."""},
 
-A few statistics worth knowing if you’re considering — or recovering from — a total knee replacement.
+{"id":100,"date":"2026-05-19","day":"Tuesday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Kinematic alignment - the paradigm shift and how it differs",
+"caption":"""KINEMATIC ALIGNMENT — WHY YOUR KNEE REPLACEMENT CAN BE PERSONALISED TO YOU
 
-In Australia (Source: AOANJRR 2024):
+For a long time, knee replacement surgery aimed for the same result in every patient: a perfectly straight leg, with the implant positioned at a neutral mechanical angle.
 
-40,000+ hip replacements and 60,000+ knee replacements are performed in Australia each year — making joint replacement one of the most commonly performed surgical procedures in the country.
-Average age at primary TKR: approximately 68 years.
-Implant survival at 20 years: approximately 92% for most modern knee designs.
-Patient satisfaction: consistently high, with the majority reporting significant pain reduction.
+That approach — called mechanical alignment — has produced good results for decades. But here's what it doesn't account for: most people's knees aren't perfectly straight to begin with.
 
-Knee replacement is one of the most studied surgical procedures in medicine. The evidence base supporting it is deep and well-established.
+Your natural anatomy has a specific alignment that is unique to you — a slight bow, a natural arc of movement, a way your knee has always worked. Mechanical alignment corrects this to straight. Kinematic alignment restores it.
 
-If you’re wondering whether surgery is the right step for your knee, start with your GP and ask for a referral.
+— WHAT KINEMATIC ALIGNMENT MEANS FOR YOU —
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
+Instead of targeting a fixed neutral angle, kinematic alignment aims to reproduce your own pre-arthritic knee anatomy. The goal is for the replacement to move and feel the way your knee did before arthritis took hold — not the way a textbook knee moves.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #AOANJRR #JointReplacement #KneeHealth #PatientEducation #AdelaideHealth #BoneHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-26-instagram.jpg",
-"nanobanana_prompt":"""Wide-angle modern hospital waiting area, comfortable chairs, warm overhead lighting, multiple figures softly blurred, clean architecture|Glowing upward bar chart on a dark screen, clinical blue data analytics aesthetic, atmospheric, no text readable|Aerial view of Adelaide and surrounding hills at sunrise, vast landscape, aspirational scale|Modern surgical theatre panorama, sterile blue drapes, three surgeons as blurred figures, clinical and cinematic"""},
+This matters in practice. Patients who receive kinematically aligned knee replacements consistently report that the knee feels more natural — less like a mechanical device and more like part of their body. Studies show improved patient satisfaction scores and better reported function compared to traditional mechanical alignment in many patients.
 
-{"id":42,"date":"2026-05-26","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Activity Trackers and Joint Replacement Recovery",
-"caption":"""Tracking your recovery: how activity monitors can support your rehabilitation after joint replacement.
+— IS IT FOR EVERYONE? —
 
-Wearable activity trackers have become a practical tool for monitoring recovery progress after hip and knee replacement surgery — and many patients find them genuinely motivating.
+Kinematic alignment requires careful assessment and is not the right approach for every knee or every patient. It demands a thorough understanding of each individual's anatomy and a surgeon with experience in the technique.
 
-What trackers can help with:
-• Monitoring daily step counts — allowing you to see your activity increasing over time
-• Tracking sleep quality — which is often disrupted post-operatively and improves as recovery progresses
-• Heart rate monitoring — useful for patients gradually returning to aerobic exercise
+But for the right patient, it represents a meaningful step forward in making knee replacement feel as natural as possible.
 
-They’re not a substitute for clinical follow-up or physiotherapy guidance — but they’re a great way to stay motivated and to have real data to discuss at your post-operative appointments.
+If you've been told you need a knee replacement and want to understand your options — including how alignment philosophy might affect your recovery and long-term function — come and have a conversation. That's exactly what the consultation is for.
 
-We use activity data as part of our ongoing patient monitoring programme at Orthopaedics 360.
+📍 Orthopaedics 360 | Eastwood Private Hospital, Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#KinematicAlignment #KneeReplacement #PersonalisedKnee #KneeArthritis #JointReplacement #AdelaideSurgeon #OrthopedicSurgery #KneeHealth #HipAndKnee #Orthopaedics360",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"",
+"nanobanana_prompt":"""Photorealistic luxury editorial social media post, 1:1 square format, premium private orthopaedic practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Rich warm amber and deep gold abstract bokeh — large glowing circles dissolving softly out of focus against a near-black background, luxurious tonal depth, purely atmospheric, no people. Shallow depth of field, editorial and cinematic, warm. FLOATING PANEL — lower 42%: Deep navy #16233A, gently rounded top corners, inset from all edges — does not touch image edges. Soft diffused indigo-blue radiant glow from BEHIND the panel spreads outward beyond all four edges — panel gently backlit and floating. Neue Montreal typeface. All text left-aligned, generous left padding. LINE 2 — large bold white, wraps naturally, render EVERY word, no truncation: Kinematic alignment - the paradigm shift and how it differs. LINE 3 — small regular white: Dr Chien-Wen Liew | Hip & Knee Surgeon, Adelaide. LINE 4 — drchienwenliew.com.au bold white, medium-large, prominently legible. BOTTOM ROW: RIGHT — clean circular reserved area ~110px diameter in the bottom-right corner of the panel, solid deep navy #16233A inside, subtle light border ring. No text overlaps this circle. This circle will have Dr Liew's portrait composited later. Aesthetic: sophisticated, warm, luxury private surgical practice."""},
 
-For more information on recovering well after joint replacement, visit drchienwenliew.com.au.
+{"id":102,"date":"2026-05-21","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Knee replacements are 80% good to excellent, but aren't we doing better?",
+"caption":"""TKR SATISFACTION: 80-85% GOOD TO EXCELLENT — CAN WE DO BETTER?
+
+The 80% satisfaction figure for total knee replacement has been repeated so often it has become almost comforting. It is cited in consent discussions, patient information sheets, and surgical guidelines. It is also, I would argue, a number we should be challenging rather than accepting.
+
+Hip replacement achieves satisfaction rates closer to 90-95%. Why should knee replacement — a similarly sophisticated operation, performed on a similar patient population — remain a decade behind?
+
+— WHERE THE 15-20% DISSATISFIED PATIENTS COME FROM —
+
+The causes of TKR dissatisfaction are multifactorial, and they are worth examining honestly:
+
+1. Patient selection — Some patients present with pain that has components beyond isolated osteoarthritis: chronic pain sensitisation, significant psychological overlay, or a pain generator that is not primarily the knee joint. These patients may undergo technically flawless surgery and still report poor outcomes. Better pre-operative screening tools are needed.
+
+2. Alignment philosophy — The historical insistence on mechanical alignment (neutral 0° axis) has come under serious scrutiny. For patients whose natural anatomy is more varus or valgus, a mechanically aligned knee may feel "wrong" — stiff, unnatural, uncomfortable — even when the X-ray looks perfect. Kinematic alignment aims to address exactly this.
+
+3. Implant choice — Not all TKR implants are equivalent. Implant design affects range of motion, patellofemoral tracking, and the arc of motion available. Surgeons who use a single implant for all patients — regardless of anatomy — are limiting their ability to optimise outcomes.
+
+4. Technique and reproducibility — Volume matters. AOANJRR data consistently shows that high-volume arthroplasty units and surgeons have measurably lower revision rates. Reproducibility of technique requires volume; volume requires subspecialisation.
+
+5. Rehabilitation and expectations — Patients who understand what recovery looks like, who begin physiotherapy promptly, and who have realistic expectations of the timeline to full function consistently report better outcomes. The consent and education process is part of the operation.
+
+— WHAT IS MOVING THE NEEDLE —
+
+Kinematic alignment has demonstrated improved satisfaction scores in multiple well-conducted RCTs. Robotic assistance — while not independently proven to improve outcomes in all studies — may improve the reproducibility of alignment targets, particularly for kinematic techniques. Patient-specific pre-operative planning and 3D CT assessment are allowing more precise restoration of individual anatomy.
+
+The AOANJRR's revision burden data for TKR suggests that while implant survival is improving, patient-reported outcomes (PROMs) — which capture satisfaction rather than just survival — have been slower to shift. This is the right metric to focus on.
+
+— MY VIEW —
+
+I think 80% is not good enough, and the field shares that view. The combination of better patient selection, personalised alignment, appropriate implant choice, and experienced surgical volume should be pushing us above 90%. We are not there yet, but the trajectory is positive.
+
+[Reference: AOANJRR Annual Report 2023; Beswick AD et al. BMJ Open 2012; Bourne RB et al. Clin Orthop Relat Res 2010; Monk AP et al. Bone Joint J 2017]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#TotalKneeReplacement #TKR #KneeArthroplasty #PatientSatisfaction #KinematicAlignment #AOANJRR #OrthopedicSurgery #JointReplacement #AdelaideSurgeon #KneeOutcomes #Arthroplasty #SurgicalExcellence #KneeHealth #GPReferral",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Bilateral knee X-rays backlit on a light box — the warm amber glow of the illuminated panel filling the frame. Bone density and prosthetic components both visible as faint outlines. No text overlay. Deep Navy (#0B1F3A) surroundings. No people. Clinical authority, diagnostic quiet."""},
+
+{"id":104,"date":"2026-05-25","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Wound Management and Infection Prevention in TJR — Updated Protocols",
+"caption":"""Periprosthetic joint infection remains the most feared complication in total joint arthroplasty — with a reported incidence of 0.5–2% for primary THA and TKA, but carrying mortality rates in revision infection exceeding 2.5% and an estimated healthcare cost of $50,000–$130,000 per case.
+
+Given this burden, systematic infection prevention should be considered as rigorously as implant selection.
+
+**Pre-operative risk stratification**
+
+The modifiable risk factors that warrant active management before surgery:
+- **HbA1c ≥7.5%** — associated with 2–3× increased PJI risk; target optimisation before elective arthroplasty
+- **BMI ≥40** — independent PJI predictor; weight optimisation discussed with all eligible patients
+- **Active smokers** — smoking cessation 4–6 weeks pre-op reduces wound healing complications
+- **Malnourishment** — albumin <35 g/L or total lymphocyte count <1500 cells/μL should trigger nutritional referral
+- **Skin integrity** — psoriatic plaques, eczema, or skin breakdown in the operative field are relative contraindications; dermatology referral where relevant
+- **Remote site infection** — dental, urinary, and skin infections should be treated and resolved before elective arthroplasty
+
+**Intraoperative protocols**
+
+Measures that evidence supports:
+- IV cefazolin (or vancomycin if MRSA-colonised) within 60 minutes of incision
+- Antibiotic-loaded cement in cemented constructs in high-risk patients
+- Chlorhexidine skin preparation; dilute betadine lavage at closure in selected cases
+- Laminar airflow theatres and traffic restriction
+- Wound closure optimised for tension-free, layered repair
+- Closed-incision negative pressure wound therapy (ciNPWT) considered for high-risk patients (BMI >40, revision cases, diabetes)
+
+**Wound dressing and early post-operative management**
+
+Modern dressings: Aquacel or PICO-style ciNPWT for first 7 days — reduces wound moisture and bacterial colonisation at the surgical site. Early shower protocol from day 3 with waterproof dressing is standard. Wound review at day 10–14. Any erythema, discharge, or persistent wound warmth beyond 3 weeks should prompt early orthopaedic review, not watchful waiting.
+
+**The message for GPs**
+
+Post-operative wound concerns in joint replacement patients should be reviewed early and with a low threshold for contact with the operating surgeon. The window for intervention in acute PJI (within 4 weeks) allows for joint debridement and component retention — the preferred treatment. After 4 weeks, the biofilm is established and outcomes of debridement deteriorate sharply.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A row of sterile surgical instrument packs on a scrub trolley — sealed in translucent blue wrap, perfectly aligned. OR ambient lighting, deep background. Ship Cove blue (#A2B9D8) dominant. No people. The rigour of infection prevention made visible through order and preparation."""},
+
+{"id":106,"date":"2026-05-27","day":"Wednesday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Technology in total hip replacements - measure thrice, cut once.",
+"caption":"""MEASURE THRICE, CUT ONCE — TECHNOLOGY IN MODERN HIP REPLACEMENT
+
+There's a saying in carpentry: measure twice, cut once. In hip replacement surgery, I'd go one further: measure three times.
+
+A hip replacement is designed to last 20-30 years. Getting the positioning right the first time isn't just about a smoother recovery — it's about whether you're back in 15 years asking for a revision, or still going strong well into your 80s.
+
+That's why the technology we use before and during surgery matters so much.
+
+— 3D CT PLANNING —
+
+Before surgery, I use CT imaging to build a three-dimensional model of your hip. This lets me plan the exact size, position, and angle of your new implant based on your specific anatomy — not an average or a best estimate. We can account for your pelvic tilt, your femoral anatomy, and any asymmetry between sides.
+
+This planning translates into the operating room. I know what I'm aiming for before I make the first incision.
+
+— INTRAOPERATIVE FLUOROSCOPY —
+
+During surgery, I use live X-ray (fluoroscopy) to verify that the implant is positioned exactly where the plan calls for. Cup angle, leg length, offset — all checked in real time, before the wound is closed. If something needs adjusting, we adjust it there and then.
+
+This is the equivalent of checking your work as you go — and it makes a measurable difference to outcomes.
+
+— WHY THIS MATTERS FOR YOU —
+
+Hip replacements that are well-positioned from day one have lower rates of dislocation, less leg length difference, better function, and longer survival. Every additional step of verification we can do before you wake up is an investment in how well your hip lasts.
+
+Interested in how we plan your hip replacement? There's more detail at the link below.
+
+📍 Orthopaedics 360 | Eastwood Private Hospital, Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#HipReplacement #HipSurgery #JointReplacement #3DPlanning #SurgicalTechnology #AdelaideSurgeon #Orthopaedics360 #HipHealth #OrthopedicSurgery #PatientCare",
+"website_link":"https://www.drchienwenliew.com.au/patient-specific-technology/","image_file":"",
+"nanobanana_prompt":"""Photorealistic luxury editorial social media post, 1:1 square format, premium private orthopaedic practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Abstract macro of polished medical-grade titanium alloy, warm studio light creating soft gradients and reflections across a curved surface, sophisticated material photography, no people. Shallow depth of field, editorial and cinematic, warm. FLOATING PANEL — lower 42%: Deep navy #16233A, gently rounded top corners, inset from all edges — does not touch image edges. Soft diffused indigo-blue radiant glow from BEHIND the panel spreads outward beyond all four edges — panel gently backlit and floating. Neue Montreal typeface. All text left-aligned, generous left padding. LINE 2 — large bold white, wraps naturally, render EVERY word, no truncation: Technology in total hip replacements - measure thrice, cut once.. LINE 3 — small regular white: Dr Chien-Wen Liew | Hip & Knee Surgeon, Adelaide. LINE 4 — drchienwenliew.com.au bold white, medium-large, prominently legible. BOTTOM ROW: RIGHT — clean circular reserved area ~110px diameter in the bottom-right corner of the panel, solid deep navy #16233A inside, subtle light border ring. No text overlaps this circle. This circle will have Dr Liew's portrait composited later. Aesthetic: sophisticated, warm, luxury private surgical practice."""},
+
+{"id":108,"date":"2026-05-27","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Bone Preservation in Modern TJR — Why Less Is Sometimes More",
+"caption":"""The principle of bone preservation in total joint arthroplasty: a surgical philosophy with long-term consequences.
+
+The historical paradigm in TJR favoured aggressive resection to achieve firm mechanical fixation. Modern surgical philosophy has shifted markedly — driven by the recognition that bone stock is a finite, irreplaceable resource, and that every patient undergoing primary arthroplasty is a potential revision candidate.
+
+**Why bone stock matters**
+
+In revision arthroplasty, the available bone stock is the primary determinant of reconstruction complexity, implant choice, and ultimately patient outcome. Periprosthetic bone loss — from stress shielding, osteolysis, or surgical resection — constrains what is possible when revision becomes necessary.
+
+A primary surgeon who adopts conservative resection principles is not just optimising the index procedure; they are leaving viable options for every subsequent surgeon who may eventually encounter that patient.
+
+**Femoral bone preservation in THA**
+
+Short-stem femoral implants have been developed specifically to preserve metaphyseal bone. Compared to conventional tapered wedge stems, short stems transfer load more proximally — reducing stress shielding in the diaphysis and preserving distal femoral bone. Early and medium-term data supports non-inferior survivorship with equivalent or superior bone preservation.
+
+Neck-preserving stems represent the extreme end of this principle, though their indications are more limited and anatomy-dependent.
+
+**Acetabular bone preservation**
+
+Hemispherical cementless cups now routinely achieve fixation without over-reaming. Line-to-line or under-reaming technique (1–2mm under-reaming for press-fit) minimises acetabular bone loss while achieving reliable primary stability.
+
+**TKA and bone preservation**
+
+Kinematic alignment and patient-specific instrumentation emerged partly from the desire to reduce resection volume while achieving stable, well-aligned constructs. The evidence base is still evolving, but preserving native joint line position and minimising tibial resection are accepted goals in modern TKA.
+
+**The practical message**
+
+Bone preservation is not a compromise — it is a forward-looking surgical investment. For younger patients and those likely to require revision, it should be a primary planning consideration.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A sectioned femoral bone model — smooth cortex on one side, cancellous trabecular network revealed on the other. Soft even studio lighting, no shadows. Clean white surface. Deep Navy (#0B1F3A) background. Ship Cove blue (#A2B9D8) accent in the reflective surface below. No people. Anatomical precision."""},
+
+{"id":110,"date":"2026-06-01","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The Orthopaedic Consultation — What to Bring, What to Expect, How to Prepare Patients",
+"caption":"""A practical guide for GP colleagues on preparing patients for their first orthopaedic consultation.
+
+The initial consultation is most valuable when patients arrive prepared. GPs play a critical role in shaping patient expectations and ensuring the right information accompanies the referral.
+
+**What to bring**
+
+1. **Recent imaging**: Weight-bearing AP pelvis, AP hip, lateral views for hip pathology. Weight-bearing full-length bilateral leg views + PA knee views for knee OA. MRI is rarely first-line for primary OA assessment — X-rays remain the gold standard for surgical planning.
+
+2. **Medication list**: Complete and current, including OTC medications, supplements, anticoagulants, immunosuppressants, and GLP-1 drugs. These directly influence surgical planning.
+
+3. **Medical history summary**: Cardiac, respiratory, renal, and endocrine comorbidities. Recent surgical history.
+
+4. **Allied health records**: Physiotherapy course and outcomes, hydrotherapy experience, exercise capacity assessment.
+
+5. **Patient goals and expectations**: What does the patient want to return to? Golf, travel, gardening, occupational demands? This shapes the conversation about appropriate intervention.
+
+**What to expect at the consultation**
+
+The first consultation is a two-way assessment. I review:
+- Clinical history, symptom progression, and functional impact
+- Examination findings (gait, range of motion, neurovascular assessment)
+- Imaging
+- Patient goals and lifestyle expectations
+
+The consultation does *not* commit the patient to surgery. It provides a structured assessment and a frank discussion about options — conservative continuation, optimisation, or surgical planning.
+
+**Managing patient expectations before referral**
+
+Some patients arrive expecting an immediate booking. Others are anxious that referral means surgery is imminent. GPs can helpfully frame it as: "I'm referring you to see what your options are — there's no obligation to proceed, and this is about having an informed conversation."
+
+This framing reduces anxiety, improves engagement, and usually results in more productive consultations.
+
+**Referral letter essentials**
+
+Beyond demographics, the most useful information to include:
+- Duration and progression of symptoms
+- Conservative treatments trialled (physiotherapy, injections, analgesics) and response
+- Current functional limitation (not just symptom description)
+- Co-morbidities relevant to surgical risk
+- Patient's own goals and values
+- Any psychosocial factors affecting recovery potential
+
+I value clear, complete referrals — and I'm always available for a quick discussion before you refer if a case is complex.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/ask-the-surgeon-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A warm, empty orthopaedic consulting room — two chairs facing each other across a clean timber desk. Morning light through venetian blinds casts soft horizontal lines across the surface. A notepad and pen. No people. Ship Cove blue (#A2B9D8) in the cushion colour and a small plant. Quiet, professional, welcoming."""},
+
+{"id":112,"date":"2026-06-06","day":"Saturday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Prehabilitation Before Joint Replacement — Does It Really Make a Difference?",
+"caption":"""Can exercising *before* your hip or knee replacement surgery actually improve your recovery?
+
+The short answer: yes. The research is clear.
+
+Patients who complete a structured prehabilitation program in the 6–8 weeks before joint replacement surgery tend to:
+
+✔️ Walk further and faster at 6 weeks post-op
+✔️ Regain independence more quickly
+✔️ Report less pain in the early recovery period
+✔️ Feel more confident and less anxious going into surgery
+
+Prehab doesn't have to be intense. It's about strengthening the muscles around your hip or knee so they're ready to work hard in recovery.
+
+Even gentle exercises — seated leg raises, resistance band work, regular walking, hydrotherapy — make a measurable difference.
+
+Ask your GP about a physiotherapy referral for pre-operative conditioning. Or mention it at your orthopaedic appointment.
+
+Read more about prehabilitation at the link below.
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #JointReplacement #RecoveryTracking #HipReplacement #KneeReplacement #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-26-facebook.jpg",
-"nanobanana_prompt":"""Person checking a smartwatch on their wrist during a morning walk in a park, golden light filtering through trees, figure soft and active, no face visible, modern health lifestyle photography"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Warm wellness studio interior, large windows with soft diffused morning light, a practitioner's hands (anonymous, no face, no identity) guiding a gentle leg extension, clean timber floors, lush plants in background, premium lifestyle healthcare feel. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Prehabilitation Before Joint Replacement — Does It Really Make a Difference?. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
 
-{"id":43,"date":"2026-05-28","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Life After Knee Replacement: 1 Week to 12 Months",
-"caption":"""Life after knee replacement — from day one to one year. 📅
+{"id":114,"date":"2026-06-06","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Perioperative Optimisation — The Evidence for Timing Surgery Around Medical Comorbidities",
+"caption":"""Timing elective joint replacement around patient comorbidities: an evidence-based framework.
 
-Swipe through six realistic milestones and what to expect at each stage →
+The decision of *when* to operate is as clinically important as the decision *to* operate. Elective arthroplasty in a patient with suboptimally managed comorbidities is associated with higher complication rates, longer length of stay, and inferior outcomes — all of which are preventable with appropriate pre-operative optimisation.
 
-The journey from surgery to full recovery is gradual — and that’s normal. Each milestone builds on the last.
+**Cardiovascular disease**
 
-The most important thing to remember: improvement continues for up to 12 months. If you’re at 3 months and not where you hoped to be, keep going.
+Current evidence and anaesthetic guidance support proceeding with elective arthroplasty if:
+- No acute coronary event or intervention in the preceding 3 months (ideally 6 months post-CABG or major cardiac intervention)
+- Stable angina, well-controlled hypertension, and compensated heart failure are not absolute contraindications
+- Stress testing or cardiology review is indicated for patients with poor functional capacity (unable to climb a flight of stairs or walk on flat ground without symptoms)
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full recovery information at drchienwenliew.com.au 🔗 Link in bio
+**Diabetes**
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #KneeReplacementRecovery #LifeAfterSurgery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #RecoveryTimeline #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-28-instagram.jpg",
-"nanobanana_prompt":"""Person resting at home post-surgery, leg elevated on pillow, soft sunlight through curtains, cosy warm domestic setting, figure gently blurred|Person walking with a walking stick in a green park, figure soft and progressing, morning light through trees|Person confidently walking through a shopping centre, upright posture, natural light through skylights, figure soft|Person playing golf on a wide dewy green at dawn, figure small and soft, mist rising, golden backlight, aspirational"""},
+HbA1c is the most actionable pre-operative marker:
+- HbA1c <7.5%: proceed with standard protocols
+- HbA1c 7.5–9.0%: optimisation recommended; proceed with diabetes team input
+- HbA1c >9.0%: elective arthroplasty should generally be deferred; risk of wound complications and PJI is substantially elevated
 
-{"id":44,"date":"2026-05-29","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Can Patients Kneel After Total Knee Replacement?",
-"caption":"""Can patients kneel after total knee replacement? The answer is changing.
+**Respiratory disease**
 
-Kneeling after knee replacement has historically been discouraged — and many patients are still told it is not possible. The evidence tells a more nuanced story.
+COPD, asthma, and OSA increase anaesthetic risk. Pre-operative spirometry and optimisation of inhaled therapy are indicated for symptomatic respiratory disease. OSA patients should have CPAP established prior to admission — anaesthetic teams should be informed.
 
-Why kneeling has been difficult:
-• The traditional concern is skin numbness and sensitivity over the incision site
-• Early implant designs sometimes made deep knee flexion uncomfortable
-• “Don’t kneel” became a default instruction, often without evidence to support it long-term
+**Renal impairment**
+
+eGFR <30 warrants nephrology review before elective arthroplasty. NSAIDs post-operatively are contraindicated. Anticoagulation and antibiotic dosing require adjustment.
+
+**Anaemia**
+
+Pre-operative haemoglobin <120 g/L independently predicts transfusion requirement and increased complications. Iron deficiency should be identified and treated 4–8 weeks before surgery. IV iron infusion is appropriate where oral supplementation is inadequate or time-constrained.
+
+**Obesity**
+
+BMI >40 increases wound complications, PJI risk, VTE, and anaesthetic complexity. Many units apply a functional BMI threshold rather than a categorical cutoff — what matters is whether active optimisation is underway and whether the surgical risk-benefit balance is favourable. GLP-1 therapy, dietitian input, and realistic weight loss targets should be discussed with the patient.
+
+**The practical message**
+
+A pre-operative assessment letter that flags these issues for the surgeon — not just a "fit for anaesthesia" stamp — is genuinely useful clinical collaboration. I'm happy to receive and respond to detailed GP pre-operative letters.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A clinical whiteboard with handwritten notes — lab values, arrows, a simple timeline — slightly out of focus, warm light. Clean desk in the foreground with a stethoscope and a single manila folder. Ship Cove blue (#A2B9D8) folder tab. No people. The craft of pre-operative planning."""},
+
+{"id":118,"date":"2026-06-08","day":"Monday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Knee Replacement — What Actually Gets Replaced (Patient Explainer)",
+"caption":"""What actually gets replaced in a total knee replacement? Most people assume it's the whole knee. It isn't.
+
+Here's the simple version:
+
+Your knee joint is made up of three bones: the lower end of the thigh bone (femur), the top of the shin bone (tibia), and the kneecap (patella). Smooth cartilage covers these surfaces to allow painless movement.
+
+In knee replacement surgery, we don't remove the bones. We remove the *damaged surface* of each bone — a few millimetres — and cap them with precision-engineered metal and plastic components.
+
+The ligaments and soft tissue around your knee stay in place. Your knee still bends and straightens the same way. You just don't have the worn-out, bone-on-bone surfaces causing the pain.
+
+That's it.
+
+Most patients are surprised by how logical and minimal the procedure actually is — and how quickly they're up and walking after.
+
+If you'd like to understand the procedure in more detail, we have a full explanation on the website.
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/knee/what-is-a-total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Contemporary private medical suite with warm timber joinery, deep leather chair, architectural desk lamp casting warm light, abstract artwork on white walls, no people, prestigious and calm. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Knee Replacement — What Actually Gets Replaced (Patient Explainer). LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":116,"date":"2026-06-09","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Outpatient Joint Replacement — Same-Day Discharge, What the Evidence Shows",
+"caption":"""Same-day discharge arthroplasty: evidence, patient selection, and the Australian context.
+
+Outpatient total joint arthroplasty — defined as same-day or next-morning discharge — has expanded dramatically in North America and the UK over the past decade. The question for Australian practice is: what does the evidence actually show, and is it appropriate for our setting?
+
+**What the evidence shows**
+
+Multiple systematic reviews and RCT data from high-volume North American centres consistently demonstrate:
+- Complication rates comparable to inpatient TJR in appropriately selected patients
+- No significant difference in 30-day readmission rates between outpatient and inpatient protocols
+- High patient satisfaction with outpatient discharge — most patients prefer their own environment for recovery
+- Significant reduction in hospital-acquired complications (falls, HCAI, delirium in older patients)
+
+The ANCHOR trial and subsequent registry studies suggest that patient selection is the primary determinant of safety.
+
+**Selection criteria for same-day discharge**
+
+Appropriate candidates share a profile:
+- ASA I or II (selected ASA III with stable, well-controlled comorbidities)
+- BMI <40
+- Adequate home support — responsible adult carer for the first 24 hours
+- Suitable home environment (ground-floor access or elevator, safe bathroom)
+- Motivated, educated patient who understands the protocol
+- Surgeon and anaesthetist comfortable with the approach
+
+**What makes it work clinically**
+
+The precondition for safe early discharge is not speed — it is a protocol built around multimodal anaesthesia, same-day physiotherapy mobilisation, optimised post-discharge pain management, and clear re-presentation criteria. Remote monitoring and nurse-led phone follow-up in the first 24–48 hours are standard in published outpatient protocols.
+
+**The Australian context**
+
+Outpatient TJR is emerging at select private hospital centres in Australia. Eastwood Private Hospital supports appropriate early discharge protocols with structured post-discharge nursing follow-up. For carefully selected patients, this is both safe and increasingly preferred.
+
+The goal is not to discharge patients faster. It is to discharge them when *they* are ready — for some, that is the same day; for others, the appropriate inpatient stay remains the right choice.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patient discharge lounge — clean armchairs, low natural light, wide windows. Empty. Ship Cove blue (#A2B9D8) upholstery. The quiet of same-day discharge, post-procedure. A single set of discharge notes on an armrest, slightly angled. No people. Modern, reassuring, efficient."""},
+
+{"id":120,"date":"2026-06-13","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Aseptic Loosening — How Implant Fixation Fails and What Surgeons Do About It",
+"caption":"""Aseptic loosening remains the leading cause of late implant failure and revision arthroplasty, accounting for approximately 30–40% of THA revisions and the majority of late TKA failures in the AOANJRR dataset.
+
+Understanding its mechanism is essential for both primary surgical decision-making and post-operative surveillance.
+
+**The pathophysiological mechanism**
+
+Aseptic loosening is not a simple mechanical failure. The predominant mechanism is particle-induced osteolysis:
+
+1. Micro-wear debris is generated at bearing surfaces and modular junctions
+2. Macrophages phagocytose submicron particles, triggering a chronic inflammatory response
+3. RANKL-mediated osteoclast activation drives progressive periprosthetic bone resorption
+4. Loss of bone support leads to component micromotion
+5. Fibrous tissue interposes at the bone-implant interface, replacing osseous integration
+6. Progressive loosening ensues — often silent until bone loss is advanced
+
+**Reducing loosening risk: the evidence-based approach**
+
+*Bearing surface selection*: The shift to highly cross-linked polyethylene (HXLPE) has been the single most impactful change in reducing osteolysis from wear debris. Volumetric wear rates of HXLPE are 70–90% lower than conventional polyethylene. This is now standard in our practice for acetabular liners and tibial inserts.
+
+*Cement technique*: In cemented constructs, third-generation cementing technique (lavage, pressurisation, retrograde fill, centrifugation) significantly reduces cement mantle defects — the primary initiation site for cemented implant loosening.
+
+*Cementless fixation quality*: Press-fit accuracy, surface preparation, and host bone quality all determine the quality of osseointegration. Poor primary stability leads to fibrous integration — the precursor to aseptic loosening in cementless systems.
+
+*Component alignment*: Malalignment increases bearing surface stress and accelerates wear. This is the mechanical argument for alignment precision — whether through conventional instrumentation, patient-specific guides, or robotic assistance.
+
+**Surveillance and clinical recognition**
+
+Aseptic loosening often presents as activity-related pain — classically "start-up pain" in THA, or a sense of instability in TKA. Plain X-ray is first-line; progressive radiolucent lines, component migration, or periprosthetic bone loss warrant orthopaedic review. Early identification allows for planned revision before catastrophic bone loss.
+
+GPs seeing previously well post-arthroplasty patients with new-onset activity pain should refer for orthopaedic review — do not reassign to musculoskeletal causes without imaging assessment of the implant.
+
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip/longevity-of-a-hip-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Macro photograph of a retrieved cementless acetabular cup — back-surface corrosion and fibrous tissue on the porous coating, studio-lit on a black background. Titanium surface detail razor-sharp. Ship Cove blue (#A2B9D8) glint in the metal. No people. Clinical truth, zero sentimentality."""},
+
+{"id":125,"date":"2026-06-17","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Antibiotic Prophylaxis in Dental Procedures Post-Joint Replacement",
+"caption":"""Antibiotic prophylaxis before dental procedures in patients with joint replacements — what the current evidence says for GPs.
+
+This question comes up regularly in general practice and the guidance has evolved. Here's a practical summary of where things stand.
+
+The concern:
+Bacteraemia from dental procedures (particularly extractions, scaling, invasive work) has historically raised concern about haematogenous seeding of joint replacement implants. Prosthetic joint infection (PJI) is a devastating complication, with morbidity, prolonged treatment, and high revision rates.
 
 What the evidence shows:
-• Many patients can kneel after total knee replacement — but it often requires practice, progression and patience
-• The barrier is frequently psychological or related to soft tissue sensitivity, not structural implant damage
-• Studies show that patients who are encouraged to practise kneeling are more likely to achieve it than those who are advised against it
-• Kneeling does not harm the implant in most cases
+The link between dental bacteraemia and late PJI is poorly supported by epidemiological data. Large observational studies have not demonstrated a consistent association between dental procedures and subsequent PJI. This has led to a significant shift in guidance over the past decade.
 
-Clinical implication:
-Surgeons and physiotherapists who routinely encourage kneeling practice post-TKR achieve higher rates of patient kneeling at 12 months. This should now be part of standard rehabilitation guidance.
+Current position — Australian context:
+The Australian Dental Association (ADA) and the Australian Orthopaedic Association (AOA) do not recommend routine antibiotic prophylaxis for dental procedures in patients with joint replacements. This aligns with the American Academy of Orthopaedic Surgeons (AAOS) 2022 position, which moved away from a blanket prophylaxis recommendation.
 
-My approach is to encourage patients to gradually attempt kneeling from around 12 weeks post-operatively, progressing with physiotherapy support. Most patients who persist will achieve functional kneeling.
+When prophylaxis may still be considered:
+- Immunocompromised patients (rheumatoid arthritis on DMARDs/biologics, post-transplant, poorly controlled diabetes)
+- Patients within 2 years of joint replacement surgery (some surgeons still recommend a cautious approach in this window)
+- Patients with prior PJI or history of haematogenous implant infection
+- Invasive dental procedures in high-risk patients — discuss with the operating surgeon
 
-If you have patients asking about kneeling after TKR, please direct them to the full article on my website.
+Practical approach:
+For most healthy patients with a well-functioning joint replacement, routine dental prophylaxis is not indicated. For immunocompromised patients or those in the early post-operative window, a case-by-case discussion with the patient's orthopaedic surgeon is appropriate.
 
-#TotalKneeReplacement #KneeReplacement #KneelingAfterSurgery #AdelaideOrthopedics #GPReferral #MedEd #ArthroplastyAustralia #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-kneel-after-a-total-knee-replacement/","image_file":"2026-05-29-linkedin.jpg",
-"nanobanana_prompt":"""Person kneeling to tend a garden, soft afternoon light, lush garden background, figure warmly blurred, lifestyle photography, no face visible, positive recovery aesthetic"""},
+Happy to discuss individual cases with referring GPs.
 
-{"id":45,"date":"2026-05-31","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"5 Signs You Might Need a Hip Replacement",
-"caption":"""5 signs your hip might be telling you it’s time to see a specialist. 🚨
+#JointReplacement #DentalProphylaxis #ProstheticJointInfection #GPEducation #AdelaideOrthopaedics #MedEd #Arthroplasty #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-09-04-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A dental chair seen from the waiting area doorway — sterile, empty, lit by overhead operatory light. Through the open window beside it, soft outdoor greenery. Ship Cove blue (#A2B9D8) accent in the chair upholstery. No people. The intersection of dental and orthopaedic care, quietly posed."""},
 
-These aren’t diagnostic criteria — but if several of these sound familiar and have been going on for months, a GP assessment is a smart move.
+{"id":123,"date":"2026-06-19","day":"Friday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Using technology to enhance total hip replacement surgery accuracy",
+"caption":"""Hip resurfacing or total hip replacement — what's the difference, and which one is right for you?
 
-1️⃣ Deep groin or buttock pain that’s there most days
-Especially if it’s worse with walking or getting up from a chair.
+This is a question I hear regularly in the clinic. Both procedures treat end-stage hip arthritis, but they work differently and suit different patients.
 
-2️⃣ Stiffness in the morning that takes time to ease
-Or stiffness after sitting for a while, that loosens up after you’ve been moving.
+Total Hip Replacement (THR):
+The worn ball and socket are completely replaced with a prosthetic implant — a metal stem in the thigh bone, a ceramic or metal ball, and a plastic or ceramic cup in the pelvis. This is by far the most common procedure and has outstanding long-term outcomes.
 
-3️⃣ Difficulty with everyday tasks
-Putting on shoes and socks, getting in and out of a car, clipping your toenails.
+Hip Resurfacing:
+Instead of removing the femoral head, it is reshaped and capped with a metal cover. The socket side is replaced as in a standard THR. The femoral bone is largely preserved.
 
-4️⃣ A limp that’s becoming more noticeable
-Especially later in the day or after longer walks.
+Who might be suitable for resurfacing?
+Resurfacing is generally considered for younger, active patients (typically men under 60) with good bone quality, normal femoral head shape, and no significant deformity. It's not suitable for women (higher risk of adverse reactions to the metal-on-metal bearing), patients with osteoporosis, or those with abnormal anatomy.
 
-5️⃣ Pain that’s stopping you from sleeping through the night
-Night pain is a significant symptom that warrants attention.
+The trade-off:
+Resurfacing preserves more bone and may allow a more active lifestyle for selected patients. However, it uses a metal-on-metal bearing — which carries a risk of adverse local tissue reactions in some patients and requires ongoing monitoring. Revision rates in resurfacing are higher than in primary THR for the broader population.
 
-If this sounds like you, start with your GP. A referral to an orthopaedic surgeon for assessment doesn’t commit you to surgery — it gives you information.
+Most patients are better served by a total hip replacement. For a small, carefully selected group, resurfacing remains a valid option.
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
+The right procedure for you depends on your age, anatomy, bone quality, activity goals, and individual risk factors — something to discuss in detail at consultation.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipArthritis #HipPain #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalHipReplacement #HipHealth #PatientEducation #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-05-31-instagram.jpg",
-"nanobanana_prompt":"""Person sitting on a park bench, hand gently resting on their hip, soft morning light, trees and path in background, figure gently focused, empathetic lifestyle photography"""},
-
-{"id":46,"date":"2026-06-01","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Obesity and Total Joint Replacement",
-"caption":"""Obesity and total joint replacement: navigating a complex and increasingly common clinical scenario.
-
-Obesity is the single most modifiable risk factor for outcomes in elective arthroplasty — and it is also the most prevalent co-morbidity in patients presenting for joint replacement in Australia.
-
-The evidence is clear: higher BMI is associated with:
-• Increased surgical site infection and wound complication rates
-• Higher rates of VTE
-• Increased peri-prosthetic joint infection risk
-• Higher revision rates at 10 and 15 years
-• Greater anaesthetic risk
-
-The challenge: many of these patients have severe, debilitating arthritis that is itself driving weight gain through functional inactivity. Declining surgery “until they lose weight” can create a clinical catch-22 that is not always in the patient’s best interest.
-
-My approach:
-• BMI < 35: no BMI-related barrier to surgery in most cases
-• BMI 35–40: individual discussion about risks; surgery in the context of otherwise good health and failed conservative management
-• BMI > 40: I recommend a genuine weight reduction effort prior to listing. I refer to bariatric services where appropriate and re-assess. I will operate on patients with BMI > 40 in carefully selected circumstances where the risk-benefit is clearly favourable.
-
-The conversation about BMI and surgery is one I have directly and honestly with every patient it applies to. It is a clinical discussion, not a judgment.
-
-For GP colleagues: a warm referral to bariatric services or a structured weight management programme before the orthopaedic consultation can meaningfully change what we can offer a patient.
-
-#Arthroplasty #ObesityAndSurgery #TotalJointReplacement #GPReferral #AdelaideOrthopedics #MedEd #SurgicalRisk #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-01-linkedin.jpg",
-"nanobanana_prompt":"""Orthopaedic surgeon reviewing a thick patient file at a timber desk, reading glasses, warm desk lamp, professional and considered, no face clearly visible, premium medical setting"""},
-
-{"id":47,"date":"2026-06-02","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Anatomy","topic":"What Gets Replaced in a Knee Replacement?",
-"caption":""""They replace your whole knee" — actually, that’s not quite right. Let me explain. 🔍
-
-Despite being called a “knee replacement,” the surgery resurfaces the damaged bone ends rather than replacing the entire knee structure.
-
-Your ligaments, tendons, and muscles remain. What changes are the joint surfaces.
-
-Here’s what the implant system consists of:
-
-🔶 Femoral component — a curved metal cap on the lower femur
-🔶 Tibial tray — a flat metal plate on the tibia
-🔶 Polyethylene spacer — the smooth plastic “cushion” between the two metal parts
-🔶 Patellar button — a plastic dome on the back of the kneecap (in most cases)
-
-Together, these components recreate the smooth gliding surface that arthritis has destroyed.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #KneeAnatomy #TKR #WhatIsKneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #JointHealth #BoneHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=WvZQqRq_4mI","image_file":"2026-06-02-instagram.jpg",
-"nanobanana_prompt":"""Photorealistic 3D render of total knee replacement: polished cobalt chrome femoral component and white polyethylene tibial insert, dramatic dark studio lighting|3D render of distal femur and proximal tibia side-by-side before and after knee replacement, clinical precision, dark background|Illustrated cut-away of knee joint showing implant seated in bone, integration lines visible, medical model render, dark navy|Close-up 3D render of knee implant bearing surface catching studio light, premium material photography, dark background"""},
-
-{"id":48,"date":"2026-06-02","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Hip Arthritis: Causes, Symptoms & Treatment Options",
-"caption":"""Hip arthritis: understanding the condition before making decisions about treatment.
-
-Hip arthritis is one of the most common causes of hip pain in adults over 50 — and understanding it properly helps you navigate your options with more confidence.
-
-What causes hip arthritis?
-The most common cause is osteoarthritis — a gradual wearing away of the cartilage that cushions the hip joint. Other causes include inflammatory arthritis (rheumatoid, psoriatic), avascular necrosis, hip dysplasia, and post-traumatic arthritis.
-
-Common symptoms:
-• Deep groin or buttock pain, often worse with activity
-• Morning stiffness or stiffness after sitting
-• Difficulty with tasks like putting on shoes, getting in and out of cars
-• A limp that develops over time
-
-Treatment options (in order of consideration):
-Physiotherapy, weight management, activity modification, and analgesia are the first-line approach for most patients. When these are no longer sufficient, a specialist assessment is the appropriate next step — at which point surgery may be discussed.
-
-I’ve put together a comprehensive guide to hip arthritis on the website. The link is below.
+👉 drchienwenliew.com.au
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipArthritis #HipReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-06-02-facebook.jpg",
-"nanobanana_prompt":"""Older person in a consultation room holding an X-ray up to window light, figure thoughtful and slightly blurred, warm natural light, no face clearly visible, empathetic healthcare photography"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/enhanced-accuracy-during-hip-replacement-surgery/","image_file":"2026-09-01-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Elegant private hospital atrium, soaring glass and timber architecture, warm ambient light reflecting off polished limestone floors, a single potted ficus in the distance, no people, premium private healthcare aesthetic. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Hip Resurfacing vs Total Hip Replacement. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
 
-{"id":49,"date":"2026-06-04","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Hip Replacement: From Diagnosis to Recovery",
-"caption":"""The full journey — from noticing hip pain to getting your life back. 🗓️
+{"id":127,"date":"2026-06-19","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Stress Shielding and Long-Term Bone Remodelling in Cementless THA",
+"caption":"""Stress shielding in cementless total hip arthroplasty — an underappreciated long-term consideration.
 
-Swipe through the 7 stages of the hip replacement journey →
+Stress shielding refers to the reduction in bone density around a stiff implant that bears load preferentially through the prosthesis rather than the surrounding bone. In cementless THA, this is a well-recognised radiographic finding — and in some cases, a clinical one.
 
-Understanding the full pathway — from that first GP conversation to returning to the activities you love — helps make each step feel less daunting.
+The biomechanics:
+Bone remodelling follows Wolff's Law — bone adapts to the mechanical loads placed upon it. When a stiff metal stem takes over load transmission, the proximal femur is shielded from normal physiological stress. The result: proximal femoral bone loss, most pronounced in Gruen zones 1 and 7, and sometimes extending to zone 2.
 
-The journey is different for everyone. But the stages are predictable, and each one gets you closer to where you want to be.
+Clinical significance:
+- Most stress shielding is radiographic rather than symptomatic
+- Severe proximal bone loss complicates future revision — reduced bone stock, altered implant fixation options
+- Distal cortical hypertrophy can occur as load bypasses the proximal femur
+- The degree of shielding correlates with stem stiffness, fixation level, and stem design
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full patient guide at drchienwenliew.com.au 🔗 Link in bio
+Design considerations:
+Tapered wedge stems with metaphyseal loading tend to produce less proximal bone loss than extensively coated cylindrical stems with diaphyseal fixation. Shorter stems, metaphyseal-engaging designs, and composite materials (titanium vs cobalt-chrome) each influence remodelling patterns.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TotalHipReplacement #PatientJourney #HipReplacementJourney #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipHealth #AdelaideHealth #JointReplacement #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-06-04-instagram.jpg",
-"nanobanana_prompt":"""GP consulting room, patient and doctor in conversation across a desk, warm professional lighting, figures gently blurred, framed prints on wall|Modern surgical theatre from above, sterile blue drapes, team of surgeons as blurred figures, cinematic clinical lighting|Bright private hospital room, white linen, morning sunlight, fresh flowers on bedside table, no people, healing and warm|Person walking confidently along a tree-lined park path, golden morning light, figure soft and aspirational"""},
+Follow-up:
+Routine surveillance X-rays are important in all THA patients, but particularly those with extensively coated stems — particularly if revision is a future prospect.
 
-{"id":50,"date":"2026-06-05","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Anterior vs Posterior Hip Approach — Clinical Evidence Summary",
-"caption":"""Anterior vs posterior approach for total hip arthroplasty: what the evidence actually says in 2025.
+What are you seeing in your patients with longer-term follow-up?
 
-This is one of the most frequently debated topics in arthroplasty — and worth a balanced review. My summary of the current evidence:
+#TotalHipArthroplasty #StressShielding #BoneRemodelling #CementlessTHA #Arthroplasty #OrthopedicsResearch #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip/longevity-of-a-hip-replacement/","image_file":"2026-09-07-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A cross-section model of a proximal femur with a cementless stem — cortical bone thinning visible at the mid-stem. Studio lighting, white surface. Bone density gradient rendered from ivory to ash. Deep Navy (#0B1F3A) background. Ship Cove blue (#A2B9D8) accent in the labelling. No people. Long-term biology, sharply told."""},
 
-Short-term outcomes (0–6 weeks):
-The DAA consistently demonstrates advantages in the immediate post-operative period: earlier independent ambulation, less use of mobility aids, and faster initial recovery in multiple RCTs and meta-analyses. This is reproducible across adequately powered studies.
+{"id":129,"date":"2026-06-25","day":"Thursday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"What is Hip Impingement and Can It Lead to Joint Replacement?",
+"caption":"""Hip impingement — what it is, what it means, and whether it can lead to a hip replacement.
 
-Medium-term outcomes (3–24 months):
-The short-term advantages of the DAA largely equalise by 3–6 months. By 1 year, functional outcomes and patient-reported scores are comparable between approaches in most well-designed studies.
+Hip impingement (or femoroacetabular impingement — FAI) is a condition where abnormal contact occurs between the ball of the hip joint and the rim of the socket during movement. Over time, this repeated abnormal contact can cause pain, damage to the labrum, and in some cases, progressive cartilage damage.
 
-Complication rates:
-• Dislocation: DAA consistently shows lower dislocation rates
-• Femoral complications (stem subsidence, periprosthetic fracture): slightly higher in some DAA series — attenuated with experience and appropriate technique
-• Wound complications: broadly comparable
-• Nerve injury: lateral femoral cutaneous nerve palsy more common with DAA (usually transient)
+There are two main types:
+• Cam impingement — a bump on the femoral head (the ball) causes it to catch on the socket during flexion and rotation. Common in young active men.
+• Pincer impingement — extra bone on the rim of the acetabulum (the socket) causes the labrum to be pinched. More common in women.
+Many patients have a combination of both.
 
-Learning curve:
-The DAA has a well-documented learning curve. Outcomes and complication rates improve significantly beyond ~100 cases. Surgeons in the early phase of adopting the approach should be transparent with patients.
+Symptoms:
+• Deep groin pain or aching in the front of the hip
+• Pain with prolonged sitting, bending forward, or twisting
+• Reduced range of motion
+• Pain that came on gradually in a previously active person
 
-My position: I use the DAA as my primary approach for suitable patients, with posterior approach reserved for cases where anatomy makes it the safer technical choice. Patient selection matters more than approach preference.
+Does FAI lead to hip replacement?
+Not necessarily — and not automatically. Many patients with impingement do well with physiotherapy, activity modification, and in some cases arthroscopic surgery to reshape the impinging bone and repair the labrum.
 
-Reference: Higgins et al. JBJS 2022 meta-analysis; AOANJRR 2024 approach-specific data.
+However, if FAI goes undiagnosed and untreated over many years, the progressive cartilage damage can eventually lead to hip osteoarthritis — and at that point, a joint replacement becomes more likely.
 
-#AnteriorApproach #PosteriorApproach #TotalHipReplacement #Arthroplasty #MedEd #SurgicalTechnique #AdelaideOrthopedics #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-06-05-linkedin.jpg",
-"nanobanana_prompt":"""Open medical journal next to an orthopaedic anatomy model on a timber desk, warm desk lamp, reading glasses nearby, scholarly professional still life, no people"""},
+Early diagnosis and appropriate management is the key to preserving the joint for as long as possible.
 
-{"id":51,"date":"2026-06-07","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"What Is Minimally Invasive Surgery?",
-"caption":"""What does “minimally invasive” actually mean in hip surgery? 🔬
+If you have groin pain and are in your 30s, 40s or 50s — it's worth getting it assessed.
 
-It’s a term that gets used a lot — and it’s worth understanding what it means in practice.
-
-In the context of hip replacement, “minimally invasive” can refer to:
-
-🔵 A smaller skin incision (compared to traditional approaches)
-🔵 Less disruption to the surrounding muscles
-🔵 An approach that works between muscle planes rather than cutting through them
-
-The Direct Anterior Approach is one example of a minimally invasive technique for hip replacement — it accesses the hip joint through a natural gap between muscles, without detaching any muscle from the bone.
-
-Benefits in appropriate patients:
-→ Potentially faster early recovery
-→ Less post-operative muscle pain
-→ Earlier return to walking without aids in some cases
-
-But: “minimally invasive” doesn’t mean risk-free, and it isn’t suitable for every patient. The right approach depends on individual anatomy and the surgeon’s experience.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#MinimallyInvasiveSurgery #HipReplacement #DirectAnteriorApproach #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipSurgery #PatientEducation #AdelaideHealth #JointHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/minimally-invasive-surgery/","image_file":"2026-06-07-instagram.jpg",
-"nanobanana_prompt":"""Modern laparoscopic surgical equipment on a clean clinical surface, soft blue-white lighting, polished instruments catching light, premium medical technology photography, no people"""},
-
-{"id":52,"date":"2026-06-08","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Cemented vs Uncemented Implants in THA",
-"caption":"""Cemented vs uncemented fixation in total hip arthroplasty: evidence-based selection criteria.
-
-The choice between cemented and uncemented fixation in THA is one of the most important implant-related decisions — and one where the evidence guides a nuanced, patient-specific approach.
-
-Uncemented (press-fit) fixation:
-Relies on bone ingrowth (osseointegration) into a porous-coated implant surface. Requires adequate bone quality and density for successful integration.
-
-• Preferred in patients < 70–75 with good bone stock
-• Lower revision rates at 15 years in younger patients (AOANJRR data)
-• No cement mantle to fail over time
-• Technical demands: requires precise templating and press-fit preparation
-
-Cemented fixation:
-Relies on polymethylmethacrylate (PMMA) bone cement for immediate fixation. Provides reliable fixation regardless of bone quality.
-
-• Preferred in older patients, those with osteoporosis, or abnormal bone morphology
-• Excellent long-term survivorship in appropriate cases
-• Polished tapered cemented stems (Exeter-type) have one of the best track records in the global arthroplasty literature
-• Cement-in-cement revision technique simplifies some revision scenarios
-
-Hybrid fixation:
-Uncemented cup + cemented stem — used in specific scenarios, particularly in older patients where uncemented cup fixation is biomechanically sound but femoral bone quality favours a cemented stem.
-
-The AOANJRR 2024 data continues to support uncemented fixation as associated with lower revision rates in patients under 75, with cemented fixation remaining the preferred option in appropriate older patients.
-
-#TotalHipReplacement #CementedVsUncemented #ImplantFixation #Arthroplasty #SurgicalTechnique #MedEd #AdelaideOrthopedics #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/materials-in-a-total-hip-replacement/","image_file":"2026-06-08-linkedin.jpg",
-"nanobanana_prompt":"""Two orthopaedic hip implant stems side by side on a dark surface: one polished titanium, one porous-coated uncemented, dramatic studio lighting catching surface detail, medical product photography"""},
-
-{"id":53,"date":"2026-06-09","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Stat Card","topic":"Joint Replacement Satisfaction Rates",
-"caption":"""One of the most studied surgical procedures in medicine.
-
-Joint replacement consistently achieves some of the highest patient satisfaction rates of any elective surgery.
-
-What the Australian data shows:
-
-📊 95%+ of hip replacement patients report the surgery met or exceeded their expectations*
-📊 85–90% of knee replacement patients report significant pain reduction and functional improvement*
-📊 Implant survival > 90% at 15 years for most modern designs
-
-These aren’t marketing figures — they’re registry data from one of the world’s most rigorous orthopaedic monitoring systems.
-
-*Source: AOANJRR Patient Reported Outcome Measures (PROMs) data; AOANJRR Annual Report 2024
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #AOANJRR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientOutcomes #AustralianHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-06-09-instagram.jpg",
-"nanobanana_prompt":"""Couple in their 60s laughing and walking in a botanical garden, figures softly blurred, vibrant green trees, golden afternoon light, joyful and aspirational lifestyle photography"""},
-
-{"id":54,"date":"2026-06-09","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Minimally Invasive Hip Surgery in Adelaide",
-"caption":"""Minimally invasive hip surgery in Adelaide — what it means and how I approach it.
-
-Minimally invasive techniques in hip replacement aim to reduce the impact of surgery on the surrounding muscles and soft tissues — with the goal of a faster, less painful early recovery.
-
-At Orthopaedics 360, I use the Direct Anterior Approach as my primary technique for suitable patients undergoing total hip replacement. This approach enters the hip through a natural gap between muscle groups at the front of the hip, without cutting or detaching any muscle from the bone.
-
-For appropriate patients, this can mean:
-• Walking independently sooner after surgery
-• Less post-operative muscle discomfort
-• Reduced risk of dislocation in carefully selected patients
-
-Not every patient is a candidate for the anterior approach. Anatomy, body type, and the specific surgical problem all influence the choice of approach.
-
-I’d encourage anyone considering hip replacement to ask their surgeon about the technique they use, why they use it, and whether it’s appropriate for their situation.
-
-More information is available at the link below.
+👉 drchienwenliew.com.au
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #MinimallyInvasiveSurgery #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/minimally-invasive-surgery/","image_file":"2026-06-09-facebook.jpg",
-"nanobanana_prompt":"""Modern private hospital exterior at golden hour, warm architectural lighting on glass and timber facade, clean and premium, no people, architectural photography"""},
-
-{"id":55,"date":"2026-06-11","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Knee Replacement FAQs Answered",
-"caption":"""Your most asked questions about knee replacement — answered. ❓
-
-Swipe through 6 FAQs and get evidence-based, plain-English answers →
-
-💬 A few you’ll find in the carousel:
-• “How long will I be in hospital?”
-• “Will I have a scar?”
-• “When can I drive again?”
-• “Is it going to be painful?”
-• “How long does it last?”
-• “Can both knees be done at once?”
-
-If there’s a question you’d like answered that’s not in here, drop it in the comments.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full FAQ guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #KneeReplacementFAQ #AdelaideOrthopaedicSurgeon #Orthopaedics360 #KneeHealth #PatientQuestions #JointReplacement #AdelaideHealth #PatientEducation #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-06-11-instagram.jpg",
-"nanobanana_prompt":"""Person in a bright physiotherapy room with a physio, figures warmly blurred, natural light, encouraging healthcare setting|3D render of knee implant with range-of-motion indicator arrows, dark background, clinical precision|Person doing gentle knee bends at home, soft morning light, warm domestic setting, figure slightly blurred|Person walking confidently through a modern shopping centre, figure soft and upright, skylights above"""},
-
-{"id":56,"date":"2026-06-12","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Multimodal Analgesia in Total Joint Replacement",
-"caption":"""Multimodal analgesia in total joint replacement: the protocol behind faster, more comfortable recovery.
-
-Post-operative pain management in arthroplasty has evolved significantly in the last decade. The shift away from opioid-heavy protocols to multimodal analgesia (MMA) has been one of the most impactful changes in peri-operative care.
-
-The principle of MMA is to target pain through multiple analgesic pathways simultaneously, allowing lower doses of each agent and reducing opioid-related side effects (nausea, sedation, ileus, respiratory depression, addiction risk).
-
-Our current protocol elements:
-
-Pre-operatively:
-• Celecoxib or parecoxib (COX-2 inhibition)
-• Pregabalin or gabapentin (neuropathic component)
-• Paracetamol loading
-
-Intra-operatively:
-• Spinal anaesthetic with intrathecal morphine (extended coverage)
-• Peri-articular infiltration with local anaesthetic cocktail (ropivacaine-based)
-• Intravenous tranexamic acid (reduces post-operative swelling and haematoma)
-
-Post-operatively:
-• Regular paracetamol + NSAIDs (unless contraindicated)
-• Low-dose opioids for breakthrough only
-• Ice and elevation
-• Early physiotherapy mobilisation as an analgesic strategy
-
-Outcome: most patients are walking the same day as surgery and are adequately comfortable on paracetamol + NSAIDs at discharge, with opioids only for breakthrough. Discharge opioid prescribing has decreased substantially in our practice over the past 5 years.
-
-For GP colleagues managing post-discharge analgesia: if a patient appears to need escalating opioid doses beyond 2–3 weeks post-operatively, early review is warranted.
-
-#Arthroplasty #MultimodalAnalgesia #PainManagement #TotalJointReplacement #MedEd #AdelaideOrthopedics #PerioperativeCare #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-12-linkedin.jpg",
-"nanobanana_prompt":"""Clinical pharmacy dispensing area, rows of medication bottles and IV equipment blurred in background, cool professional lighting, healthcare setting photography"""},
-
-{"id":57,"date":"2026-06-14","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Pain Management After Joint Replacement",
-"caption":"""Worried about pain after joint replacement? Here’s an honest guide to what most patients experience. 💬
-
-Let’s be real: surgery is uncomfortable. But modern pain management techniques mean that post-operative pain is much more manageable than many patients fear.
-
-What’s normal in the first few days:
-→ Pain at the surgical site, managed with regular medication
-→ Throbbing or aching, particularly in the evening
-→ Some swelling and bruising around the joint
-
-What helps:
-✔️ Regular paracetamol and anti-inflammatories (as directed)
-✔️ Ice packs (wrapped — not directly on skin)
-✔️ Elevation of the leg when resting
-✔️ Moving and walking regularly — it genuinely helps
-
-When to call your surgical team:
-⚠️ Pain that is suddenly much worse after a period of improvement
-⚠️ Severe pain not controlled by prescribed medication
-⚠️ Signs of wound infection: redness, heat, swelling, discharge
-
-Most patients are surprised by how manageable post-operative pain is with today’s protocols.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #PainManagement #HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PostOpCare #PatientJourney #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-14-instagram.jpg",
-"nanobanana_prompt":"""Person reading comfortably in a sunlit armchair at home, soft warm light through sheer curtains, peaceful domestic setting, figure softly focused, no face visible"""},
-
-{"id":58,"date":"2026-06-15","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Peri-Operative Management of Diabetic Patients for Elective Arthroplasty",
-"caption":"""Peri-operative management of diabetic patients undergoing elective arthroplasty: practical guidance for GP colleagues.
-
-Diabetes mellitus is present in approximately 15–20% of patients undergoing elective joint replacement in Australia. It is one of the most significant modifiable risk factors for post-operative infection, wound complications, and prolonged recovery.
-
-Pre-operative glycaemic targets:
-• HbA1c < 8.5% is our threshold for proceeding with elective surgery. Above this, we defer and ask for GP-led optimisation.
-• HbA1c 7.5–8.5%: proceed with surgery with enhanced monitoring and wound care protocol
-• Fasting glucose on the day of surgery: ideally < 10 mmol/L. We liaise with anaesthetics if above this threshold.
-
-Medication management perioperatively:
-• Metformin: withheld on the day of surgery and until oral intake is resumed
-• SGLT2 inhibitors (empagliflozin, dapagliflozin): withheld 3 days before surgery due to euglycaemic DKA risk
-• Insulin: dose adjustment pre-operatively, guided by anaesthetic team
-• Sulphonylureas: withheld on the day of surgery
-
-Post-operative considerations:
-• Elevated BSL post-operatively is common even in well-controlled patients (physiological stress response)
-• Sliding scale insulin may be required in the first 24–48 hours
-• Wound checks at 2 weeks are particularly important in diabetic patients
-
-If you’re referring a diabetic patient for arthroplasty, please include recent HbA1c and current hypoglycaemic medications in the referral. This significantly streamlines the pre-operative assessment.
-
-#DiabetesAndSurgery #Arthroplasty #PerioperativeMedicine #GPReferral #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-15-linkedin.jpg",
-"nanobanana_prompt":"""Doctor reviewing patient notes with a senior patient in a warm consulting room, empathetic healthcare setting, both figures softly blurred, natural window light, no faces clearly visible"""},
-
-{"id":59,"date":"2026-06-16","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Golf After Hip Replacement",
-"caption":"""Can I get back to golf after hip replacement? ⛳
-
-For many of my patients, this is the question that matters most.
-
-The good news: yes, for most patients, golf is absolutely achievable after hip replacement — with some patience.
-
-⏱️ General timeline (varies for each patient):
-→ Putting and chipping: often from 3 months
-→ Short iron play: 4–5 months
-→ Full swing: typically 5–6 months
-→ Full 18 holes (walking): usually by 6–12 months
-
-Tips for getting back to golf well:
-✔️ Work with a physiotherapist on hip rotation and stability before returning
-✔️ Consider riding a cart before returning to a full walking round
-✔️ Be patient with your swing mechanics — they may change slightly
-✔️ Always get specific clearance from your surgeon before starting
-
-Hip replacement genuinely gives many patients their golf game back — and then some.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #GolfAfterHipReplacement #ReturnToGolf #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ActiveLifestyle #HipHealth #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-16-instagram.jpg",
-"nanobanana_prompt":"""Golfer at dawn on a wide dewy fairway, figure small and softly focused, mist rising from immaculate grass, golden backlight, sweeping green landscape, luxury lifestyle photography"""},
-
-{"id":60,"date":"2026-06-16","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Pain After Joint Replacement — What’s Normal?",
-"caption":"""After joint replacement, how do you know what’s normal and what isn’t?
-
-This is one of the most important things for patients (and their families) to understand in the post-operative period.
-
-What’s generally normal:
-• Surgical site discomfort for the first 2–4 weeks, managed with paracetamol and anti-inflammatories
-• Swelling and bruising around the joint, sometimes extending down the thigh or calf
-• Aching or stiffness at the end of a more active day
-• Disturbed sleep in the first 2–4 weeks
-
-What should prompt a call to your surgeon’s rooms:
-• A sudden increase in pain after a period where things were improving
-• Wound redness, heat, or discharge — these need assessment promptly
-• Calf pain or swelling — possible DVT and requires urgent review
-• Fever > 38.5°C in the first 2 weeks
-
-If in doubt, call. We would always rather hear from a patient who is concerned than have them wait at home with a problem that needs attention.
-
-Our rooms can be reached via the Orthopaedics 360 website.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #JointReplacement #HipReplacement #KneeReplacement #PostOpCare #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-16-facebook.jpg",
-"nanobanana_prompt":"""Person resting comfortably on a couch with leg elevated on cushions, soft warm afternoon light filtering through curtains, cosy domestic setting, no face visible, reassuring lifestyle photography"""},
-
-{"id":61,"date":"2026-06-18","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"5 Things to Prepare at Home Before Surgery",
-"caption":"""Your home environment matters more than you might think for joint replacement recovery. 🏠
-
-Swipe through 5 practical home modifications to organise before your surgery →
-
-Most patients focus all their preparation on the hospital experience — but the real challenge starts when you walk through your front door.
-
-Organising these things before you go in means you can focus on recovery the moment you get home.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full preparation guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#SurgeryPrep #HipReplacement #KneeReplacement #HomePreparation #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #JointReplacement #AdelaideHealth #RecoveryAtHome #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-06-18-instagram.jpg",
-"nanobanana_prompt":"""Clean home entryway with visible grab rail and non-slip mat, soft natural light, domestic and reassuring|Kitchen bench with a reacher tool and simple meal prep items, bright natural light, practical home setting|Comfortable armchair with side table, lamp, water glass and phone charger, warm cosy bedroom setting|Person carefully packing medications into a small ziplock bag, soft domestic light, figure gently focused"""},
-
-{"id":62,"date":"2026-06-19","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Implant Longevity in TJR — What the AOANJRR 2024 Data Shows",
-"caption":"""Implant longevity in total joint replacement: what the AOANJRR 2024 data tells us about 20-year survivorship.
-
-As the volume of joint replacement grows and the age at primary surgery trends younger, implant longevity becomes increasingly important in clinical and patient decision-making.
-
-The AOANJRR 2024 Annual Report provides the most comprehensive Australian longevity data available. Key findings:
-
-Total hip arthroplasty:
-• 15-year cumulative revision rate: ~7–8% across all primary THAs
-• 20-year data (where available): survivorship of 85–90% for well-established uncemented designs
-• Cemented polished tapered stems (Exeter-type): survivorship comparable to top uncemented designs at 20 years
-• Bearing surface: ceramic-on-HXLPE continues to show the lowest wear-related revision rates at all time points
-
-Total knee arthroplasty:
-• 15-year cumulative revision rate: ~7–9% across all primary TKRs
-• Key revision drivers: infection (most common in first 2 years), aseptic loosening (dominant at > 10 years), instability
-• BMI > 40 associated with approximately doubled revision risk at 10 years
-
-Practical implications for clinical practice:
-• For patients under 60 considering TJR: a realistic conversation about the possibility of revision surgery during their lifetime is appropriate — but should not deter surgery when functional limitation is significant
-• For patients 70+: the majority will not outlive a well-performed primary arthroplasty
-• The most impactful predictors of implant longevity are patient selection, implant positioning, and pre-operative optimisation — not implant brand
-
-Reference: AOANJRR Annual Report 2024, Summary Supplement.
-
-#ImplantLongevity #AOANJRR #TotalJointReplacement #Arthroplasty #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-19-linkedin.jpg",
-"nanobanana_prompt":"""Glowing medical data visualisation, smooth upward trend graphs on a dark screen, cool blue analytics aesthetic, no text readable, professional technology photography"""},
-
-{"id":63,"date":"2026-06-21","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"How Long Does a Hip or Knee Replacement Last?",
-"caption":""""How long will my joint replacement last?"
-
-It’s one of the first questions patients ask — and a completely reasonable one. Here’s an honest, evidence-based answer.
-
-📊 What the data says:
-Australian registry data (AOANJRR) shows that the majority of modern hip and knee implants survive well beyond 15 years — with survivorship rates of over 90% at 15 years for many implant systems.
-
-Some implants last 20 years or more. Revision is always a possibility, but for most patients, their first replacement will be their only one.
-
-🧠 What affects how long it lasts:
-→ Your weight — higher BMI increases wear on the implant
-→ Your activity level — high-impact sport accelerates wear
-→ Implant type and positioning at surgery
-→ Your age at the time of surgery
-
-🔵 The good news: even if revision is needed, it’s a well-established procedure with good outcomes in experienced hands.
-
-Source: AOANJRR Annual Report 2024
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #ImplantLongevity #AOANJRR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-21-instagram.jpg",
-"nanobanana_prompt":"""Active couple in their 60s playing doubles tennis on an outdoor court at golden hour, figures soft and energetic, blue-green court, warm evening amber light, aspirational sports lifestyle"""},
-
-{"id":64,"date":"2026-06-22","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Return-to-Sport Guidelines After TJR",
-"caption":"""Return-to-sport after total joint arthroplasty: what the evidence recommends in 2025.
-
-With an increasing number of active and younger patients undergoing TJR, return-to-sport counselling has become a routine part of my pre-operative and post-operative consultations. The evidence base has matured considerably.
-
-General principles:
-• Activity level should progress gradually, guided by pain, function, and physiotherapist assessment
-• The implant can withstand most recreational activities — it is the soft tissue recovery and proprioceptive retraining that usually limits timeline
-• Patient education about high-impact activity and implant wear is appropriate, without creating unnecessary restriction
-
-Evidence-supported activities after THA:
-• Recommended: walking, swimming, cycling, golf, doubles tennis, low-impact aerobics, pilates, yoga, dancing
-• With experience (and discussion): hiking, singles tennis, skiing (piste), light jogging
-• Generally discouraged: contact sports, competitive running, high-impact court sports (squash, singles basketball)
-
-Evidence-supported activities after TKR:
-• Recommended: walking, cycling (stationary and road), swimming, golf, doubles tennis, bowling
-• With experience (and discussion): hiking, skiing, low-level running
-• Generally discouraged: high-impact running, contact sports, heavy squatting with loaded weights
-
-Timeline guidance:
-• Low-impact activity: from 6–12 weeks post-op
-• Sport-specific rehabilitation: from 3 months
-• Return to competitive sport: minimum 6 months, usually 6–12 months depending on sport
-
-I recommend a sport-specific physiotherapy assessment before any return to structured sporting activity.
-
-Reference: Vogel et al., Orthopaedic Journal of Sports Medicine 2023; NICE Guidelines 2023.
-
-#ReturnToSport #TotalJointReplacement #Arthroplasty #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement #ActivePatients""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-22-linkedin.jpg",
-"nanobanana_prompt":"""Mixed group of active people doing aqua aerobics in a sunlit outdoor pool, figures blurred and joyful, bright turquoise water, aspirational active lifestyle photography"""},
-
-{"id":65,"date":"2026-06-23","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Anatomy","topic":"The Anatomy of Hip Replacement — Illustrated",
-"caption":"""What does a hip replacement actually consist of? 🦴
-
-Here’s a visual breakdown of the components that make up a modern total hip replacement.
-
-A total hip replacement resurfaces both sides of the hip joint:
-
-🔵 Femoral stem — inserted into the hollow of the thigh bone (femur) for fixation
-🔵 Femoral head — a precision-engineered ball (usually ceramic or metal) that sits atop the stem
-🔵 Acetabular shell — a metal cup pressed into the socket in the pelvis
-🔵 Acetabular liner — a smooth plastic (HXLPE) or ceramic insert inside the shell
-
-The femoral head articulates with the liner to create the new joint surface — mimicking the smooth, frictionless motion of a healthy hip.
-
-Most components are designed for bone ingrowth (uncemented) or secured with bone cement, depending on the patient’s bone quality and the surgeon’s assessment.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-More at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipAnatomy #TotalHipReplacement #HipImplant #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #BoneHealth #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-06-23-instagram.jpg",
-"nanobanana_prompt":"""Photorealistic 3D render of total hip replacement: titanium stem in femur, ceramic head seated in metal-backed acetabular cup, dark dramatic studio background|3D render of natural hip anatomy beside total hip replacement anatomy, side-by-side comparison, clinical lighting, dark background|Close-up 3D render of ceramic femoral head catching studio light, precision material photography, deep navy background|Illustrated lateral view of hip replacement implant with bone integration lines visible, medical model render, dark navy"""},
-
-{"id":66,"date":"2026-06-23","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"How Long Do Hip and Knee Replacements Last?",
-"caption":""""How long will my hip or knee replacement last?" — here’s the honest, evidence-based answer.
-
-This is one of the most common questions I hear from patients considering joint replacement surgery — and it deserves a direct answer.
-
-Australian registry data from the AOANJRR consistently shows that the majority of modern hip and knee implants function well beyond 15 years, with survivorship rates exceeding 90% at that time point for most well-established implant systems.
-
-For many patients, particularly those over 65 at the time of surgery, their primary joint replacement will be the only one they ever need.
-
-For younger patients, revision surgery during their lifetime is more likely — which is an important part of the consent conversation before surgery.
-
-Factors that influence longevity include body weight, physical activity level, implant type, and the accuracy of surgical technique and component positioning.
-
-I’ve written a detailed guide on implant longevity at the link below, including what the latest AOANJRR data says.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #ImplantLongevity #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-23-facebook.jpg",
-"nanobanana_prompt":"""Active couple in their 70s gardening together in a lush backyard, figures warm and blurred, rich green garden, golden afternoon light, aspirational lifestyle"""},
-
-{"id":67,"date":"2026-06-25","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Who Is a Good Candidate for Hip Replacement?",
-"caption":"""Is hip replacement right for you? Here’s what surgeons actually look for. 🗓️
-
-Swipe through 5 factors that help determine whether hip replacement is the right step →
-
-A referral for hip replacement doesn’t mean you’re definitely having surgery. It means you’re getting the information you need to make an informed decision.
-
-The decision to proceed with surgery is always yours — made in partnership with your surgeon, based on your symptoms, your imaging, and your goals.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TotalHipReplacement #IsHipReplacementRightForMe #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipArthritis #PatientEducation #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-06-25-instagram.jpg",
-"nanobanana_prompt":"""Patient reviewing hip X-ray images alongside a doctor in a consulting room, figures softly blurred, warm clinical setting|Active older person climbing stairs with ease and confidence, bright stairwell, figure soft and upright|Surgeon reviewing patient imaging on a tablet, warm consulting room, professional healthcare photography|Person doing low-impact walking in a green park, morning light filtering through trees, figure soft and active"""},
-
-{"id":68,"date":"2026-06-26","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"ERAS Protocols in Elective Arthroplasty",
-"caption":"""Enhanced Recovery After Surgery (ERAS) in total joint arthroplasty: what it means and what the evidence supports.
-
-ERAS protocols have transformed the peri-operative experience in arthroplasty over the past decade. The core principle is a multi-disciplinary, evidence-based bundle of care that begins pre-operatively and continues through discharge, designed to minimise physiological stress, reduce complications, and accelerate functional recovery.
-
-Key components of our ERAS approach at Orthopaedics 360:
-
-Pre-operative:
-• Patient education and expectation-setting
-• Carbohydrate loading (clear fluids permitted up to 2 hours pre-op)
-• Pre-operative analgesia (paracetamol, celecoxib, pregabalin)
-• Optimisation of co-morbidities (see previous posts on anaemia, diabetes, BMI)
-
-Intra-operative:
-• Spinal anaesthesia with targeted sedation (avoiding heavy general anaesthesia where possible)
-• Peri-articular local anaesthetic infiltration
-• IV tranexamic acid (reduction of blood loss and swelling)
-• Goal-directed fluid management
-• Normothermia maintenance
-
-Post-operative:
-• Same-day mobilisation with physiotherapy — commencing within hours of surgery
-• Regular multimodal analgesia; opioids for breakthrough only
-• Early oral intake and resumption of home medications
-• Discharge planning from admission
-
-Outcomes from ERAS implementation:
-• Reduced average length of stay (< 3 days for most primary THAs and TKRs)
-• Lower transfusion rates
-• Reduced opioid use and associated complications
-• Earlier functional independence
-
-For referring GPs: patients enrolled in our ERAS programme typically have shorter hospital stays and faster return to independent living than historical benchmarks.
-
-#ERAS #EnhancedRecovery #TotalJointReplacement #Arthroplasty #PerioperativeCare #MedEd #AdelaideOrthopedics #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-26-linkedin.jpg",
-"nanobanana_prompt":"""Modern anaesthesia workstation in a surgical suite, glowing monitors and clinical equipment, cool blue-white clinical lighting, no people, premium medical technology photography"""},
-
-{"id":69,"date":"2026-06-28","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Hip Precautions in Early Recovery",
-"caption":"""Hip precautions after hip replacement — what to avoid and why. 🧠
-
-After a total hip replacement, your surgical team may give you a list of movement restrictions. Here’s what’s behind them — and why they matter in early recovery.
-
-Precautions vary by surgical approach. Patients who have a posterior approach typically receive the following restrictions for the first 6–8 weeks:
-
-❌ Avoid bending the hip past 90°
-(e.g. don’t lean forward past vertical when sitting)
-
-❌ Avoid crossing your legs or ankles
-
-❌ Avoid internal rotation of the operated leg
-(e.g. turning the foot inward while weight-bearing)
-
-These positions can put the new hip at risk of dislocation in the early weeks, before the soft tissues have healed and tightened around the implant.
-
-✅ Good news for patients having the Direct Anterior Approach:
-Because the posterior soft tissues are preserved, formal dislocation precautions are usually not required.
-
-Always follow the specific instructions given by your surgical team — they are tailored to your procedure.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipPrecautions #HipReplacementRecovery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #HipHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-28-instagram.jpg",
-"nanobanana_prompt":"""Person sitting comfortably in a high chair with a footstool, reading a book, bright sunlit living room, cosy home environment, figure gently blurred, warm and reassuring, no face visible"""},
-
-{"id":70,"date":"2026-06-29","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Young Patients and Total Joint Replacement",
-"caption":"""Joint replacement in patients under 60: navigating expectations, longevity, and long-term planning.
-
-The average age at total hip and total knee replacement is falling. An increasing proportion of patients presenting for primary arthroplasty are in their 40s, 50s, and early 60s — driven by earlier-onset OA, obesity, post-traumatic arthritis, and rising expectations for active quality of life.
-
-This demographic presents specific clinical and counselling challenges.
-
-The longevity conversation:
-Patients under 55–60 have a meaningful probability of requiring revision surgery during their lifetime. This must be communicated clearly as part of the consent process — not to discourage surgery, but to ensure the patient understands what they are signing up for over the long term.
-
-Modern data gives some reassurance: AOANJRR survivorship curves show that even in patients under 55, cumulative revision rates at 15 years are approximately 15–20% — meaning 80–85% do not require revision at that time point.
-
-Patient selection in younger patients:
-I apply a higher threshold for the decision to operate in younger patients. I want to be confident that:
-• Conservative management has been comprehensively trialled and genuinely failed
-• The functional limitation is significant and is affecting quality of life in a meaningful way
-• The patient has realistic expectations about activity levels and implant demands
-• The patient understands and accepts the possibility of future revision
-
-Activity and implant demands:
-I counsel younger patients on protecting their implant longevity through reasonable activity choices — without mandating a sedentary lifestyle. The goal is a fulfilling, active life within evidence-based parameters.
-
-For GP colleagues: when referring younger patients (< 55), including information about activity goals and expectations in the referral is particularly helpful.
-
-#YoungPatients #TotalJointReplacement #Arthroplasty #AOANJRR #AdelaideOrthopedics #GPReferral #MedEd #HipSurgeon #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-06-29-linkedin.jpg",
-"nanobanana_prompt":"""Active person in their 40s running on a coastal path at sunrise, figure blurred in motion against wide blue ocean, no face visible, lifestyle sports photography, energy and freedom"""},
-
-{"id":71,"date":"2026-06-30","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Quote Card","topic":"Dr Liew Quote — Why I Do This Work",
-"caption":"""Why do I do this work?
-
-Not for the complexity of the surgery. Not for the technicalities.
-
-For the patient who calls the rooms six months after their hip replacement to say they walked their daughter down the aisle. 💙
-
-For the 74-year-old who comes back to thank me because he can finally play with his grandchildren on the floor.
-
-For the woman who slept through the night for the first time in three years.
-
-That is why.
-
-— Dr Chien-Wen Liew
-Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360""",
-"hashtags":"#Orthopaedics360 #AdelaideOrthopaedicSurgeon #HipReplacement #KneeReplacement #DrChienWenLiew #JointReplacement #WhyIMedicine #PatientCare #AdelaideHealth #MedicalProfessional",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-06-30-instagram.jpg",
-"nanobanana_prompt":"""Older couple walking hand-in-hand along a quiet beach at low tide, small warm silhouettes against wide pale sand and soft blue ocean, golden late afternoon light, fine art lifestyle photography"""},
-
-{"id":72,"date":"2026-06-30","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Young Patients and Joint Replacement",
-"caption":"""Joint replacement in younger patients — what changes and what stays the same.
-
-A question I hear often from patients in their 40s and 50s: “Am I too young for this?”
-
-The honest answer is: it depends. But age alone doesn’t disqualify anyone from consideration.
-
-What changes in younger patients:
-• The conversation about implant longevity is more important — younger patients have a higher likelihood of outliving their first implant
-• The threshold for surgery is appropriately higher — conservative management should be comprehensively explored first
-• Activity expectations are discussed in more detail — to protect the implant over a longer active life
-
-What stays the same:
-• The goal is to restore quality of life and function
-• The same surgical techniques and implants that work for older patients work just as well for younger ones
-• The decision is made together — by the patient, informed by their specialist
-
-If you’re in your 40s or 50s and living with significant joint pain that conservative management hasn’t helped, a specialist assessment is a reasonable next step.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #YoungPatients #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-06-30-facebook.jpg",
-"nanobanana_prompt":"""Active person in their 40s hiking confidently up a mountain trail at sunrise, figure small against vast green hillside, wide landscape, aspirational and energetic photography"""},
-
-{"id":73,"date":"2026-07-02","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"3 Months of Hip & Knee Health — Key Takeaways",
-"caption":"""3 months. 39 posts. The most important things we’ve covered about hip & knee health. 🗓️
-
-Swipe through a summary of the key messages from the last three months →
-
-If you’ve been following along — thank you. If you’re new here, this is a good place to start.
-
-Dr Chien-Wen Liew specialises exclusively in hip and knee replacement surgery in Adelaide. His goal is to give patients the knowledge they need to make informed decisions about their joint health.
-
-🔗 Visit drchienwenliew.com.au for in-depth guides on every topic covered in this carousel.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360""",
-"hashtags":"#HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #PatientEducation #HipHealth #KneeHealth #AdelaideHealth #DrChienWenLiew #Arthroplasty #Osteoarthritis",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-07-02-instagram.jpg",
-"nanobanana_prompt":"""Sunrise over Adelaide Hills, misty valleys below, warm golden light, wide panoramic landscape shot, aspirational and reflective|Person walking briskly on a coastal path, figure small and energetic against blue ocean, fresh morning light|Active older person in a yoga class outdoors, park setting, figures soft and blurred, warm morning light, calm and active|Community group exercise class in a park, morning light, figures blurred and joyful, aspirational social lifestyle"""},
-
-{"id":74,"date":"2026-07-03","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Reflecting on Current Evidence in Arthroplasty",
-"caption":"""Reflecting on the current evidence in hip and knee arthroplasty: three areas where my practice has evolved.
-
-Medical practice should evolve in response to evidence. Here are three areas in arthroplasty where my approach has meaningfully changed over the past few years, and why.
-
-1. Pre-operative anaemia management
-I now screen every patient with an FBC before listing, and have a lower threshold for initiating IV iron infusion pre-operatively. The evidence for its impact on transfusion rates and post-operative recovery is consistent enough to justify the investment. Early referral and GP collaboration before the orthopaedic consultation has been a meaningful change in workflow.
-
-2. Extended VTE prophylaxis in THA
-I have moved to 35-day chemical prophylaxis as standard for total hip arthroplasty, in line with the current NHMRC evidence. The risk of symptomatic VTE extends meaningfully beyond the 10–14 day window that was historically standard. This is one area where the GP plays an important ongoing role in monitoring the patient.
-
-3. Honest early conversations about revision risk
-I have become more direct, and earlier in the process, about discussing revision surgery as a realistic long-term possibility. Patients have a right to understand this fully — not as a scare tactic, but as genuine informed consent. I have found this improves, not damages, the therapeutic relationship.
-
-What areas of your own practice have you updated based on recent evidence? I’d welcome the discussion.
-
-#Arthroplasty #MedEd #TotalJointReplacement #EvidenceBasedMedicine #AdelaideOrthopedics #HipSurgeon #KneeSurgeon #ContinuousProfessionalDevelopment""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-07-03-linkedin.jpg",
-"nanobanana_prompt":"""Medical library shelves with rows of journals and orthopaedic textbooks, warm reading lamp, scholarly atmosphere, no people, soft focus on spines of books, professional and academic"""},
-
-{"id":75,"date":"2026-07-05","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Winter Joint Pain — Is It Arthritis?",
-"caption":"""Do your joints hurt more in winter? You’re not imagining it. 🧊
-
-Many people with arthritis report that cold weather makes their joints feel worse. Here’s what we actually know.
-
-What the evidence suggests:
-🔵 Barometric pressure changes (common in cold fronts) may affect joint fluid and soft tissue, increasing pain sensitivity
-🔵 Cold temperatures can increase muscle stiffness and reduce the natural lubrication effect of synovial fluid
-🔵 People tend to be less active in winter — which itself contributes to stiffness and pain
-
-What helps in winter:
-✔️ Keep moving — gentle indoor exercise makes a real difference
-✔️ Warm layers over affected joints
-✔️ Warm water exercise / hydrotherapy
-✔️ Continue with your prescribed analgesia plan
-
-When to see your GP:
-If your joint pain is worsening despite these measures and is affecting your daily function, it’s worth getting assessed. Winter is a good time to start the conversation about your treatment options.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Adelaide | drchienwenliew.com.au
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#WinterJointPain #HipArthritis #KneeArthritis #Osteoarthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #AdelaideWinter #ArthritisAwareness #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-05-instagram.jpg",
-"nanobanana_prompt":"""Person walking a dog along a misty park path on a cool winter morning, bare trees, soft grey-blue light, figure warmly dressed and softly blurred, peaceful seasonal atmosphere"""},
-
-{"id":76,"date":"2026-07-06","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Communicating Surgical Risk Across Different Health Literacy Levels",
-"caption":"""What I have learned about communicating surgical risk to patients with different health literacy levels.
-
-Informed consent in surgery requires that a patient genuinely understands what they are agreeing to. In practice, this is one of the most challenging aspects of clinical communication.
-
-Health literacy varies enormously. Some patients want the statistics, the meta-analyses, the AOANJRR numbers. Others need surgical risk explained using household analogies. Most fall somewhere in between.
-
-What I have found most effective:
-
-Avoid numerical risk framing alone. “2% chance of infection” is meaningless to many patients. “If we did this operation on 100 patients like you, about 2 of them would develop a wound infection — and we would treat it, usually successfully” is more tangible.
-
-Use the patient’s own reference points. If they say “I’m not good with numbers,” shift to visual or narrative framing. If they’re analytically minded, lean into data.
-
-Separate risk categories. Not all complications are equal. I distinguish between common-and-minor (nausea, bruising), uncommon-and-significant (DVT, dislocation), and rare-and-serious (PE, death). Presenting all risks without hierarchy creates disproportionate fear.
-
-Use the teach-back method. Ask the patient to explain back to you, in their own words, what the main risks are. This is the most reliable way to confirm genuine understanding.
-
-Document carefully. A patient who understands their risks is a patient who is less likely to be distressed when minor complications occur — and a surgeon who is better protected medico-legally.
-
-I would be interested to hear what communication approaches colleagues have found most effective for complex consent conversations.
-
-#InformedConsent #SurgicalCommunication #HealthLiteracy #PatientCentredCare #MedEd #Arthroplasty #AdelaideOrthopedics #TotalJointReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-07-06-linkedin.jpg",
-"nanobanana_prompt":"""Doctor in a warm consulting room speaking empathetically with an elderly patient across a desk, both figures softly blurred, natural window light, no faces clearly visible, compassionate healthcare photography"""},
-
-{"id":77,"date":"2026-07-07","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Staying Active in Winter with Arthritis",
-"caption":"""Winter with arthritis doesn’t have to mean staying still. 🏋️‍♀️
-
-In fact, keeping moving is one of the best things you can do for your joints during the colder months.
-
-Here are some gentle, joint-friendly options that work well in winter:
-
-🏤 Hydrotherapy — warm water takes pressure off joints while providing resistance exercise. Many Adelaide pools offer arthritis-specific classes.
-
-🤸 Gentle yoga or Pilates — improves flexibility and core strength without high impact
-
-🚼 Indoor cycling (stationary bike) — excellent cardiovascular and joint conditioning with minimal loading
-
-👣 Mall or indoor walking — warm, even surface, social, and achievable on low-pain days
-
-🏖️ Physiotherapy-guided home exercise programme — if you don’t have one, now is a great time to get one set up
-
-Movement is medicine for arthritic joints. The goal isn’t pain-free activity — it’s keeping function and avoiding the deconditioning that makes everything harder.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#ArthritisExercise #WinterWellness #HipArthritis #KneeArthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ActiveAging #JointHealth #PhysioLife #AdelaideHealth #MovementIsMedicine #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-07-instagram.jpg",
-"nanobanana_prompt":"""Small group doing gentle tai chi in a misty outdoor park on a cool winter morning, figures soft and blurred, bare trees, pale winter light, calm and active atmosphere, people are background elements"""},
-
-{"id":78,"date":"2026-07-07","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Winter Joint Pain in Adelaide",
-"caption":"""Winter joint pain in Adelaide: when to manage at home, when to see your GP, and when a specialist referral is the right next step.
-
-For people living with hip or knee arthritis, Adelaide winters can be a challenging time. Cold, damp conditions and reduced physical activity often combine to increase joint stiffness, discomfort, and pain.
-
-Managing at home:
-Gentle movement, warmth, appropriate analgesia, and hydrotherapy are all reasonable first-line measures. Don’t stop moving — rest makes arthritic joints stiffer, not better.
-
-When to see your GP:
-If your joint pain is worsening beyond your usual pattern, medication is no longer providing adequate relief, or your ability to perform daily activities has declined, your GP should know. There may be additional management options worth considering, or it may be time to discuss a specialist referral.
-
-When to consider a specialist referral:
-If conservative management has been well-trialled and is no longer sufficient — your GP can refer you to an orthopaedic surgeon for an assessment of your options. That assessment doesn’t commit you to surgery. It gives you information.
-
-Dr Liew’s rooms are at Orthopaedics 360, Eastwood Private Hospital, Adelaide.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipArthritis #KneeArthritis #WinterHealth #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-07-facebook.jpg",
-"nanobanana_prompt":"""Adelaide CBD on a cool winter morning, wide footpath with pedestrians softly blurred, mist between buildings, cool grey-blue tones, architectural, no faces visible"""},
-
-{"id":26,"date":"2026-05-08","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Referral Pathways to Orthopaedics 360",
-"caption":"""A practical guide for GP colleagues on referring to Orthopaedics 360.
-
-I want to make the referral process as straightforward as possible for the GPs I work with. Here’s what you need to know.
-
-Who to refer:
-Patients with symptomatic hip or knee arthritis who have had a reasonable trial of conservative management (physiotherapy, analgesia, activity modification) and whose functional limitation is significantly affecting their quality of life. You don’t need to wait for “bone on bone” imaging before referring.
-
-What to include in the referral:
-• Duration and character of symptoms
-• Conservative treatments trialled and duration
-• Current medications (particularly anticoagulants, immunosuppressants)
-• Relevant co-morbidities: diabetes, obesity, cardiac, respiratory
-• Recent imaging (X-rays preferred — weight-bearing views where possible)
-• Patient’s goals and activity expectations
-
-How to refer:
-• Medical Objects: preferred
-• Email: drliew@orthopaedics360.com.au
-• Fax: available on our website
-
-Hospital: Eastwood Private Hospital, Adelaide
-
-Expected timeframe: Our team will contact the patient within 2 business days of receiving the referral to arrange an appointment.
-
-For urgent cases (rapidly progressive symptoms, inability to weight-bear, acute hip fracture query) please call our rooms directly.
-
-I’m always happy to take a quick call before you refer if you’d like to discuss a case first.
-
-#GPReferral #AdelaideOrthopedics #Orthopaedics360 #TotalHipReplacement #TotalKneeReplacement #ArthroplastyAustralia #MedEd #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-05-08-linkedin.jpg",
-"nanobanana_prompt":"""Modern private medical practice reception area, timber counter, warm architectural lighting, potted greenery, no people, premium interior design photography, professional and welcoming"""},
-
-{"id":27,"date":"2026-05-10","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"What Activities Can I Return to After Hip Replacement?",
-"caption":"""One of the most common questions after hip replacement: “what activities can I get back to?” 🏌️‍♂️
-
-Here’s a general guide — keeping in mind that your specific advice comes from your surgical team.
-
-✅ Generally well-tolerated after recovery:
-→ Walking (encouraged from day one)
-→ Swimming and hydrotherapy (from ≈6 weeks)
-→ Cycling — stationary first, then road cycling
-→ Golf (typically from 3–6 months)
-→ Doubles tennis, bowls, gentle hiking
-
-⚠️ Usually discouraged or discussed individually:
-→ High-impact running
-→ Contact sports
-→ Singles tennis or squash (repetitive high-impact loading)
-
-✔️ The goal of hip replacement is to restore an active life. Most patients return to the activities that matter to them.
-
-Always get specific clearance from your surgeon before returning to sports or impact activities.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #LifeAfterHipReplacement #ReturnToSport #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipHealth #ActiveLife #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-05-10-instagram.jpg",
-"nanobanana_prompt":"""Group of active adults in their 60s and 70s cycling on a coastal path at golden hour, figures soft and joyful against blue ocean and amber sky, no text, aspirational lifestyle sports photography"""},
-
-{"id":28,"date":"2026-05-11","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Implant Selection in Total Hip Arthroplasty",
-"caption":"""Implant selection in total hip arthroplasty: the factors that guide my decision-making.
-
-This is a topic I discuss regularly with patients and referring practitioners. There is no single “best” implant — but there are principles that guide appropriate selection.
-
-Fixation method: cemented vs uncemented
-For most patients under 75 with good bone quality, I favour uncemented fixation (press-fit), which relies on osseointegration for long-term stability. In older patients, those with osteoporosis, or cases with abnormal anatomy, cemented fixation remains an excellent and evidence-backed choice. The AOANJRR data supports both approaches when correctly indicated.
-
-Bearing surfaces
-The predominant bearing surface in my practice for primary THA is ceramic-on-polyethylene (ceramic head on highly cross-linked poly liner). This combination offers excellent wear characteristics and a long track record. Metal-on-metal bearings are largely abandoned in primary THA given the well-documented adverse outcomes.
-
-Cup design
-I use a cementless hemispherical acetabular component in most primary cases. Position and orientation — inclination and anteversion — are more important than the specific implant brand.
-
-Stem design
-For uncemented cases, I use a tapered wedge stem in the majority of primaries. The choice varies with canal morphology and bone quality as assessed on pre-operative templating.
-
-The implant is one component of a successful outcome. Correct surgical technique, alignment, and soft tissue management matter more than brand selection.
-
-Happy to discuss specific implant questions with GP colleagues.
-
-#TotalHipReplacement #ImplantSelection #Arthroplasty #SurgicalTechnique #AdelaideOrthopedics #MedEd #HipSurgeon #AOANJRR""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/the-hip-prosthesis-i-use-for-total-hip-replacements/","image_file":"2026-05-11-linkedin.jpg",
-"nanobanana_prompt":"""Three orthopaedic hip implant components arranged on a dark clinical surface, chrome titanium stem, ceramic head and acetabular shell, dramatic studio lighting catching metal surfaces, medical product photography"""},
-
-{"id":29,"date":"2026-05-12","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Infographic","topic":"Understanding Osteoarthritis",
-"caption":"""Osteoarthritis: what’s actually happening inside your joint? 🔍
-
-Osteoarthritis (OA) is the most common form of arthritis — and the most common reason for hip and knee replacement surgery. But what exactly is it?
-
-OA is a disease of the whole joint, not just the cartilage. Here’s what happens over time:
-
-🔵 Cartilage breakdown — the smooth joint surface gradually wears and thins
-🔵 Bone changes — the underlying bone becomes denser (sclerosis) and forms spurs (osteophytes)
-🔵 Synovial inflammation — the joint lining can become inflamed, causing swelling
-🔵 Capsule thickening — the joint becomes stiffer and less mobile
-
-Risk factors include age, obesity, previous joint injury, genetics, and repetitive heavy work or sport.
-
-OA is progressive but manageable. Many people live well with it for years using non-surgical approaches.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#Osteoarthritis #OA #JointHealth #HipArthritis #KneeArthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ArthritisAwareness #BoneHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/osteoarthritis-on-hip-and-knee-xrays/","image_file":"2026-05-12-instagram.jpg",
-"nanobanana_prompt":"""3D render of joint cartilage showing smooth healthy surface next to rough degraded arthritic surface, dark background, cinematic medical visualisation|Illustrated cross-section of arthritic joint showing cartilage erosion and marginal bone spurs, clinical render, warm lighting|X-ray of arthritic hip joint on an illuminated light box, striking blue-white glow, dark background|Older person doing gentle morning stretches in a sunlit garden, figure warm and softly focused, lush green background"""},
-
-{"id":30,"date":"2026-05-12","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"The Direct Anterior Approach to Hip Replacement",
-"caption":"""The Direct Anterior Approach to hip replacement — what it is and whether it might be right for you.
-
-In recent years, the Direct Anterior Approach (DAA) has become more widely used in hip replacement surgery. It’s an approach that enters the hip through a natural gap between muscle groups at the front of the hip — without cutting or detaching any muscle.
-
-For suitable patients, this can mean:
-• Less disruption to the surrounding muscles
-• Earlier return to walking without aids in some cases
-• Lower dislocation risk in appropriately selected patients
-
-However, the DAA isn’t the right choice for every patient. Anatomy, body type, prior surgery, and the surgeon’s experience with the technique all influence whether it’s appropriate.
-
-At Orthopaedics 360, I use the Direct Anterior Approach for suitable candidates and am equally comfortable with alternative approaches where the anatomy warrants it. The right approach is always the one that gives the best result for that individual patient.
-
-For a more detailed explanation of the procedure, visit the link below.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #AnteriorHipReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/anterior-hip-replacements/","image_file":"2026-05-12-facebook.jpg",
-"nanobanana_prompt":"""Operating theatre from the patient's perspective looking up, ceiling lights and surgical team silhouettes overhead, blurred and softly lit, cool blue-white cinematic lighting, no faces visible"""},
-
-{"id":31,"date":"2026-05-14","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Questions to Ask Your Surgeon Before Joint Replacement",
-"caption":"""Before your joint replacement consultation, come prepared. 📝
-
-Swipe for 6 questions every patient should ask their surgeon before deciding on surgery →
-
-Being an informed patient leads to better decisions. Don’t be afraid to ask hard questions — a good surgeon will welcome them.
-
-Here’s a preview:
-1️⃣ What surgical approach do you use, and why?
-2️⃣ What implant will you use, and what’s its track record?
-3️⃣ What is your personal revision rate for this procedure?
-4️⃣ What does recovery actually look like — week by week?
-5️⃣ What risks am I specifically at risk of, given my health?
-6️⃣ What happens if I choose not to have surgery?
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #AdelaideOrthopaedicSurgeon #Orthopaedics360 #InformedConsent #SurgeryQuestions #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-05-14-instagram.jpg",
-"nanobanana_prompt":"""Patient and surgeon in a warm consultation, doctor gesturing toward a model on the desk, figures softly blurred, professional lighting|Doctor reviewing imaging on a tablet in a consulting room, figure thoughtful, warm lamp light, no face clearly visible|Patient and family member listening in a consultation room, warm natural light, figures softly focused, empathetic setting|Surgeon pointing to an anatomy model, consulting room, professional environment, figures softly blurred"""},
-
-{"id":32,"date":"2026-05-15","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Managing Patient Expectations in Elective Arthroplasty",
-"caption":"""Managing patient expectations in elective arthroplasty: a surgeon’s practical approach to consent.
-
-Getting consent right in joint replacement is not just a legal obligation — it’s a clinical one. Misaligned expectations are one of the primary drivers of patient dissatisfaction following technically successful operations.
-
-What I aim to establish in the pre-operative consultation:
-
-1. What surgery can achieve for this patient, specifically. Not what it achieves on average, but what is realistic for someone with their age, BMI, co-morbidities, and degree of deformity. I am careful not to overpromise.
-
-2. What the recovery actually involves. Many patients underestimate the rehabilitation commitment. I describe recovery in terms of milestones, not timelines — because the timeline varies. The milestones (walking unaided, driving, returning to work, returning to sport) are more useful anchors.
-
-3. The complication profile — in plain language. Rates of infection, DVT, dislocation, nerve injury, leg length discrepancy, and the possibility of revision. Discussing these clearly is not discouraging — it is respectful.
-
-4. The alternative. What happens if they don’t have surgery. Many patients haven’t had this framed clearly. For some, conservative management for another 12–18 months is a reasonable and valid choice.
-
-5. Realistic outcome language. I avoid phrases like “new hip, new life” or “back to normal.” I use language like “significantly improved pain and function in most cases” and “meaningful improvement in quality of life for the majority of patients.”
-
-The goal is an informed patient who enters the operating room with appropriate expectations — and who is not surprised by their recovery.
-
-#Arthroplasty #InformedConsent #PatientExpectations #TotalJointReplacement #MedEd #AdelaideOrthopedics #HipSurgeon #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-05-15-linkedin.jpg",
-"nanobanana_prompt":"""Senior doctor seated at a desk reviewing patient notes, warm desk lamp, framed artwork behind, figure slightly soft, professional and authoritative, no face clearly visible"""},
-
-{"id":33,"date":"2026-05-17","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Walking After Hip Replacement — What to Expect",
-"caption":"""Walking after hip replacement: what’s normal, what’s not, and when to call. 👣
-
-One of the most reassuring things about modern hip replacement is how quickly most patients are back on their feet.
-
-⏱️ Day of surgery: most patients sit up and take their first steps with physiotherapy support
-⏱️ Days 1–2: walking short distances with a frame or crutches
-⏱️ Weeks 1–2: building distance gradually, stairs with support
-⏱️ Weeks 3–6: transitioning to one crutch or stick
-⏱️ 6+ weeks: most patients walking independently
-
-Some things that are normal early on:
-→ A limp while muscles strengthen — this gradually improves
-→ Fatigue — even short walks are tiring at first
-→ Mild swelling in the hip and thigh
-
-Contact your surgical team if you notice:
-⚠️ Sudden increase in pain or swelling
-⚠️ Wound redness, warmth, or discharge
-⚠️ Calf pain or swelling (possible DVT)
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipReplacementRecovery #WalkingAfterHipReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-05-17-instagram.jpg",
-"nanobanana_prompt":"""Two people walking along a tree-lined suburban path on a bright autumn morning, figures warmly lit and softly focused, golden leaves on the footpath, gentle sense of progress and ease"""},
-
-{"id":34,"date":"2026-05-18","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"AOANJRR Outcomes Data — What It Means for Referrers",
-"caption":"""A brief review of what the AOANJRR 2024 Annual Report tells us about total joint arthroplasty outcomes — and what it means for referring practitioners.
-
-The Australian Orthopaedic Association National Joint Replacement Registry is one of the most comprehensive arthroplasty registries in the world. Its annual data is essential reading for anyone involved in referring patients for joint replacement.
-
-Key highlights from the 2024 report relevant to clinical practice:
-
-Primary total hip arthroplasty:
-• Cumulative revision rate at 15 years: approximately 7–8% across all primary THAs
-• Cementless fixation continues to demonstrate lower revision rates than cemented in patients < 75 years
-• The anterior approach has the lowest dislocation revision rate among the major approaches in recent years
-• Ceramic-on-polyethylene remains the dominant and lowest-revision bearing surface
-
-Primary total knee arthroplasty:
-• Cumulative revision rate at 15 years: approximately 7–9%
-• Patella resurfacing continues to be associated with lower revision rates for anterior knee pain
-• Obesity (BMI > 40) remains associated with significantly higher revision rates
-
-Implications for referring GPs:
-• Modern primary joint replacement has excellent long-term survivorship — the threshold for referral should not be artificially elevated on concerns about implant longevity
-• Patient selection and pre-operative optimisation (BMI, anaemia, diabetes control) remain the highest-yield targets for improving outcomes at the GP level
-• Early referral allows time for this optimisation before listing
-
-Reference: AOANJRR Annual Report 2024, Australian Orthopaedic Association.
-
-#AOANJRR #TotalJointReplacement #Arthroplasty #AdelaideOrthopedics #GPReferral #MedEd #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-05-18-linkedin.jpg",
-"nanobanana_prompt":"""Glowing dashboard with upward trend analytics charts on a dark screen, cool blue data visualisation aesthetic, no text readable, professional technology photography"""},
-
-{"id":35,"date":"2026-05-19","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Stat Card","topic":"40,000+ Hip and 60,000+ Knee Replacements Per Year in Australia",
-"caption":"""Did you know?
-
-Over 40,000 hip replacements and 60,000 knee replacements are performed in Australia every year.
-
-That makes joint replacement one of the most commonly performed surgical procedures in the country — and one of the most studied.
-
-What the data consistently shows:
-📊 High patient satisfaction rates across both hip and knee replacement
-📊 Significant improvements in pain and function
-📊 Implant survivorship > 90% at 15 years in most studies
-
-Joint replacement isn’t a last resort. It’s a well-established, evidence-backed solution for end-stage hip and knee arthritis — when the time is right.
-
-Source: AOANJRR Annual Report 2024
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Arthroplasty #AdelaideOrthopaedicSurgeon #Orthopaedics360 #AOANJRR #AustralianHealth #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-a-total-hip-replacement/","image_file":"2026-05-19-instagram.jpg",
-"nanobanana_prompt":"""Wide-angle interior of a modern hospital atrium, high glass ceilings, natural light flooding in, dozens of softly blurred figures moving through the space, cinematic scale, architectural photography"""},
-
-{"id":36,"date":"2026-05-19","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Questions to Ask Before Hip or Knee Replacement",
-"caption":"""Going in for a joint replacement consultation? Come prepared.
-
-Being an informed patient leads to better decisions and better outcomes. Here are six questions worth asking your orthopaedic surgeon.
-
-1. What surgical approach do you use, and why is it right for me?
-2. What implant will you use, and what does the registry data say about it?
-3. What does recovery actually look like, week by week, for someone with my health profile?
-4. What risks am I specifically at higher risk of, given my age and medical history?
-5. What happens if I choose not to have surgery at this point?
-6. How many of these procedures do you perform each year?
-
-These are all reasonable, appropriate questions — and any surgeon worth seeing will answer them directly and without defensiveness.
-
-At Orthopaedics 360, we encourage patients to come to their consultation with questions. Our goal is to give you the clearest possible information so you can make the right decision for you.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #PatientEducation #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-05-19-facebook.jpg",
-"nanobanana_prompt":"""Patient and doctor having a warm conversation in a bright consulting room across a desk, figures softly blurred, natural window light, empathetic healthcare photography"""},
-
-{"id":37,"date":"2026-05-21","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Your Pre-Op Checklist",
-"caption":"""Surgery is coming up — here’s your preparation checklist. ✔️
-
-Swipe through 5 key things to organise before your hip or knee replacement →
-
-Good preparation genuinely makes a difference — not just to how smoothly surgery goes, but to how quickly you recover at home.
-
-Don’t underestimate the home setup. Patients who come home to a well-organised environment consistently have an easier first week.
-
-Your surgical team will give you specific instructions for your procedure. This is a general guide to get you thinking early.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full pre-op guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#SurgeryPrep #HipReplacement #KneeReplacement #PreOpChecklist #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-21-instagram.jpg",
-"nanobanana_prompt":"""Neatly packed overnight bag — clothes, phone charger, books — on a timber floor, warm natural light, domestic still life photography|Prescription medication bottles and a glass of water on a clean white surface, soft warm morning light, simple still life|Bright private hospital corridor, clean floor, natural light flooding from windows, empty and reassuring, architectural photography|Friendly nurse at a modern reception desk in a private hospital, figure warmly blurred, welcoming professional environment"""},
-
-{"id":38,"date":"2026-05-22","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"DVT Prophylaxis After Total Joint Replacement",
-"caption":"""DVT prophylaxis after total joint replacement: our current protocol and the evidence behind it.
-
-Venous thromboembolism (VTE) remains one of the most clinically significant post-operative complications in lower limb arthroplasty. Our current protocol at Orthopaedics 360 is guided by NHMRC guidelines and the AOANJRR complication data.
-
-Chemical prophylaxis:
-• Low-molecular weight heparin (enoxaparin) or a direct oral anticoagulant (DOAC — typically rivaroxaban or aspirin for low-risk patients) commenced within 12–24 hours post-operatively
-• Duration: 14 days for TKR; 35 days for THA in line with the evidence base for risk period
-• Patient selection for DOAC vs LMWH vs aspirin guided by individual bleeding risk, renal function, and co-morbidities
-
-Mechanical prophylaxis:
-• Compression stockings commenced pre-operatively
-• Intermittent pneumatic compression intra- and immediately post-operatively
-• Early mobilisation — weight-bearing and walking commenced day of surgery
-
-For GP colleagues:
-• If your patient presents with calf pain, swelling, or dyspnoea post-TJR, a high index of suspicion for DVT/PE is warranted regardless of whether they are on chemical prophylaxis
-• Proximal DVT or PE in a post-arthroplasty patient warrants urgent assessment
-• Bilateral calf DVTs in low-risk patients: discussed case by case — please contact our rooms if uncertain about anticoagulation management
-
-Reference: NHMRC Clinical Practice Guideline for the Prevention of VTE; AOANJRR Annual Report.
-
-#VTEProphylaxis #TotalJointReplacement #DVTPrevention #ArthroplastyAustralia #MedEd #AdelaideOrthopedics #GPReferral #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement-risk-factors/","image_file":"2026-05-22-linkedin.jpg",
-"nanobanana_prompt":"""Close-up of medical compression stocking on a lower leg, clinical background, soft directional light, professional healthcare product photography"""},
-
-{"id":39,"date":"2026-05-24","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Can I Travel After Hip Replacement?",
-"caption":""""Can I fly after my hip replacement?" ✈️
-
-Yes — but timing and precautions matter. Here’s what to know.
-
-⏱️ When is it generally safe to fly?
-Most guidelines suggest avoiding long-haul flights for at least 6 weeks after hip replacement. Short domestic flights may be possible from 4 weeks with surgeon clearance.
-
-⚠️ The main risk: DVT (blood clots)
-Long periods of immobility after joint replacement increase the risk of deep vein thrombosis. This doesn’t mean you can’t travel — it means you need to plan carefully.
-
-✅ Tips for flying post-hip replacement:
-→ Get your surgeon’s clearance before booking
-→ Book an aisle seat — you’ll need to stand and move regularly
-→ Stay well hydrated
-→ Wear your compression stockings
-→ Take any prescribed prophylaxis as directed
-
-→ Car travel: short trips (< 30 min) are usually fine within 2–4 weeks. Long road trips should follow the same precautions as flying.
-
-Always get specific clearance from your surgical team before planning post-operative travel.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TravelAfterSurgery #DVTPrevention #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipReplacementRecovery #PatientJourney #AdelaideHealth #JointHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-05-24-instagram.jpg",
-"nanobanana_prompt":"""Sunlit international airport terminal, wide floor-to-ceiling windows overlooking a tarmac, traveller with rolling suitcase softly blurred and walking away confidently, warm amber morning light, no faces, lifestyle travel photography"""},
-
-{"id":40,"date":"2026-05-25","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Surgical Approaches to Hip Replacement — Overview for GPs",
-"caption":"""Surgical approaches to total hip replacement: a practical overview for GP colleagues.
-
-One of the most common questions I receive from referring GPs is: “What surgical approach do you use, and why does it matter?”
-
-Here is a plain-English summary of the three main approaches used in total hip replacement surgery in Australia.
-
-Posterior Approach
-The most widely used approach worldwide. Incision at the back of the hip. Excellent long-term outcomes and well-established in the literature. Posterior soft tissue repair has substantially reduced dislocation rates in modern practice.
-
-Direct Lateral Approach
-Incision to the outer side of the hip. Reliable access to the joint. Widely performed in Australia with good outcomes data. Some patients report more lateral hip discomfort early in recovery.
-
-Direct Anterior Approach (DAA)
-Muscle-sparing technique through a natural gap at the front of the hip. No muscle is cut from bone. Advantages include earlier return to independent walking and reduced dislocation risk in carefully selected patients. Technical demands are higher, and patient selection matters.
-
-My practice: I use the Direct Anterior Approach as my primary technique for suitable patients at Eastwood Private Hospital, supported by a dedicated traction table and intra-operative fluoroscopy.
-
-The choice of approach matters less than the surgeon’s experience with their chosen technique. When referring, asking about approach, outcomes and volume is entirely appropriate.
-
-#HipReplacement #DirectAnteriorApproach #SurgicalApproach #AdelaideOrthopedics #GPReferral #MedEd #TotalHipReplacement #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-05-25-linkedin.jpg",
-"nanobanana_prompt":"""Orthopaedic anatomy model of pelvis and hip joint on a consultation desk, warm professional lamp, medical reference books and journals softly blurred in background, no people, scholarly still life"""},
-
-{"id":41,"date":"2026-05-26","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Infographic","topic":"Knee Replacement — The Numbers",
-"caption":"""Knee replacement by the numbers 📊
-
-A few statistics worth knowing if you’re considering — or recovering from — a total knee replacement.
-
-In Australia (Source: AOANJRR 2024):
-
-40,000+ hip replacements and 60,000+ knee replacements are performed in Australia each year — making joint replacement one of the most commonly performed surgical procedures in the country.
-Average age at primary TKR: approximately 68 years.
-Implant survival at 20 years: approximately 92% for most modern knee designs.
-Patient satisfaction: consistently high, with the majority reporting significant pain reduction.
-
-Knee replacement is one of the most studied surgical procedures in medicine. The evidence base supporting it is deep and well-established.
-
-If you’re wondering whether surgery is the right step for your knee, start with your GP and ask for a referral.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #AOANJRR #JointReplacement #KneeHealth #PatientEducation #AdelaideHealth #BoneHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-26-instagram.jpg",
-"nanobanana_prompt":"""Wide-angle modern hospital waiting area, comfortable chairs, warm overhead lighting, multiple figures softly blurred, clean architecture|Glowing upward bar chart on a dark screen, clinical blue data analytics aesthetic, atmospheric, no text readable|Aerial view of Adelaide and surrounding hills at sunrise, vast landscape, aspirational scale|Modern surgical theatre panorama, sterile blue drapes, three surgeons as blurred figures, clinical and cinematic"""},
-
-{"id":42,"date":"2026-05-26","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Activity Trackers and Joint Replacement Recovery",
-"caption":"""Tracking your recovery: how activity monitors can support your rehabilitation after joint replacement.
-
-Wearable activity trackers have become a practical tool for monitoring recovery progress after hip and knee replacement surgery — and many patients find them genuinely motivating.
-
-What trackers can help with:
-• Monitoring daily step counts — allowing you to see your activity increasing over time
-• Tracking sleep quality — which is often disrupted post-operatively and improves as recovery progresses
-• Heart rate monitoring — useful for patients gradually returning to aerobic exercise
-
-They’re not a substitute for clinical follow-up or physiotherapy guidance — but they’re a great way to stay motivated and to have real data to discuss at your post-operative appointments.
-
-We use activity data as part of our ongoing patient monitoring programme at Orthopaedics 360.
-
-For more information on recovering well after joint replacement, visit drchienwenliew.com.au.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #JointReplacement #RecoveryTracking #HipReplacement #KneeReplacement #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-26-facebook.jpg",
-"nanobanana_prompt":"""Person checking a smartwatch on their wrist during a morning walk in a park, golden light filtering through trees, figure soft and active, no face visible, modern health lifestyle photography"""},
-
-{"id":43,"date":"2026-05-28","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Life After Knee Replacement: 1 Week to 12 Months",
-"caption":"""Life after knee replacement — from day one to one year. 📅
-
-Swipe through six realistic milestones and what to expect at each stage →
-
-The journey from surgery to full recovery is gradual — and that’s normal. Each milestone builds on the last.
-
-The most important thing to remember: improvement continues for up to 12 months. If you’re at 3 months and not where you hoped to be, keep going.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full recovery information at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #KneeReplacementRecovery #LifeAfterSurgery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #RecoveryTimeline #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-05-28-instagram.jpg",
-"nanobanana_prompt":"""Person resting at home post-surgery, leg elevated on pillow, soft sunlight through curtains, cosy warm domestic setting, figure gently blurred|Person walking with a walking stick in a green park, figure soft and progressing, morning light through trees|Person confidently walking through a shopping centre, upright posture, natural light through skylights, figure soft|Person playing golf on a wide dewy green at dawn, figure small and soft, mist rising, golden backlight, aspirational"""},
-
-{"id":44,"date":"2026-05-29","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Can Patients Kneel After Total Knee Replacement?",
-"caption":"""Can patients kneel after total knee replacement? The answer is changing.
-
-Kneeling after knee replacement has historically been discouraged — and many patients are still told it is not possible. The evidence tells a more nuanced story.
-
-Why kneeling has been difficult:
-• The traditional concern is skin numbness and sensitivity over the incision site
-• Early implant designs sometimes made deep knee flexion uncomfortable
-• “Don’t kneel” became a default instruction, often without evidence to support it long-term
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #Adelaide #Orthopaedics360 #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/hip-conditions/femoroacetabular-impingement/","image_file":"2026-09-08-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Person (back to camera, anonymous, face entirely not visible) walking confidently along a wide sunlit Adelaide park path bordered by tall eucalyptus trees, golden hour light, long shadows stretching behind them, warm and hopeful wellness lifestyle feel, no clinical elements. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: What is Hip Impingement and Can It Lead to Joint Replacement?. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":131,"date":"2026-06-26","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Managing Chronic Opioid Use Pre-Arthroplasty",
+"caption":"""Chronic opioid use in the pre-arthroplasty patient — a complex but increasingly common challenge.
+
+The prevalence of chronic opioid use in patients presenting for total joint replacement is rising. It has significant implications for surgical outcomes and requires proactive preoperative management.
+
+Why it matters:
+Patients on long-term opioids prior to arthroplasty consistently show worse outcomes across multiple domains:
+- Higher post-operative pain scores and opioid consumption
+- Greater risk of persistent post-surgical pain
+- Higher rates of dissatisfaction
+- Longer hospital stay and slower functional recovery
+- Increased risk of peri-operative complications
+
+The central sensitisation hypothesis:
+Prolonged opioid exposure is associated with opioid-induced hyperalgesia (OIH) — paradoxical increased pain sensitivity. In the context of TJR, this means that patients who are already on significant opioid doses may not experience the pain relief surgery typically provides, and may have a blunted response to post-operative analgesia.
+
+Preoperative optimisation:
+For patients on >20mg oral morphine equivalent daily, a structured opioid reduction programme prior to surgery is associated with improved post-operative outcomes. This ideally involves:
+- Pain Medicine specialist review if doses are high
+- Gradual dose reduction over 8–12 weeks pre-operatively
+- Concurrent psychological support (pain catastrophising is an independent predictor of poor outcomes)
+- Patient education about realistic post-operative expectations
+- Conversion to long-acting formulations where applicable
+
+The conversation:
+This requires honest, non-judgemental discussion with patients. Many are not aware of the opioid-outcome relationship. I frame it positively — reducing opioids before surgery is an investment in a better recovery.
+
+How are others approaching this pre-operatively? Would welcome input from pain medicine colleagues and anaesthetists.
+
+#ChronicPain #OpioidManagement #Arthroplasty #PreoperativeOptimisation #PainMedicine #TotalJointReplacement #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-09-11-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A blister pack of white tablets on a clinical desk — some empty blisters, some full. Beside them: a plain clinical envelope and a pen. Soft side light, warm tone. Ship Cove blue (#A2B9D8) desk surface. No people. The complexity of medication management, rendered plainly."""},
+
+{"id":133,"date":"2026-06-28","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"AI-Assisted Surgical Planning in Hip Arthroplasty",
+"caption":"""AI-assisted surgical planning in hip arthroplasty — where are we in 2026?
+
+Preoperative planning has always been a cornerstone of successful THA. Accurate templating informs implant sizing, leg length planning, offset restoration, and anticipation of anatomical challenges. The question now is whether AI tools are changing the practice meaningfully — and what the evidence actually supports.
+
+What AI planning tools currently do:
+Most commercially available platforms (Stryker Blueprint, Zimmer Biomet's ROSA planning suite, Exactech's Equinoxe THA, among others) offer automated digital templating from AP pelvis and lateral radiographs. More advanced systems incorporate CT-based 3D planning with bone segmentation, virtual implant positioning, and predictive leg length/offset calculations.
 
 What the evidence shows:
-• Many patients can kneel after total knee replacement — but it often requires practice, progression and patience
-• The barrier is frequently psychological or related to soft tissue sensitivity, not structural implant damage
-• Studies show that patients who are encouraged to practise kneeling are more likely to achieve it than those who are advised against it
-• Kneeling does not harm the implant in most cases
+- Comparative studies show AI-assisted templating achieves accuracy comparable to experienced surgeon templating, with improved consistency and reduced inter-observer variability
+- CT-based 3D planning demonstrates superior accuracy over 2D X-ray templating in morphologically complex cases (dysplasia, post-traumatic OA, prior hardware)
+- Studies from 2024–2025 show AI planning reduces outlier implant sizing rates and improves post-operative leg length discrepancy — though clinical outcome differences remain modest in primary THA
+- Integration with robotic platforms is now routine — the plan drives the robot, which raises the stakes for plan accuracy
 
-Clinical implication:
-Surgeons and physiotherapists who routinely encourage kneeling practice post-TKR achieve higher rates of patient kneeling at 12 months. This should now be part of standard rehabilitation guidance.
+Where AI planning adds real value:
+- Complex primary cases: dysplasia, protrusio, post-osteotomy anatomy
+- Revision planning with defect mapping
+- Teaching and trainee education
+- Reproducibility across a surgical team
 
-My approach is to encourage patients to gradually attempt kneeling from around 12 weeks post-operatively, progressing with physiotherapy support. Most patients who persist will achieve functional kneeling.
+Current limitations:
+- Most AI planning still requires surgeon verification — errors in segmentation or landmark placement can propagate
+- Cost and workflow integration remain barriers in smaller centres
+- Evidence of improved patient-reported outcomes (PROMs) from AI planning vs standard planning remains limited
 
-If you have patients asking about kneeling after TKR, please direct them to the full article on my website.
+AI planning is not a substitute for surgical judgement. It is a tool — one that is becoming better, cheaper, and more integrated into the arthroplasty workflow each year. Those who are not using some form of digital planning in 2026 should probably ask why.
 
-#TotalKneeReplacement #KneeReplacement #KneelingAfterSurgery #AdelaideOrthopedics #GPReferral #MedEd #ArthroplastyAustralia #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-kneel-after-a-total-knee-replacement/","image_file":"2026-05-29-linkedin.jpg",
-"nanobanana_prompt":"""Person kneeling to tend a garden, soft afternoon light, lush garden background, figure warmly blurred, lifestyle photography, no face visible, positive recovery aesthetic"""},
+Interested in others' experience with specific platforms — what are you using?
 
-{"id":45,"date":"2026-05-31","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"5 Signs You Might Need a Hip Replacement",
-"caption":"""5 signs your hip might be telling you it’s time to see a specialist. 🚨
+#ArtificialIntelligence #SurgicalPlanning #TotalHipArthroplasty #AIinSurgery #DigitalOrthopaedics #MedEd #Orthopaedics360 #AdelaideOrthopaedics""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-specific-technology/","image_file":"2026-09-14-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A desktop screen showing a hip arthroplasty planning interface — 3D pelvis model with templated femoral stem overlaid. Soft screen glow in a darkened room. Desk surface below with a printed X-ray beside the monitor, out of focus. Deep Navy (#0B1F3A) ambient. No people. AI precision, surgical intent."""},
 
-These aren’t diagnostic criteria — but if several of these sound familiar and have been going on for months, a GP assessment is a smart move.
+{"id":135,"date":"2026-06-30","day":"Tuesday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Returning to Work After Joint Replacement",
+"caption":"""When can I go back to work after a hip or knee replacement?
 
-1️⃣ Deep groin or buttock pain that’s there most days
-Especially if it’s worse with walking or getting up from a chair.
+This is one of the most practical questions I get asked in the weeks before surgery — and the answer depends heavily on the type of work you do.
 
-2️⃣ Stiffness in the morning that takes time to ease
-Or stiffness after sitting for a while, that loosens up after you’ve been moving.
+Desk-based or sedentary work (office, working from home, driving short distances):
+Most patients can return to light desk work within 4–6 weeks. This assumes you can sit comfortably for extended periods (usually from 2–4 weeks post-op), access to the workplace isn't physically demanding, and you're not required to drive long distances early on.
 
-3️⃣ Difficulty with everyday tasks
-Putting on shoes and socks, getting in and out of a car, clipping your toenails.
+Standing or light active work (retail, teaching, customer service):
+Typically 6–10 weeks, depending on how quickly you're comfortable on your feet for sustained periods.
 
-4️⃣ A limp that’s becoming more noticeable
-Especially later in the day or after longer walks.
+Physically demanding work (trades, nursing, manual labour, prolonged standing or walking):
+3–6 months is a more realistic expectation. This requires discussion with your surgeon and your employer about modified duties in the interim.
 
-5️⃣ Pain that’s stopping you from sleeping through the night
-Night pain is a significant symptom that warrants attention.
+A few practical notes:
+• Driving: most hip replacement patients can return to driving an automatic at 6 weeks if the operated leg is not required for braking — but this must be discussed with your surgeon. Manual transmission may take longer. Check your insurance policy.
+• Fatigue is real in the first 4–6 weeks — even desk workers may find they tire quickly.
+• Modified duties are worth exploring with HR if your return date needs to be earlier.
 
-If this sounds like you, start with your GP. A referral to an orthopaedic surgeon for assessment doesn’t commit you to surgery — it gives you information.
+Every patient is different, and these are general guides only. Your specific return-to-work clearance should come from your surgeon at your post-operative review.
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipArthritis #HipPain #AdelaideOrthopaedicSurgeon #Orthopaedics360 #TotalHipReplacement #HipHealth #PatientEducation #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-05-31-instagram.jpg",
-"nanobanana_prompt":"""Person sitting on a park bench, hand gently resting on their hip, soft morning light, trees and path in background, figure gently focused, empathetic lifestyle photography"""},
-
-{"id":46,"date":"2026-06-01","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Obesity and Total Joint Replacement",
-"caption":"""Obesity and total joint replacement: navigating a complex and increasingly common clinical scenario.
-
-Obesity is the single most modifiable risk factor for outcomes in elective arthroplasty — and it is also the most prevalent co-morbidity in patients presenting for joint replacement in Australia.
-
-The evidence is clear: higher BMI is associated with:
-• Increased surgical site infection and wound complication rates
-• Higher rates of VTE
-• Increased peri-prosthetic joint infection risk
-• Higher revision rates at 10 and 15 years
-• Greater anaesthetic risk
-
-The challenge: many of these patients have severe, debilitating arthritis that is itself driving weight gain through functional inactivity. Declining surgery “until they lose weight” can create a clinical catch-22 that is not always in the patient’s best interest.
-
-My approach:
-• BMI < 35: no BMI-related barrier to surgery in most cases
-• BMI 35–40: individual discussion about risks; surgery in the context of otherwise good health and failed conservative management
-• BMI > 40: I recommend a genuine weight reduction effort prior to listing. I refer to bariatric services where appropriate and re-assess. I will operate on patients with BMI > 40 in carefully selected circumstances where the risk-benefit is clearly favourable.
-
-The conversation about BMI and surgery is one I have directly and honestly with every patient it applies to. It is a clinical discussion, not a judgment.
-
-For GP colleagues: a warm referral to bariatric services or a structured weight management programme before the orthopaedic consultation can meaningfully change what we can offer a patient.
-
-#Arthroplasty #ObesityAndSurgery #TotalJointReplacement #GPReferral #AdelaideOrthopedics #MedEd #SurgicalRisk #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-01-linkedin.jpg",
-"nanobanana_prompt":"""Orthopaedic surgeon reviewing a thick patient file at a timber desk, reading glasses, warm desk lamp, professional and considered, no face clearly visible, premium medical setting"""},
-
-{"id":47,"date":"2026-06-02","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Anatomy","topic":"What Gets Replaced in a Knee Replacement?",
-"caption":""""They replace your whole knee" — actually, that’s not quite right. Let me explain. 🔍
-
-Despite being called a “knee replacement,” the surgery resurfaces the damaged bone ends rather than replacing the entire knee structure.
-
-Your ligaments, tendons, and muscles remain. What changes are the joint surfaces.
-
-Here’s what the implant system consists of:
-
-🔶 Femoral component — a curved metal cap on the lower femur
-🔶 Tibial tray — a flat metal plate on the tibia
-🔶 Polyethylene spacer — the smooth plastic “cushion” between the two metal parts
-🔶 Patellar button — a plastic dome on the back of the kneecap (in most cases)
-
-Together, these components recreate the smooth gliding surface that arthritis has destroyed.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #KneeAnatomy #TKR #WhatIsKneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #JointHealth #BoneHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=WvZQqRq_4mI","image_file":"2026-06-02-instagram.jpg",
-"nanobanana_prompt":"""Photorealistic 3D render of total knee replacement: polished cobalt chrome femoral component and white polyethylene tibial insert, dramatic dark studio lighting|3D render of distal femur and proximal tibia side-by-side before and after knee replacement, clinical precision, dark background|Illustrated cut-away of knee joint showing implant seated in bone, integration lines visible, medical model render, dark navy|Close-up 3D render of knee implant bearing surface catching studio light, premium material photography, dark background"""},
-
-{"id":48,"date":"2026-06-02","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Hip Arthritis: Causes, Symptoms & Treatment Options",
-"caption":"""Hip arthritis: understanding the condition before making decisions about treatment.
-
-Hip arthritis is one of the most common causes of hip pain in adults over 50 — and understanding it properly helps you navigate your options with more confidence.
-
-What causes hip arthritis?
-The most common cause is osteoarthritis — a gradual wearing away of the cartilage that cushions the hip joint. Other causes include inflammatory arthritis (rheumatoid, psoriatic), avascular necrosis, hip dysplasia, and post-traumatic arthritis.
-
-Common symptoms:
-• Deep groin or buttock pain, often worse with activity
-• Morning stiffness or stiffness after sitting
-• Difficulty with tasks like putting on shoes, getting in and out of cars
-• A limp that develops over time
-
-Treatment options (in order of consideration):
-Physiotherapy, weight management, activity modification, and analgesia are the first-line approach for most patients. When these are no longer sufficient, a specialist assessment is the appropriate next step — at which point surgery may be discussed.
-
-I’ve put together a comprehensive guide to hip arthritis on the website. The link is below.
+👉 drchienwenliew.com.au
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipArthritis #HipReplacement #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-06-02-facebook.jpg",
-"nanobanana_prompt":"""Older person in a consultation room holding an X-ray up to window light, figure thoughtful and slightly blurred, warm natural light, no face clearly visible, empathetic healthcare photography"""},
-
-{"id":49,"date":"2026-06-04","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Hip Replacement: From Diagnosis to Recovery",
-"caption":"""The full journey — from noticing hip pain to getting your life back. 🗓️
-
-Swipe through the 7 stages of the hip replacement journey →
-
-Understanding the full pathway — from that first GP conversation to returning to the activities you love — helps make each step feel less daunting.
-
-The journey is different for everyone. But the stages are predictable, and each one gets you closer to where you want to be.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full patient guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TotalHipReplacement #PatientJourney #HipReplacementJourney #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipHealth #AdelaideHealth #JointReplacement #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-06-04-instagram.jpg",
-"nanobanana_prompt":"""GP consulting room, patient and doctor in conversation across a desk, warm professional lighting, figures gently blurred, framed prints on wall|Modern surgical theatre from above, sterile blue drapes, team of surgeons as blurred figures, cinematic clinical lighting|Bright private hospital room, white linen, morning sunlight, fresh flowers on bedside table, no people, healing and warm|Person walking confidently along a tree-lined park path, golden morning light, figure soft and aspirational"""},
-
-{"id":50,"date":"2026-06-05","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Anterior vs Posterior Hip Approach — Clinical Evidence Summary",
-"caption":"""Anterior vs posterior approach for total hip arthroplasty: what the evidence actually says in 2025.
-
-This is one of the most frequently debated topics in arthroplasty — and worth a balanced review. My summary of the current evidence:
-
-Short-term outcomes (0–6 weeks):
-The DAA consistently demonstrates advantages in the immediate post-operative period: earlier independent ambulation, less use of mobility aids, and faster initial recovery in multiple RCTs and meta-analyses. This is reproducible across adequately powered studies.
-
-Medium-term outcomes (3–24 months):
-The short-term advantages of the DAA largely equalise by 3–6 months. By 1 year, functional outcomes and patient-reported scores are comparable between approaches in most well-designed studies.
-
-Complication rates:
-• Dislocation: DAA consistently shows lower dislocation rates
-• Femoral complications (stem subsidence, periprosthetic fracture): slightly higher in some DAA series — attenuated with experience and appropriate technique
-• Wound complications: broadly comparable
-• Nerve injury: lateral femoral cutaneous nerve palsy more common with DAA (usually transient)
-
-Learning curve:
-The DAA has a well-documented learning curve. Outcomes and complication rates improve significantly beyond ~100 cases. Surgeons in the early phase of adopting the approach should be transparent with patients.
-
-My position: I use the DAA as my primary approach for suitable patients, with posterior approach reserved for cases where anatomy makes it the safer technical choice. Patient selection matters more than approach preference.
-
-Reference: Higgins et al. JBJS 2022 meta-analysis; AOANJRR 2024 approach-specific data.
-
-#AnteriorApproach #PosteriorApproach #TotalHipReplacement #Arthroplasty #MedEd #SurgicalTechnique #AdelaideOrthopedics #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-is-the-best-approach-for-total-hip-replacements/","image_file":"2026-06-05-linkedin.jpg",
-"nanobanana_prompt":"""Open medical journal next to an orthopaedic anatomy model on a timber desk, warm desk lamp, reading glasses nearby, scholarly professional still life, no people"""},
-
-{"id":51,"date":"2026-06-07","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"What Is Minimally Invasive Surgery?",
-"caption":"""What does “minimally invasive” actually mean in hip surgery? 🔬
-
-It’s a term that gets used a lot — and it’s worth understanding what it means in practice.
-
-In the context of hip replacement, “minimally invasive” can refer to:
-
-🔵 A smaller skin incision (compared to traditional approaches)
-🔵 Less disruption to the surrounding muscles
-🔵 An approach that works between muscle planes rather than cutting through them
-
-The Direct Anterior Approach is one example of a minimally invasive technique for hip replacement — it accesses the hip joint through a natural gap between muscles, without detaching any muscle from the bone.
-
-Benefits in appropriate patients:
-→ Potentially faster early recovery
-→ Less post-operative muscle pain
-→ Earlier return to walking without aids in some cases
-
-But: “minimally invasive” doesn’t mean risk-free, and it isn’t suitable for every patient. The right approach depends on individual anatomy and the surgeon’s experience.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#MinimallyInvasiveSurgery #HipReplacement #DirectAnteriorApproach #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipSurgery #PatientEducation #AdelaideHealth #JointHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/minimally-invasive-surgery/","image_file":"2026-06-07-instagram.jpg",
-"nanobanana_prompt":"""Modern laparoscopic surgical equipment on a clean clinical surface, soft blue-white lighting, polished instruments catching light, premium medical technology photography, no people"""},
-
-{"id":52,"date":"2026-06-08","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Cemented vs Uncemented Implants in THA",
-"caption":"""Cemented vs uncemented fixation in total hip arthroplasty: evidence-based selection criteria.
-
-The choice between cemented and uncemented fixation in THA is one of the most important implant-related decisions — and one where the evidence guides a nuanced, patient-specific approach.
-
-Uncemented (press-fit) fixation:
-Relies on bone ingrowth (osseointegration) into a porous-coated implant surface. Requires adequate bone quality and density for successful integration.
-
-• Preferred in patients < 70–75 with good bone stock
-• Lower revision rates at 15 years in younger patients (AOANJRR data)
-• No cement mantle to fail over time
-• Technical demands: requires precise templating and press-fit preparation
-
-Cemented fixation:
-Relies on polymethylmethacrylate (PMMA) bone cement for immediate fixation. Provides reliable fixation regardless of bone quality.
-
-• Preferred in older patients, those with osteoporosis, or abnormal bone morphology
-• Excellent long-term survivorship in appropriate cases
-• Polished tapered cemented stems (Exeter-type) have one of the best track records in the global arthroplasty literature
-• Cement-in-cement revision technique simplifies some revision scenarios
-
-Hybrid fixation:
-Uncemented cup + cemented stem — used in specific scenarios, particularly in older patients where uncemented cup fixation is biomechanically sound but femoral bone quality favours a cemented stem.
-
-The AOANJRR 2024 data continues to support uncemented fixation as associated with lower revision rates in patients under 75, with cemented fixation remaining the preferred option in appropriate older patients.
-
-#TotalHipReplacement #CementedVsUncemented #ImplantFixation #Arthroplasty #SurgicalTechnique #MedEd #AdelaideOrthopedics #HipSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/materials-in-a-total-hip-replacement/","image_file":"2026-06-08-linkedin.jpg",
-"nanobanana_prompt":"""Two orthopaedic hip implant stems side by side on a dark surface: one polished titanium, one porous-coated uncemented, dramatic studio lighting catching surface detail, medical product photography"""},
-
-{"id":53,"date":"2026-06-09","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Stat Card","topic":"Joint Replacement Satisfaction Rates",
-"caption":"""One of the most studied surgical procedures in medicine.
-
-Joint replacement consistently achieves some of the highest patient satisfaction rates of any elective surgery.
-
-What the Australian data shows:
-
-📊 95%+ of hip replacement patients report the surgery met or exceeded their expectations*
-📊 85–90% of knee replacement patients report significant pain reduction and functional improvement*
-📊 Implant survival > 90% at 15 years for most modern designs
-
-These aren’t marketing figures — they’re registry data from one of the world’s most rigorous orthopaedic monitoring systems.
-
-*Source: AOANJRR Patient Reported Outcome Measures (PROMs) data; AOANJRR Annual Report 2024
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #AOANJRR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientOutcomes #AustralianHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-06-09-instagram.jpg",
-"nanobanana_prompt":"""Couple in their 60s laughing and walking in a botanical garden, figures softly blurred, vibrant green trees, golden afternoon light, joyful and aspirational lifestyle photography"""},
-
-{"id":54,"date":"2026-06-09","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Minimally Invasive Hip Surgery in Adelaide",
-"caption":"""Minimally invasive hip surgery in Adelaide — what it means and how I approach it.
-
-Minimally invasive techniques in hip replacement aim to reduce the impact of surgery on the surrounding muscles and soft tissues — with the goal of a faster, less painful early recovery.
-
-At Orthopaedics 360, I use the Direct Anterior Approach as my primary technique for suitable patients undergoing total hip replacement. This approach enters the hip through a natural gap between muscle groups at the front of the hip, without cutting or detaching any muscle from the bone.
-
-For appropriate patients, this can mean:
-• Walking independently sooner after surgery
-• Less post-operative muscle discomfort
-• Reduced risk of dislocation in carefully selected patients
-
-Not every patient is a candidate for the anterior approach. Anatomy, body type, and the specific surgical problem all influence the choice of approach.
-
-I’d encourage anyone considering hip replacement to ask their surgeon about the technique they use, why they use it, and whether it’s appropriate for their situation.
-
-More information is available at the link below.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #MinimallyInvasiveSurgery #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/minimally-invasive-surgery/","image_file":"2026-06-09-facebook.jpg",
-"nanobanana_prompt":"""Modern private hospital exterior at golden hour, warm architectural lighting on glass and timber facade, clean and premium, no people, architectural photography"""},
-
-{"id":55,"date":"2026-06-11","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Knee Replacement FAQs Answered",
-"caption":"""Your most asked questions about knee replacement — answered. ❓
-
-Swipe through 6 FAQs and get evidence-based, plain-English answers →
-
-💬 A few you’ll find in the carousel:
-• “How long will I be in hospital?”
-• “Will I have a scar?”
-• “When can I drive again?”
-• “Is it going to be painful?”
-• “How long does it last?”
-• “Can both knees be done at once?”
-
-If there’s a question you’d like answered that’s not in here, drop it in the comments.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full FAQ guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#KneeReplacement #TKR #KneeReplacementFAQ #AdelaideOrthopaedicSurgeon #Orthopaedics360 #KneeHealth #PatientQuestions #JointReplacement #AdelaideHealth #PatientEducation #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-adelaide/","image_file":"2026-06-11-instagram.jpg",
-"nanobanana_prompt":"""Person in a bright physiotherapy room with a physio, figures warmly blurred, natural light, encouraging healthcare setting|3D render of knee implant with range-of-motion indicator arrows, dark background, clinical precision|Person doing gentle knee bends at home, soft morning light, warm domestic setting, figure slightly blurred|Person walking confidently through a modern shopping centre, figure soft and upright, skylights above"""},
-
-{"id":56,"date":"2026-06-12","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Multimodal Analgesia in Total Joint Replacement",
-"caption":"""Multimodal analgesia in total joint replacement: the protocol behind faster, more comfortable recovery.
-
-Post-operative pain management in arthroplasty has evolved significantly in the last decade. The shift away from opioid-heavy protocols to multimodal analgesia (MMA) has been one of the most impactful changes in peri-operative care.
-
-The principle of MMA is to target pain through multiple analgesic pathways simultaneously, allowing lower doses of each agent and reducing opioid-related side effects (nausea, sedation, ileus, respiratory depression, addiction risk).
-
-Our current protocol elements:
-
-Pre-operatively:
-• Celecoxib or parecoxib (COX-2 inhibition)
-• Pregabalin or gabapentin (neuropathic component)
-• Paracetamol loading
-
-Intra-operatively:
-• Spinal anaesthetic with intrathecal morphine (extended coverage)
-• Peri-articular infiltration with local anaesthetic cocktail (ropivacaine-based)
-• Intravenous tranexamic acid (reduces post-operative swelling and haematoma)
-
-Post-operatively:
-• Regular paracetamol + NSAIDs (unless contraindicated)
-• Low-dose opioids for breakthrough only
-• Ice and elevation
-• Early physiotherapy mobilisation as an analgesic strategy
-
-Outcome: most patients are walking the same day as surgery and are adequately comfortable on paracetamol + NSAIDs at discharge, with opioids only for breakthrough. Discharge opioid prescribing has decreased substantially in our practice over the past 5 years.
-
-For GP colleagues managing post-discharge analgesia: if a patient appears to need escalating opioid doses beyond 2–3 weeks post-operatively, early review is warranted.
-
-#Arthroplasty #MultimodalAnalgesia #PainManagement #TotalJointReplacement #MedEd #AdelaideOrthopedics #PerioperativeCare #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-12-linkedin.jpg",
-"nanobanana_prompt":"""Clinical pharmacy dispensing area, rows of medication bottles and IV equipment blurred in background, cool professional lighting, healthcare setting photography"""},
-
-{"id":57,"date":"2026-06-14","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Pain Management After Joint Replacement",
-"caption":"""Worried about pain after joint replacement? Here’s an honest guide to what most patients experience. 💬
-
-Let’s be real: surgery is uncomfortable. But modern pain management techniques mean that post-operative pain is much more manageable than many patients fear.
-
-What’s normal in the first few days:
-→ Pain at the surgical site, managed with regular medication
-→ Throbbing or aching, particularly in the evening
-→ Some swelling and bruising around the joint
-
-What helps:
-✔️ Regular paracetamol and anti-inflammatories (as directed)
-✔️ Ice packs (wrapped — not directly on skin)
-✔️ Elevation of the leg when resting
-✔️ Moving and walking regularly — it genuinely helps
-
-When to call your surgical team:
-⚠️ Pain that is suddenly much worse after a period of improvement
-⚠️ Severe pain not controlled by prescribed medication
-⚠️ Signs of wound infection: redness, heat, swelling, discharge
-
-Most patients are surprised by how manageable post-operative pain is with today’s protocols.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #PainManagement #HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PostOpCare #PatientJourney #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-14-instagram.jpg",
-"nanobanana_prompt":"""Person reading comfortably in a sunlit armchair at home, soft warm light through sheer curtains, peaceful domestic setting, figure softly focused, no face visible"""},
-
-{"id":58,"date":"2026-06-15","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Peri-Operative Management of Diabetic Patients for Elective Arthroplasty",
-"caption":"""Peri-operative management of diabetic patients undergoing elective arthroplasty: practical guidance for GP colleagues.
-
-Diabetes mellitus is present in approximately 15–20% of patients undergoing elective joint replacement in Australia. It is one of the most significant modifiable risk factors for post-operative infection, wound complications, and prolonged recovery.
-
-Pre-operative glycaemic targets:
-• HbA1c < 8.5% is our threshold for proceeding with elective surgery. Above this, we defer and ask for GP-led optimisation.
-• HbA1c 7.5–8.5%: proceed with surgery with enhanced monitoring and wound care protocol
-• Fasting glucose on the day of surgery: ideally < 10 mmol/L. We liaise with anaesthetics if above this threshold.
-
-Medication management perioperatively:
-• Metformin: withheld on the day of surgery and until oral intake is resumed
-• SGLT2 inhibitors (empagliflozin, dapagliflozin): withheld 3 days before surgery due to euglycaemic DKA risk
-• Insulin: dose adjustment pre-operatively, guided by anaesthetic team
-• Sulphonylureas: withheld on the day of surgery
-
-Post-operative considerations:
-• Elevated BSL post-operatively is common even in well-controlled patients (physiological stress response)
-• Sliding scale insulin may be required in the first 24–48 hours
-• Wound checks at 2 weeks are particularly important in diabetic patients
-
-If you’re referring a diabetic patient for arthroplasty, please include recent HbA1c and current hypoglycaemic medications in the referral. This significantly streamlines the pre-operative assessment.
-
-#DiabetesAndSurgery #Arthroplasty #PerioperativeMedicine #GPReferral #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-15-linkedin.jpg",
-"nanobanana_prompt":"""Doctor reviewing patient notes with a senior patient in a warm consulting room, empathetic healthcare setting, both figures softly blurred, natural window light, no faces clearly visible"""},
-
-{"id":59,"date":"2026-06-16","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Golf After Hip Replacement",
-"caption":"""Can I get back to golf after hip replacement? ⛳
-
-For many of my patients, this is the question that matters most.
-
-The good news: yes, for most patients, golf is absolutely achievable after hip replacement — with some patience.
-
-⏱️ General timeline (varies for each patient):
-→ Putting and chipping: often from 3 months
-→ Short iron play: 4–5 months
-→ Full swing: typically 5–6 months
-→ Full 18 holes (walking): usually by 6–12 months
-
-Tips for getting back to golf well:
-✔️ Work with a physiotherapist on hip rotation and stability before returning
-✔️ Consider riding a cart before returning to a full walking round
-✔️ Be patient with your swing mechanics — they may change slightly
-✔️ Always get specific clearance from your surgeon before starting
-
-Hip replacement genuinely gives many patients their golf game back — and then some.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #GolfAfterHipReplacement #ReturnToGolf #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ActiveLifestyle #HipHealth #PatientJourney #JointReplacement #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-16-instagram.jpg",
-"nanobanana_prompt":"""Golfer at dawn on a wide dewy fairway, figure small and softly focused, mist rising from immaculate grass, golden backlight, sweeping green landscape, luxury lifestyle photography"""},
-
-{"id":60,"date":"2026-06-16","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Pain After Joint Replacement — What’s Normal?",
-"caption":"""After joint replacement, how do you know what’s normal and what isn’t?
-
-This is one of the most important things for patients (and their families) to understand in the post-operative period.
-
-What’s generally normal:
-• Surgical site discomfort for the first 2–4 weeks, managed with paracetamol and anti-inflammatories
-• Swelling and bruising around the joint, sometimes extending down the thigh or calf
-• Aching or stiffness at the end of a more active day
-• Disturbed sleep in the first 2–4 weeks
-
-What should prompt a call to your surgeon’s rooms:
-• A sudden increase in pain after a period where things were improving
-• Wound redness, heat, or discharge — these need assessment promptly
-• Calf pain or swelling — possible DVT and requires urgent review
-• Fever > 38.5°C in the first 2 weeks
-
-If in doubt, call. We would always rather hear from a patient who is concerned than have them wait at home with a problem that needs attention.
-
-Our rooms can be reached via the Orthopaedics 360 website.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #JointReplacement #HipReplacement #KneeReplacement #PostOpCare #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-16-facebook.jpg",
-"nanobanana_prompt":"""Person resting comfortably on a couch with leg elevated on cushions, soft warm afternoon light filtering through curtains, cosy domestic setting, no face visible, reassuring lifestyle photography"""},
-
-{"id":61,"date":"2026-06-18","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"5 Things to Prepare at Home Before Surgery",
-"caption":"""Your home environment matters more than you might think for joint replacement recovery. 🏠
-
-Swipe through 5 practical home modifications to organise before your surgery →
-
-Most patients focus all their preparation on the hospital experience — but the real challenge starts when you walk through your front door.
-
-Organising these things before you go in means you can focus on recovery the moment you get home.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Full preparation guide at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#SurgeryPrep #HipReplacement #KneeReplacement #HomePreparation #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #JointReplacement #AdelaideHealth #RecoveryAtHome #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/faq-total-hip-replacement/","image_file":"2026-06-18-instagram.jpg",
-"nanobanana_prompt":"""Clean home entryway with visible grab rail and non-slip mat, soft natural light, domestic and reassuring|Kitchen bench with a reacher tool and simple meal prep items, bright natural light, practical home setting|Comfortable armchair with side table, lamp, water glass and phone charger, warm cosy bedroom setting|Person carefully packing medications into a small ziplock bag, soft domestic light, figure gently focused"""},
-
-{"id":62,"date":"2026-06-19","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Implant Longevity in TJR — What the AOANJRR 2024 Data Shows",
-"caption":"""Implant longevity in total joint replacement: what the AOANJRR 2024 data tells us about 20-year survivorship.
-
-As the volume of joint replacement grows and the age at primary surgery trends younger, implant longevity becomes increasingly important in clinical and patient decision-making.
-
-The AOANJRR 2024 Annual Report provides the most comprehensive Australian longevity data available. Key findings:
-
-Total hip arthroplasty:
-• 15-year cumulative revision rate: ~7–8% across all primary THAs
-• 20-year data (where available): survivorship of 85–90% for well-established uncemented designs
-• Cemented polished tapered stems (Exeter-type): survivorship comparable to top uncemented designs at 20 years
-• Bearing surface: ceramic-on-HXLPE continues to show the lowest wear-related revision rates at all time points
-
-Total knee arthroplasty:
-• 15-year cumulative revision rate: ~7–9% across all primary TKRs
-• Key revision drivers: infection (most common in first 2 years), aseptic loosening (dominant at > 10 years), instability
-• BMI > 40 associated with approximately doubled revision risk at 10 years
-
-Practical implications for clinical practice:
-• For patients under 60 considering TJR: a realistic conversation about the possibility of revision surgery during their lifetime is appropriate — but should not deter surgery when functional limitation is significant
-• For patients 70+: the majority will not outlive a well-performed primary arthroplasty
-• The most impactful predictors of implant longevity are patient selection, implant positioning, and pre-operative optimisation — not implant brand
-
-Reference: AOANJRR Annual Report 2024, Summary Supplement.
-
-#ImplantLongevity #AOANJRR #TotalJointReplacement #Arthroplasty #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-19-linkedin.jpg",
-"nanobanana_prompt":"""Glowing medical data visualisation, smooth upward trend graphs on a dark screen, cool blue analytics aesthetic, no text readable, professional technology photography"""},
-
-{"id":63,"date":"2026-06-21","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"How Long Does a Hip or Knee Replacement Last?",
-"caption":""""How long will my joint replacement last?"
-
-It’s one of the first questions patients ask — and a completely reasonable one. Here’s an honest, evidence-based answer.
-
-📊 What the data says:
-Australian registry data (AOANJRR) shows that the majority of modern hip and knee implants survive well beyond 15 years — with survivorship rates of over 90% at 15 years for many implant systems.
-
-Some implants last 20 years or more. Revision is always a possibility, but for most patients, their first replacement will be their only one.
-
-🧠 What affects how long it lasts:
-→ Your weight — higher BMI increases wear on the implant
-→ Your activity level — high-impact sport accelerates wear
-→ Implant type and positioning at surgery
-→ Your age at the time of surgery
-
-🔵 The good news: even if revision is needed, it’s a well-established procedure with good outcomes in experienced hands.
-
-Source: AOANJRR Annual Report 2024
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #ImplantLongevity #AOANJRR #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-21-instagram.jpg",
-"nanobanana_prompt":"""Active couple in their 60s playing doubles tennis on an outdoor court at golden hour, figures soft and energetic, blue-green court, warm evening amber light, aspirational sports lifestyle"""},
-
-{"id":64,"date":"2026-06-22","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Return-to-Sport Guidelines After TJR",
-"caption":"""Return-to-sport after total joint arthroplasty: what the evidence recommends in 2025.
-
-With an increasing number of active and younger patients undergoing TJR, return-to-sport counselling has become a routine part of my pre-operative and post-operative consultations. The evidence base has matured considerably.
-
-General principles:
-• Activity level should progress gradually, guided by pain, function, and physiotherapist assessment
-• The implant can withstand most recreational activities — it is the soft tissue recovery and proprioceptive retraining that usually limits timeline
-• Patient education about high-impact activity and implant wear is appropriate, without creating unnecessary restriction
-
-Evidence-supported activities after THA:
-• Recommended: walking, swimming, cycling, golf, doubles tennis, low-impact aerobics, pilates, yoga, dancing
-• With experience (and discussion): hiking, singles tennis, skiing (piste), light jogging
-• Generally discouraged: contact sports, competitive running, high-impact court sports (squash, singles basketball)
-
-Evidence-supported activities after TKR:
-• Recommended: walking, cycling (stationary and road), swimming, golf, doubles tennis, bowling
-• With experience (and discussion): hiking, skiing, low-level running
-• Generally discouraged: high-impact running, contact sports, heavy squatting with loaded weights
-
-Timeline guidance:
-• Low-impact activity: from 6–12 weeks post-op
-• Sport-specific rehabilitation: from 3 months
-• Return to competitive sport: minimum 6 months, usually 6–12 months depending on sport
-
-I recommend a sport-specific physiotherapy assessment before any return to structured sporting activity.
-
-Reference: Vogel et al., Orthopaedic Journal of Sports Medicine 2023; NICE Guidelines 2023.
-
-#ReturnToSport #TotalJointReplacement #Arthroplasty #MedEd #AdelaideOrthopedics #HipReplacement #KneeReplacement #ActivePatients""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-22-linkedin.jpg",
-"nanobanana_prompt":"""Mixed group of active people doing aqua aerobics in a sunlit outdoor pool, figures blurred and joyful, bright turquoise water, aspirational active lifestyle photography"""},
-
-{"id":65,"date":"2026-06-23","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Anatomy","topic":"The Anatomy of Hip Replacement — Illustrated",
-"caption":"""What does a hip replacement actually consist of? 🦴
-
-Here’s a visual breakdown of the components that make up a modern total hip replacement.
-
-A total hip replacement resurfaces both sides of the hip joint:
-
-🔵 Femoral stem — inserted into the hollow of the thigh bone (femur) for fixation
-🔵 Femoral head — a precision-engineered ball (usually ceramic or metal) that sits atop the stem
-🔵 Acetabular shell — a metal cup pressed into the socket in the pelvis
-🔵 Acetabular liner — a smooth plastic (HXLPE) or ceramic insert inside the shell
-
-The femoral head articulates with the liner to create the new joint surface — mimicking the smooth, frictionless motion of a healthy hip.
-
-Most components are designed for bone ingrowth (uncemented) or secured with bone cement, depending on the patient’s bone quality and the surgeon’s assessment.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-More at drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipAnatomy #TotalHipReplacement #HipImplant #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientEducation #BoneHealth #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-06-23-instagram.jpg",
-"nanobanana_prompt":"""Photorealistic 3D render of total hip replacement: titanium stem in femur, ceramic head seated in metal-backed acetabular cup, dark dramatic studio background|3D render of natural hip anatomy beside total hip replacement anatomy, side-by-side comparison, clinical lighting, dark background|Close-up 3D render of ceramic femoral head catching studio light, precision material photography, deep navy background|Illustrated lateral view of hip replacement implant with bone integration lines visible, medical model render, dark navy"""},
-
-{"id":66,"date":"2026-06-23","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"How Long Do Hip and Knee Replacements Last?",
-"caption":""""How long will my hip or knee replacement last?" — here’s the honest, evidence-based answer.
-
-This is one of the most common questions I hear from patients considering joint replacement surgery — and it deserves a direct answer.
-
-Australian registry data from the AOANJRR consistently shows that the majority of modern hip and knee implants function well beyond 15 years, with survivorship rates exceeding 90% at that time point for most well-established implant systems.
-
-For many patients, particularly those over 65 at the time of surgery, their primary joint replacement will be the only one they ever need.
-
-For younger patients, revision surgery during their lifetime is more likely — which is an important part of the consent conversation before surgery.
-
-Factors that influence longevity include body weight, physical activity level, implant type, and the accuracy of surgical technique and component positioning.
-
-I’ve written a detailed guide on implant longevity at the link below, including what the latest AOANJRR data says.
-
-This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #ImplantLongevity #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-06-23-facebook.jpg",
-"nanobanana_prompt":"""Active couple in their 70s gardening together in a lush backyard, figures warm and blurred, rich green garden, golden afternoon light, aspirational lifestyle"""},
-
-{"id":67,"date":"2026-06-25","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"Who Is a Good Candidate for Hip Replacement?",
-"caption":"""Is hip replacement right for you? Here’s what surgeons actually look for. 🗓️
-
-Swipe through 5 factors that help determine whether hip replacement is the right step →
-
-A referral for hip replacement doesn’t mean you’re definitely having surgery. It means you’re getting the information you need to make an informed decision.
-
-The decision to proceed with surgery is always yours — made in partnership with your surgeon, based on your symptoms, your imaging, and your goals.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-drchienwenliew.com.au 🔗 Link in bio
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #TotalHipReplacement #IsHipReplacementRightForMe #AdelaideOrthopaedicSurgeon #Orthopaedics360 #HipArthritis #PatientEducation #JointHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-06-25-instagram.jpg",
-"nanobanana_prompt":"""Patient reviewing hip X-ray images alongside a doctor in a consulting room, figures softly blurred, warm clinical setting|Active older person climbing stairs with ease and confidence, bright stairwell, figure soft and upright|Surgeon reviewing patient imaging on a tablet, warm consulting room, professional healthcare photography|Person doing low-impact walking in a green park, morning light filtering through trees, figure soft and active"""},
-
-{"id":68,"date":"2026-06-26","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"ERAS Protocols in Elective Arthroplasty",
-"caption":"""Enhanced Recovery After Surgery (ERAS) in total joint arthroplasty: what it means and what the evidence supports.
-
-ERAS protocols have transformed the peri-operative experience in arthroplasty over the past decade. The core principle is a multi-disciplinary, evidence-based bundle of care that begins pre-operatively and continues through discharge, designed to minimise physiological stress, reduce complications, and accelerate functional recovery.
-
-Key components of our ERAS approach at Orthopaedics 360:
-
-Pre-operative:
-• Patient education and expectation-setting
-• Carbohydrate loading (clear fluids permitted up to 2 hours pre-op)
-• Pre-operative analgesia (paracetamol, celecoxib, pregabalin)
-• Optimisation of co-morbidities (see previous posts on anaemia, diabetes, BMI)
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-09-15-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Sunlit outdoor terrace of a private wellness centre, potted white agapanthus, warm morning light on clean stone surfaces, restorative and calm, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Returning to Work After Joint Replacement. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":137,"date":"2026-07-02","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Periprosthetic Fracture — Risk Factors, Management, and Fixation Implications",
+"caption":"""Periprosthetic fracture around total hip arthroplasty — an increasing clinical challenge.
+
+As the arthroplasty population ages and the number of implants in situ grows, periprosthetic fractures (PPF) are becoming more frequent. Understanding risk stratification and management principles is increasingly relevant for all orthopaedic surgeons.
+
+Incidence and trend:
+The cumulative incidence of PPF post-THA is approximately 1–2% at 20 years but rising in absolute terms as the overall THA population grows. Most occur in older women with osteoporosis or in the context of a fall.
+
+Vancouver classification:
+The Vancouver system remains the standard for THA periprosthetic fractures:
+- Type A: fractures around the greater or lesser trochanter
+- Type B1: fracture around the stem, stem well fixed
+- Type B2: fracture around the stem, stem loose
+- Type B3: fracture around the stem, poor bone stock
+- Type C: fracture distal to the stem
+
+This classification directly drives management:
+- B1: Open reduction internal fixation (ORIF) — stem retained
+- B2: Stem revision (± ORIF)
+- B3: Reconstruction with structural allograft or tumour-type prosthesis
+- C: Standard fracture fixation principles
+
+Risk factors for PPF:
+- Female sex and osteoporosis (strongest modifiable risk factor)
+- Cementless fixation (though modern cementless stems have improved)
+- Revision arthroplasty (substantially higher risk than primary)
+- Cortical perforation or notching at primary
+- Patient falls risk — unaddressed polypharmacy, balance impairment, visual deficits
+
+Primary fixation implications:
+Bone quality assessment at primary arthroplasty should influence stem selection. In patients with demonstrably poor bone stock (low T-score, thin cortices on templating), cemented fixation may reduce the risk of peri-operative fracture and improve fixation in the event of later fracture. Cementless stems in osteoporotic bone carry higher intra-operative fracture risk.
+
+Pre-operative DEXA in at-risk patients — those over 70, with prior fragility fractures, or on long-term steroids — should be considered and results should feed into implant choice.
+
+PPF is best prevented. When it occurs, anatomical understanding and adherence to classification-based treatment principles are critical.
+
+#PeriprostheticFracture #TotalHipArthroplasty #Arthroplasty #FractureManagement #Orthopaedics #BoneHealth #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip/longevity-of-a-hip-replacement/","image_file":"2026-09-18-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A lateral femur X-ray on a backlit panel — fracture line visible mid-shaft with a cemented stem below. The X-ray slightly angled, mounted on a matte black board. Warm amber light box glow. Ship Cove blue (#A2B9D8) border around the image. No people. Clinical gravity, clear and composed."""},
+
+{"id":139,"date":"2026-07-04","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Complex Primary THA — The Acetabular Dysplasia Patient",
+"caption":"""Complex primary THA in acetabular dysplasia — where the planning is as important as the surgery.
+
+Developmental dysplasia of the hip (DDH) presenting for arthroplasty is among the more technically demanding scenarios in primary THA. The anatomical distortion — shallow acetabulum, high riding femoral head, anteverted proximal femur, and hypoplastic true acetabulum — demands thorough pre-operative assessment and a clearly defined surgical strategy.
+
+Crowe classification guides expectations:
+- Crowe I–II: Mild dysplasia. True acetabulum usually of adequate volume. Can often be managed with a standard technique but requires careful cup positioning.
+- Crowe III: Moderate subluxation. Cup placement at the true acetabulum often requires reinforcement techniques (medialisaton, structural autograft, augments).
+- Crowe IV: Complete dislocation with high-riding femur. Placing the cup at the true acetabulum requires femoral shortening osteotomy to avoid neurovascular stretch injury.
+
+Key pre-operative planning considerations:
+1. CT with 3D reconstruction — essential. Defines acetabular bone stock and version, estimates cup sizing at true acetabulum, identifies femoral deformity.
+2. Femoral side: dysplastic hips often have an anteriorly bowed, anteverted femur with a narrow canal — standard tapered stems may not fit. Some cases need custom or bespoke sizing.
+3. Leg length discrepancy: significant pre-existing LLD in Crowe III–IV patients. Patients need counselling that full correction may not be safe or possible.
+4. Soft tissue: chronic dislocation causes adaptive soft tissue shortening — abductors may be deficient or poorly positioned. Abductor reconstruction planning is important.
 
 Intra-operative:
-• Spinal anaesthesia with targeted sedation (avoiding heavy general anaesthesia where possible)
-• Peri-articular local anaesthetic infiltration
-• IV tranexamic acid (reduction of blood loss and swelling)
-• Goal-directed fluid management
-• Normothermia maintenance
+The true acetabulum is medial and inferior to the false acetabulum. Reamers must be directed to the correct location — a common error is reaming the pseudoacetabulum. Fluoroscopy or robotic assistance aids cup position verification.
 
-Post-operative:
-• Same-day mobilisation with physiotherapy — commencing within hours of surgery
-• Regular multimodal analgesia; opioids for breakthrough only
-• Early oral intake and resumption of home medications
-• Discharge planning from admission
+Cup fixation:
+In shallow true acetabuli, primary press-fit may have limited surface contact. Supplemental screw fixation is routinely used. Structural autograft from the femoral head (if available) or augments can address bone deficiency.
 
-Outcomes from ERAS implementation:
-• Reduced average length of stay (< 3 days for most primary THAs and TKRs)
-• Lower transfusion rates
-• Reduced opioid use and associated complications
-• Earlier functional independence
+Outcomes:
+DDH-THA has higher complication rates and revision rates than standard primary THA. Patients should be counselled accordingly. Outcomes are improved by subspecialist volume and careful pre-operative planning.
 
-For referring GPs: patients enrolled in our ERAS programme typically have shorter hospital stays and faster return to independent living than historical benchmarks.
+Would welcome discussion with colleagues managing these cases — particularly approach to Crowe III/IV with significant LLD.
 
-#ERAS #EnhancedRecovery #TotalJointReplacement #Arthroplasty #PerioperativeCare #MedEd #AdelaideOrthopedics #HipReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-06-26-linkedin.jpg",
-"nanobanana_prompt":"""Modern anaesthesia workstation in a surgical suite, glowing monitors and clinical equipment, cool blue-white clinical lighting, no people, premium medical technology photography"""},
+#DDH #AcetabularDysplasia #TotalHipArthroplasty #ComplexPrimary #Arthroplasty #HipSurgery #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/total-hip-replacement/","image_file":"2026-09-21-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A 3D-printed pelvis model showing severe acetabular dysplasia — shallow socket, high dislocation. White matte finish on a timber surface. Compass and measuring tools nearby. Soft overhead studio light. Ship Cove blue (#A2B9D8) in the background gradient. No people. Surgical planning, tactile and real."""},
 
-{"id":69,"date":"2026-06-28","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Hip Precautions in Early Recovery",
-"caption":"""Hip precautions after hip replacement — what to avoid and why. 🧠
+{"id":143,"date":"2026-07-06","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"ERAS Protocol Adherence in Community Hospitals vs Tertiary Centres",
+"caption":"""ERAS protocol adherence in arthroplasty — do community hospitals achieve comparable outcomes to tertiary centres?
 
-After a total hip replacement, your surgical team may give you a list of movement restrictions. Here’s what’s behind them — and why they matter in early recovery.
+Enhanced Recovery After Surgery (ERAS) protocols for total joint arthroplasty are now well-established. The evidence base for multimodal analgesia, peri-operative nutrition, early mobilisation, and reduced opioid use is robust. The question increasingly is not whether ERAS works, but whether it is being implemented consistently — and whether community hospitals can match tertiary outcomes.
 
-Precautions vary by surgical approach. Patients who have a posterior approach typically receive the following restrictions for the first 6–8 weeks:
+What the literature shows:
+A number of comparative studies from Australia, the UK, and Scandinavia have assessed ERAS adherence across hospital types. Key findings:
 
-❌ Avoid bending the hip past 90°
-(e.g. don’t lean forward past vertical when sitting)
+- Compliance with individual ERAS elements varies substantially between institutions, even within the same health system
+- Tertiary and metropolitan private centres tend to demonstrate higher fidelity to multimodal analgesia protocols, pre-operative carbohydrate loading, and post-operative early mobilisation
+- Community and regional hospitals often achieve excellent outcomes in primary TJR but show greater variability in ERAS adherence — particularly in anaesthetic protocols and day-of-surgery mobilisation
+- Length of stay (LOS) is a commonly used proxy outcome. Tertiary ERAS centres have median LOS of 1–2 days for uncomplicated primary TJR. Community hospitals typically sit at 2–4 days for similar patient populations
+- Patient-reported outcomes (PROMs) at 6 and 12 months show less difference between institution types than LOS — suggesting that while ERAS affects short-term efficiency, longer-term outcomes are more surgeon- and patient-dependent
 
-❌ Avoid crossing your legs or ankles
+Implications for practice:
+ERAS in TJR is not a tertiary-only tool. The core elements — pre-operative education, carbohydrate loading, spinal anaesthesia, multimodal peri-operative analgesia, early physiotherapy on day of surgery — are implementable in any accredited arthroplasty facility. The gap between centres is largely one of system design and anaesthetic buy-in rather than surgical capability.
 
-❌ Avoid internal rotation of the operated leg
-(e.g. turning the foot inward while weight-bearing)
+In my practice at Eastwood Private Hospital, we have implemented a ERAS-aligned protocol for all primary TJR cases, with day-of-surgery mobilisation as a standard. This is not exceptional — it should be standard.
 
-These positions can put the new hip at risk of dislocation in the early weeks, before the soft tissues have healed and tightened around the implant.
+#ERAS #EnhancedRecovery #TotalJointReplacement #Arthroplasty #PatientOutcomes #HospitalQuality #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-09-25-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A split view of two clinical environments — left: a community hospital corridor, warm but modest. Right: a tertiary centre atrium, high glass ceiling, Ship Cove blue (#A2B9D8) panels. The dividing line clean and deliberate. No people. Institutional comparison, even-handed. Wide editorial composition."""},
 
-✅ Good news for patients having the Direct Anterior Approach:
-Because the posterior soft tissues are preserved, formal dislocation precautions are usually not required.
+{"id":141,"date":"2026-07-08","day":"Wednesday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Hip Replacement Success Stories — What Good Outcomes Look Like",
+"caption":"""What does a truly good hip replacement outcome look like?
 
-Always follow the specific instructions given by your surgical team — they are tailored to your procedure.
+It's a fair question — and the answer might be simpler than you expect.
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
+In my practice, a good outcome isn't defined by an X-ray or a surgical report. It's defined by the patient.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#HipReplacement #HipPrecautions #HipReplacementRecovery #AdelaideOrthopaedicSurgeon #Orthopaedics360 #PatientJourney #PostOpCare #HipHealth #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-06-28-instagram.jpg",
-"nanobanana_prompt":"""Person sitting comfortably in a high chair with a footstool, reading a book, bright sunlit living room, cosy home environment, figure gently blurred, warm and reassuring, no face visible"""},
+Here's what I hear most often from patients 3–6 months after surgery:
 
-{"id":70,"date":"2026-06-29","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Young Patients and Total Joint Replacement",
-"caption":"""Joint replacement in patients under 60: navigating expectations, longevity, and long-term planning.
+"I slept through the night for the first time in three years."
+"I walked around the supermarket without having to stop and rest."
+"I went back to my morning walk with my husband."
+"I got on the floor and played with my grandchildren."
+"I just… forgot about my hip."
 
-The average age at total hip and total knee replacement is falling. An increasing proportion of patients presenting for primary arthroplasty are in their 40s, 50s, and early 60s — driven by earlier-onset OA, obesity, post-traumatic arthritis, and rising expectations for active quality of life.
+That last one is the one I love most. The goal of a well-performed hip replacement is a joint that disappears — one that works so well you stop thinking about it.
 
-This demographic presents specific clinical and counselling challenges.
+What the data says:
+The Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) shows that total hip replacement consistently delivers some of the highest patient satisfaction rates of any elective surgical procedure — over 94% in most studies.
 
-The longevity conversation:
-Patients under 55–60 have a meaningful probability of requiring revision surgery during their lifetime. This must be communicated clearly as part of the consent process — not to discourage surgery, but to ensure the patient understands what they are signing up for over the long term.
+The typical patient profile for a great outcome:
+• Pre-operative optimisation completed (weight, fitness, medication review)
+• Realistic expectations — some recovery takes 6–12 months
+• Committed to physiotherapy and home exercise
+• Good baseline health with well-managed co-morbidities
+• Clear communication with their surgical team throughout recovery
 
-Modern data gives some reassurance: AOANJRR survivorship curves show that even in patients under 55, cumulative revision rates at 15 years are approximately 15–20% — meaning 80–85% do not require revision at that time point.
+Good outcomes don't happen by accident. They happen when the right patient, the right operation, and the right aftercare come together.
 
-Patient selection in younger patients:
-I apply a higher threshold for the decision to operate in younger patients. I want to be confident that:
-• Conservative management has been comprehensively trialled and genuinely failed
-• The functional limitation is significant and is affecting quality of life in a meaningful way
-• The patient has realistic expectations about activity levels and implant demands
-• The patient understands and accepts the possibility of future revision
+If you're wondering whether hip replacement could offer you that — it's worth starting the conversation.
 
-Activity and implant demands:
-I counsel younger patients on protecting their implant longevity through reasonable activity choices — without mandating a sedentary lifestyle. The goal is a fulfilling, active life within evidence-based parameters.
-
-For GP colleagues: when referring younger patients (< 55), including information about activity goals and expectations in the referral is particularly helpful.
-
-#YoungPatients #TotalJointReplacement #Arthroplasty #AOANJRR #AdelaideOrthopedics #GPReferral #MedEd #HipSurgeon #KneeSurgeon""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-06-29-linkedin.jpg",
-"nanobanana_prompt":"""Active person in their 40s running on a coastal path at sunrise, figure blurred in motion against wide blue ocean, no face visible, lifestyle sports photography, energy and freedom"""},
-
-{"id":71,"date":"2026-06-30","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Quote Card","topic":"Dr Liew Quote — Why I Do This Work",
-"caption":"""Why do I do this work?
-
-Not for the complexity of the surgery. Not for the technicalities.
-
-For the patient who calls the rooms six months after their hip replacement to say they walked their daughter down the aisle. 💙
-
-For the 74-year-old who comes back to thank me because he can finally play with his grandchildren on the floor.
-
-For the woman who slept through the night for the first time in three years.
-
-That is why.
-
-— Dr Chien-Wen Liew
-Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360""",
-"hashtags":"#Orthopaedics360 #AdelaideOrthopaedicSurgeon #HipReplacement #KneeReplacement #DrChienWenLiew #JointReplacement #WhyIMedicine #PatientCare #AdelaideHealth #MedicalProfessional",
-"website_link":"https://drchienwenliew.com.au/blog/orthopaedics-in-south-australia/","image_file":"2026-06-30-instagram.jpg",
-"nanobanana_prompt":"""Older couple walking hand-in-hand along a quiet beach at low tide, small warm silhouettes against wide pale sand and soft blue ocean, golden late afternoon light, fine art lifestyle photography"""},
-
-{"id":72,"date":"2026-06-30","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post","topic":"Young Patients and Joint Replacement",
-"caption":"""Joint replacement in younger patients — what changes and what stays the same.
-
-A question I hear often from patients in their 40s and 50s: “Am I too young for this?”
-
-The honest answer is: it depends. But age alone doesn’t disqualify anyone from consideration.
-
-What changes in younger patients:
-• The conversation about implant longevity is more important — younger patients have a higher likelihood of outliving their first implant
-• The threshold for surgery is appropriately higher — conservative management should be comprehensively explored first
-• Activity expectations are discussed in more detail — to protect the implant over a longer active life
-
-What stays the same:
-• The goal is to restore quality of life and function
-• The same surgical techniques and implants that work for older patients work just as well for younger ones
-• The decision is made together — by the patient, informed by their specialist
-
-If you’re in your 40s or 50s and living with significant joint pain that conservative management hasn’t helped, a specialist assessment is a reasonable next step.
+👉 drchienwenliew.com.au
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipReplacement #KneeReplacement #YoungPatients #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/am-i-too-young-for-a-hip-or-knee-replacement/","image_file":"2026-06-30-facebook.jpg",
-"nanobanana_prompt":"""Active person in their 40s hiking confidently up a mountain trail at sunrise, figure small against vast green hillside, wide landscape, aspirational and energetic photography"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-09-22-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: University medical library, tall shelves of bound medical journals, warm reading lamp casting a pool of amber light on a timber desk, scholarly and prestigious, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Hip Replacement Success Stories — What Good Outcomes Look Like. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
 
-{"id":73,"date":"2026-07-02","day":"Thursday","platform":"Instagram","li_audience":"",
-"format":"Carousel","topic":"3 Months of Hip & Knee Health — Key Takeaways",
-"caption":"""3 months. 39 posts. The most important things we’ve covered about hip & knee health. 🗓️
+{"id":145,"date":"2026-07-12","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Knee Replacement Alignment — Mechanical vs Anatomical vs Kinematic",
+"caption":"""The alignment debate in total knee arthroplasty — mechanical, anatomical, and kinematic. Where does the evidence now sit?
 
-Swipe through a summary of the key messages from the last three months →
+For decades, the dominant paradigm in TKA was mechanical alignment (MA) — positioning the femoral and tibial components to achieve a neutral mechanical axis (0° hip-knee-ankle), irrespective of native anatomy. The rationale was implant longevity: a neutral mechanical axis minimises asymmetric loading on the polyethylene insert.
 
-If you’ve been following along — thank you. If you’re new here, this is a good place to start.
+The problem:
+Approximately 20–25% of the natural population have a non-neutral mechanical axis — varus or valgus — as their constitutional anatomy. When MA is applied to these patients, the reconstructed knee can feel mechanically sound but kinematically unnatural. Some of these patients experience persistent dissatisfaction despite a technically correct operation. This is a significant contributor to the 15–20% dissatisfaction rate seen historically in TKA.
 
-Dr Chien-Wen Liew specialises exclusively in hip and knee replacement surgery in Adelaide. His goal is to give patients the knowledge they need to make informed decisions about their joint health.
+Enter kinematic alignment (KA):
+KA attempts to recreate the patient's pre-disease native knee kinematics by positioning components according to the patient's own anatomical alignment — resurfacing the joint rather than resecting to a neutral axis. In theory, this preserves soft tissue tension, natural ligament isometry, and joint line orientation.
 
-🔗 Visit drchienwenliew.com.au for in-depth guides on every topic covered in this carousel.
+What the evidence now shows (2024–2026):
+- Multiple RCTs and registry analyses have now been published on MA vs KA — results are mixed but trending:
+- KA shows comparable or slightly better early PROMs in selected patients
+- KA has not demonstrated inferior implant survivorship at medium-term follow-up (5–10 years), though longer-term data is maturing
+- KA appears most beneficial for patients with significant constitutional varus/valgus who are poorly served by MA
+- The risk of outlier malalignment is higher with KA if not precisely executed — this is where robotic assistance is most valuable
+- Restricted KA (rKA) — a hybrid approach with defined alignment 'safe zones' — is gaining traction as a pragmatic middle ground
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360""",
-"hashtags":"#HipReplacement #KneeReplacement #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #PatientEducation #HipHealth #KneeHealth #AdelaideHealth #DrChienWenLiew #Arthroplasty #Osteoarthritis",
-"website_link":"https://www.youtube.com/watch?v=7-ahK5On5mM","image_file":"2026-07-02-instagram.jpg",
-"nanobanana_prompt":"""Sunrise over Adelaide Hills, misty valleys below, warm golden light, wide panoramic landscape shot, aspirational and reflective|Person walking briskly on a coastal path, figure small and energetic against blue ocean, fresh morning light|Active older person in a yoga class outdoors, park setting, figures soft and blurred, warm morning light, calm and active|Community group exercise class in a park, morning light, figures blurred and joyful, aspirational social lifestyle"""},
+The shift in practice:
+An increasing number of arthroplasty surgeons in Australia are moving toward personalised or kinematic alignment as a default for primary TKA, particularly with robotic platforms that make precision accessible. The AAHKS and EFORT have acknowledged this as a legitimate and evidence-supported approach.
 
-{"id":74,"date":"2026-07-03","day":"Friday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Reflecting on Current Evidence in Arthroplasty",
-"caption":"""Reflecting on the current evidence in hip and knee arthroplasty: three areas where my practice has evolved.
+My view:
+The right alignment target is patient-specific. The days of treating every TKA as a mechanical alignment problem are likely numbered — at least in high-volume subspecialist practice.
 
-Medical practice should evolve in response to evidence. Here are three areas in arthroplasty where my approach has meaningfully changed over the past few years, and why.
+Interested in colleagues' experience — particularly those using robotic KA. What are you seeing?
 
-1. Pre-operative anaemia management
-I now screen every patient with an FBC before listing, and have a lower threshold for initiating IV iron infusion pre-operatively. The evidence for its impact on transfusion rates and post-operative recovery is consistent enough to justify the investment. Early referral and GP collaboration before the orthopaedic consultation has been a meaningful change in workflow.
+#TotalKneeArthroplasty #KinematicAlignment #MechanicalAlignment #TKA #Arthroplasty #RoboticSurgery #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"2026-09-28-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A tibial alignment jig positioned on a knee anatomy model — the rod perfectly vertical, mechanical axis marked. Clean white background, overhead studio light. Deep Navy (#0B1F3A) base below. Ship Cove blue (#A2B9D8) in the instrument colour. No people. Alignment precision, instrument beauty."""},
 
-2. Extended VTE prophylaxis in THA
-I have moved to 35-day chemical prophylaxis as standard for total hip arthroplasty, in line with the current NHMRC evidence. The risk of symptomatic VTE extends meaningfully beyond the 10–14 day window that was historically standard. This is one area where the GP plays an important ongoing role in monitoring the patient.
+{"id":149,"date":"2026-07-15","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Bone Quality Assessment Pre-Arthroplasty — DEXA, T-Scores, and Fixation",
+"caption":"""Bone quality assessment before arthroplasty — a step we cannot afford to skip.
 
-3. Honest early conversations about revision risk
-I have become more direct, and earlier in the process, about discussing revision surgery as a realistic long-term possibility. Patients have a right to understand this fully — not as a scare tactic, but as genuine informed consent. I have found this improves, not damages, the therapeutic relationship.
+Osteoporosis is common in the arthroplasty population. Yet in many centres, formal bone quality assessment is not routine pre-operatively. The implications of operating in compromised bone without planning accordingly range from intra-operative fracture to early aseptic loosening and periprosthetic fracture.
 
-What areas of your own practice have you updated based on recent evidence? I’d welcome the discussion.
+The case for pre-operative DEXA:
+DEXA scanning (dual-energy X-ray absorptiometry) provides T-scores at the hip and spine — the most clinically useful sites for assessing bone mineral density (BMD) in arthroplasty candidates. A T-score of ≤−2.5 (osteoporosis) or −1.0 to −2.5 (osteopaenia) significantly changes the risk profile for any arthroplasty case.
 
-#Arthroplasty #MedEd #TotalJointReplacement #EvidenceBasedMedicine #AdelaideOrthopedics #HipSurgeon #KneeSurgeon #ContinuousProfessionalDevelopment""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-07-03-linkedin.jpg",
-"nanobanana_prompt":"""Medical library shelves with rows of journals and orthopaedic textbooks, warm reading lamp, scholarly atmosphere, no people, soft focus on spines of books, professional and academic"""},
+Who should be assessed:
+- Women over 65
+- Men over 70
+- Any patient with a prior fragility fracture
+- Long-term corticosteroid users (>3 months at any dose)
+- Patients with inflammatory arthritis on DMARDs or biologics
+- Patients with known malabsorption or nutritional deficiency
+- Those with radiographic features of diffuse osteopaenia
+- BMI < 20
 
-{"id":75,"date":"2026-07-05","day":"Sunday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Winter Joint Pain — Is It Arthritis?",
-"caption":"""Do your joints hurt more in winter? You’re not imagining it. 🧊
+T-score implications for fixation choice:
+While no absolute threshold dictates cemented vs cementless fixation, T-scores below −2.0 should prompt serious consideration of cemented stems — particularly in the femur. Uncemented stems in severely osteoporotic bone have increased risk of intra-operative split fracture, early subsidence, and poor osseointegration.
 
-Many people with arthritis report that cold weather makes their joints feel worse. Here’s what we actually know.
+The acetabular side: cementless cups generally achieve adequate fixation even in moderate osteopaenia due to large contact surface area and supplementary screw fixation. Severe osteoporosis may warrant a cemented all-poly cup or augmented construct.
 
-What the evidence suggests:
-🔵 Barometric pressure changes (common in cold fronts) may affect joint fluid and soft tissue, increasing pain sensitivity
-🔵 Cold temperatures can increase muscle stiffness and reduce the natural lubrication effect of synovial fluid
-🔵 People tend to be less active in winter — which itself contributes to stiffness and pain
+Treating bone disease before surgery:
+If a patient is identified as osteoporotic pre-operatively:
+- Initiate vitamin D and calcium supplementation immediately
+- Consider bone-protective therapy — bisphosphonates, denosumab, or in high-risk cases, teriparatide — in consultation with endocrinology or rheumatology
+- Optimise before elective surgery where timeline permits
+- Post-operatively, bone-protective therapy should be continued and monitored
 
-What helps in winter:
-✔️ Keep moving — gentle indoor exercise makes a real difference
-✔️ Warm layers over affected joints
-✔️ Warm water exercise / hydrotherapy
-✔️ Continue with your prescribed analgesia plan
+DEXA should be part of our standard pre-operative workup in at-risk patients. It costs little, takes minutes, and changes management.
 
-When to see your GP:
-If your joint pain is worsening despite these measures and is affecting your daily function, it’s worth getting assessed. Winter is a good time to start the conversation about your treatment options.
+#Osteoporosis #BoneHealth #DEXA #PreoperativeAssessment #TotalHipArthroplasty #Arthroplasty #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"2026-10-02-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A DEXA scan printout on a clean white surface — bone density colour map visible, T-score columns, without identifiers. Pen resting across the paper. Soft directional light. Ship Cove blue (#A2B9D8) folder beside it. No people. Bone quality made visible, clinical and clean."""},
 
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Adelaide | drchienwenliew.com.au
+{"id":147,"date":"2026-07-18","day":"Saturday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"PRP, Steroids and more - what evidence says about injectables",
+"caption":"""Choosing an orthopaedic surgeon — what to actually look for.
 
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#WinterJointPain #HipArthritis #KneeArthritis #Osteoarthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #JointHealth #AdelaideWinter #ArthritisAwareness #PatientEducation #AdelaideHealth #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-05-instagram.jpg",
-"nanobanana_prompt":"""Person walking a dog along a misty park path on a cool winter morning, bare trees, soft grey-blue light, figure warmly dressed and softly blurred, peaceful seasonal atmosphere"""},
+It's one of the most important decisions you'll make for your health, but most people don't know what criteria to use. Here's a practical guide.
 
-{"id":76,"date":"2026-07-06","day":"Monday","platform":"LinkedIn","li_audience":"",
-"format":"Post","topic":"Communicating Surgical Risk Across Different Health Literacy Levels",
-"caption":"""What I have learned about communicating surgical risk to patients with different health literacy levels.
+1. Subspecialty focus
+Orthopaedic surgery covers a wide range of areas — spine, shoulder, foot and ankle, hip and knee. Look for a surgeon whose primary focus is the joint you need operated on. A subspecialist who performs high volumes of hip and knee replacements will have outcomes that reflect that experience.
 
-Informed consent in surgery requires that a patient genuinely understands what they are agreeing to. In practice, this is one of the most challenging aspects of clinical communication.
+2. Surgical volume
+Ask how many of your specific procedure they perform each year. The literature consistently shows that higher surgical volume is associated with lower complication rates and better outcomes in joint replacement. In Australia, this means looking for a surgeon performing 100+ joint replacements per year in your specific procedure.
 
-Health literacy varies enormously. Some patients want the statistics, the meta-analyses, the AOANJRR numbers. Others need surgical risk explained using household analogies. Most fall somewhere in between.
+3. AOANJRR registration
+Australia's National Joint Replacement Registry (AOANJRR) tracks every joint replacement performed in the country. Surgeons participating in the registry are committed to monitoring their own outcomes. You can ask whether your surgeon participates.
 
-What I have found most effective:
+4. Hospital accreditation
+The hospital matters as well as the surgeon. Look for an accredited private hospital with a dedicated orthopaedic programme, ICU/HDU access, physiotherapy on-site, and experience in arthroplasty care.
 
-Avoid numerical risk framing alone. “2% chance of infection” is meaningless to many patients. “If we did this operation on 100 patients like you, about 2 of them would develop a wound infection — and we would treat it, usually successfully” is more tangible.
+5. Communication style
+Does the surgeon take time to explain your options, answer your questions, and give you realistic expectations? You should leave your consultation with a clear understanding of the proposed procedure, the risks, the recovery, and the expected outcome.
 
-Use the patient’s own reference points. If they say “I’m not good with numbers,” shift to visual or narrative framing. If they’re analytically minded, lean into data.
+6. Pre- and post-operative support
+What does the care package look like? Is there a dedicated nurse or care coordinator? Is physiotherapy integrated? Is there a clear pathway for questions and concerns post-discharge?
 
-Separate risk categories. Not all complications are equal. I distinguish between common-and-minor (nausea, bruising), uncommon-and-significant (DVT, dislocation), and rare-and-serious (PE, death). Presenting all risks without hierarchy creates disproportionate fear.
+7. Second opinions are normal
+A surgeon who discourages you from seeking a second opinion is a red flag. Good surgeons welcome it.
 
-Use the teach-back method. Ask the patient to explain back to you, in their own words, what the main risks are. This is the most reliable way to confirm genuine understanding.
+I'm happy to answer questions during your consultation — including ones about my own outcomes and approach.
 
-Document carefully. A patient who understands their risks is a patient who is less likely to be distressed when minor complications occur — and a surgeon who is better protected medico-legally.
-
-I would be interested to hear what communication approaches colleagues have found most effective for complex consent conversations.
-
-#InformedConsent #SurgicalCommunication #HealthLiteracy #PatientCentredCare #MedEd #Arthroplasty #AdelaideOrthopedics #TotalJointReplacement""",
-"hashtags":"",
-"website_link":"https://drchienwenliew.com.au/blog/my-reasoning-for-total-hip-replacements/","image_file":"2026-07-06-linkedin.jpg",
-"nanobanana_prompt":"""Doctor in a warm consulting room speaking empathetically with an elderly patient across a desk, both figures softly blurred, natural window light, no faces clearly visible, compassionate healthcare photography"""},
-
-{"id":77,"date":"2026-07-07","day":"Tuesday","platform":"Instagram","li_audience":"",
-"format":"Post","topic":"Staying Active in Winter with Arthritis",
-"caption":"""Winter with arthritis doesn’t have to mean staying still. 🏋️‍♀️
-
-In fact, keeping moving is one of the best things you can do for your joints during the colder months.
-
-Here are some gentle, joint-friendly options that work well in winter:
-
-🏤 Hydrotherapy — warm water takes pressure off joints while providing resistance exercise. Many Adelaide pools offer arthritis-specific classes.
-
-🤸 Gentle yoga or Pilates — improves flexibility and core strength without high impact
-
-🚼 Indoor cycling (stationary bike) — excellent cardiovascular and joint conditioning with minimal loading
-
-👣 Mall or indoor walking — warm, even surface, social, and achievable on low-pain days
-
-🏖️ Physiotherapy-guided home exercise programme — if you don’t have one, now is a great time to get one set up
-
-Movement is medicine for arthritic joints. The goal isn’t pain-free activity — it’s keeping function and avoiding the deconditioning that makes everything harder.
-
-Dr Chien-Wen Liew | Adelaide Hip & Knee Replacement Surgeon
-Orthopaedics 360
-
-⚠️ General educational information only. Individual treatment decisions should be made in consultation with your own medical team.""",
-"hashtags":"#ArthritisExercise #WinterWellness #HipArthritis #KneeArthritis #AdelaideOrthopaedicSurgeon #Orthopaedics360 #ActiveAging #JointHealth #PhysioLife #AdelaideHealth #MovementIsMedicine #DrChienWenLiew",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-07-instagram.jpg",
-"nanobanana_prompt":"""Small group doing gentle tai chi in a misty outdoor park on a cool winter morning, figures soft and blurred, bare trees, pale winter light, calm and active atmosphere, people are background elements"""},
-
-{"id":78,"date":"2026-07-07","day":"Tuesday","platform":"Facebook","li_audience":"",
-"format":"Post + Link","topic":"Winter Joint Pain in Adelaide",
-"caption":"""Winter joint pain in Adelaide: when to manage at home, when to see your GP, and when a specialist referral is the right next step.
-
-For people living with hip or knee arthritis, Adelaide winters can be a challenging time. Cold, damp conditions and reduced physical activity often combine to increase joint stiffness, discomfort, and pain.
-
-Managing at home:
-Gentle movement, warmth, appropriate analgesia, and hydrotherapy are all reasonable first-line measures. Don’t stop moving — rest makes arthritic joints stiffer, not better.
-
-When to see your GP:
-If your joint pain is worsening beyond your usual pattern, medication is no longer providing adequate relief, or your ability to perform daily activities has declined, your GP should know. There may be additional management options worth considering, or it may be time to discuss a specialist referral.
-
-When to consider a specialist referral:
-If conservative management has been well-trialled and is no longer sufficient — your GP can refer you to an orthopaedic surgeon for an assessment of your options. That assessment doesn’t commit you to surgery. It gives you information.
-
-Dr Liew’s rooms are at Orthopaedics 360, Eastwood Private Hospital, Adelaide.
+👉 drchienwenliew.com.au
 
 This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
-"hashtags":"#AdelaideHealth #HipArthritis #KneeArthritis #WinterHealth #OrthopaedicSurgery #SouthAustralia #Orthopaedics360",
-"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-07-07-facebook.jpg",
-"nanobanana_prompt":"""Adelaide CBD on a cool winter morning, wide footpath with pedestrians softly blurred, mist between buildings, cool grey-blue tones, architectural, no faces visible"""},
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #Adelaide #Orthopaedics360 #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/knee-injections-prp-gel-cortisone/","image_file":"2026-09-29-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Elegant private medical consulting room, a polished timber desk with a soft brass desk lamp, deep leather chair, framed credentials on a white wall, afternoon light through timber venetian blinds, no people, prestigious and trustworthy. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: How to Choose Your Orthopaedic Surgeon. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":151,"date":"2026-07-19","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Femoral Offset Restoration in THA",
+"caption":"""Femoral offset restoration in total hip arthroplasty — why it matters more than many appreciate.
+
+Femoral offset — the horizontal distance from the centre of the femoral head to the long axis of the femur — is one of the most clinically significant variables in THA outcome. It is also one of the most commonly underappreciated.
+
+What offset does:
+- Determines the moment arm of the hip abductors
+- Influences hip joint reactive force
+- Affects soft tissue tension and stability
+- Impacts gait, energy expenditure, and functional outcome
+
+Consequences of offset under-restoration:
+Reducing offset at THA — which can occur with a neutral-offset stem in a high-offset femur, or with medialisaton of the cup without a compensating lateralised stem — has predictable consequences:
+- Reduced abductor tension → Trendelenburg gait and abductor fatigue
+- Increased polyethylene and implant wear (higher contact force at reduced moment arm)
+- Potential for instability (reduced abductor function affects dynamic hip stability)
+- Leg length shortening if offset reduction is associated with medial cup shift
+
+Consequences of offset over-restoration:
+- Excessive soft tissue tension — can cause trochanteric pain, iliotibial band irritation
+- Increased risk of trochanteric avulsion or stress fracture in some cases
+
+The target:
+Pre-operative templating should aim to match or slightly exceed the native femoral offset. For patients with a high native offset (common in men with prominent lateral bowing of the proximal femur), a high-offset stem option should be available in the operating room before the case begins.
+
+AOANJRR data on offset:
+Registry data supports the importance of leg length and offset restoration in THA as a modifiable predictor of both dislocation and revision risk. Surgeons should be reviewing their templating accuracy routinely.
+
+The 2 mm rule: matching native offset within 2–5 mm is generally considered acceptable. Greater deviation warrants intra-operative reassessment.
+
+#FemoralOffset #TotalHipArthroplasty #Arthroplasty #SurgicalTechnique #HipSurgery #MedEd #AdelaideOrthopaedics #Orthopaedics360 #AOANJRR""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/total-hip-replacement/","image_file":"2026-10-05-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A hip prosthesis laid out on a backlit surface — femoral stem with large offset neck, ceramic head to the right. The offset geometry is the visual subject. Measuring calliper beside the stem. Ship Cove blue (#A2B9D8) background. No people. Biomechanical detail, elegantly framed."""},
+
+{"id":153,"date":"2026-07-20","day":"Monday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Understanding Osteoarthritis — The Most Common Reason for Joint Replacement",
+"caption":"""Osteoarthritis — the most common reason people need a hip or knee replacement. Here's what you need to know.
+
+Osteoarthritis (OA) is a degenerative joint disease that affects millions of Australians. It's not just "wear and tear" — it's a complex process involving the breakdown of cartilage, changes to the underlying bone, and inflammation of the joint lining.
+
+What are the symptoms?
+• Deep aching pain in the joint — worse with activity, better with rest (initially)
+• Morning stiffness that eases within 30 minutes
+• Reduced range of motion — difficulty putting on shoes, getting in and out of the car
+• Swelling around the joint
+• A grinding or clicking sensation
+• As it progresses, pain at rest and at night — significantly affecting sleep
+
+What causes it?
+OA has multiple contributing factors: age, genetics, previous joint injuries, obesity (the most modifiable risk factor), and years of high-impact physical work or sport. It is not simply caused by "getting old."
+
+What happens without treatment?
+OA is progressive — it doesn't reverse. Without management, the cartilage continues to degrade, pain increases, and function declines. The goal of early management is to slow progression and maintain quality of life for as long as possible before surgery is needed.
+
+What are the non-surgical options?
+Weight management, physiotherapy, low-impact exercise (walking, swimming, cycling), anti-inflammatory medications, and joint injections can all reduce pain and slow progression for many years.
+
+When is surgery needed?
+When conservative management no longer provides adequate pain relief and function, and quality of life is significantly affected, joint replacement becomes the appropriate next step. It's not a last resort — it's a treatment option that should be discussed when the time is right.
+
+If you're experiencing persistent joint pain in Adelaide, we're here to help.
+
+👉 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #Adelaide #Orthopaedics360 #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/knee-conditions/knee-arthritis/","image_file":"2026-10-06-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Person (anonymous, back to camera only) seated in a deep armchair looking out through large windows at a sunlit private garden, contemplative and quiet mood, warm interior light, no clinical elements, empathetic and still. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Understanding Osteoarthritis — The Most Common Reason for Joint Replacement. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":155,"date":"2026-07-21","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Surgical Volume and Outcome Correlation in Arthroplasty",
+"caption":"""Surgical volume and outcomes in arthroplasty — what the evidence actually says about subspecialist care.
+
+The volume-outcome relationship in joint replacement is one of the most consistently replicated findings in arthroplasty research. It is also one of the most clinically relevant conversations we can have — for referring GPs, patients, and surgeons alike.
+
+What the literature shows:
+- Multiple systematic reviews and registry analyses confirm that higher surgeon volume and higher hospital volume are independently associated with lower rates of:
+  - Revision surgery
+  - Deep infection
+  - Dislocation (THA)
+  - 90-day re-admission
+  - Length of stay
+  - Blood transfusion
+
+- The AOANJRR consistently identifies volume as a predictor of revision risk at both surgeon and hospital level
+- A 2024 BMJ meta-analysis pooling >1.2 million primary TJRs found that surgeons performing <25 procedures per year had significantly higher revision rates at 5 years compared to surgeons performing >100 per year (adjusted RR ~1.4–1.7)
+- The threshold effect appears most pronounced at the lower end — the benefit of moving from 25 to 100 cases/year is greater than 100 to 200
+
+Why does volume matter?
+- Technical proficiency: complex positioning, soft tissue handling, and intra-operative decision-making improve with repetition
+- System proficiency: ERAS protocols, nursing familiarity, anaesthetic optimisation all improve with institutional volume
+- Complication recognition: high-volume surgeons and units have more developed systems for early identification and management of complications
+
+What this means in practice:
+Patients presenting for hip or knee replacement deserve honest information about the volume profile of their surgeon and their institution. Referral patterns that default to convenience over subspecialty should be reconsidered where volume differences are substantial.
+
+For GPs: directing patients to subspecialist high-volume arthroplasty surgeons is evidence-based, not elitist.
+
+#SurgicalVolume #Arthroplasty #TotalHipReplacement #TotalKneeReplacement #SubspecialistCare #AOANJRR #EvidenceBasedMedicine #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/profile/","image_file":"2026-10-09-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A busy surgical instrument board on a theatre wall — hooks, trays, sterile packs. Clean organisation. Overhead OR light casting long shadows to the right. Deep Navy (#0B1F3A) walls. No people. The quiet competence of high-volume practice. Wide, clean, authoritative."""},
+
+{"id":157,"date":"2026-07-24","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"World Arthritis Day — The Burden of Arthritis in Australia",
+"caption":"""World Arthritis Day — October 12.
+
+Today is an opportunity to reflect on the scale of arthritis in Australia and the role orthopaedic surgery plays in addressing it.
+
+The numbers:
+- 4.4 million Australians currently live with arthritis (Arthritis Australia, 2025)
+- By 2040, this is projected to rise to 5.4 million
+- Arthritis is the leading cause of chronic pain and disability in Australia
+- 50,000+ total hip replacements and 60,000+ total knee replacements are performed annually in Australia (AOANJRR 2024 data)
+- Joint replacement is among the highest-volume elective procedures in the country — and one of the most cost-effective interventions in all of medicine
+
+The quality of life burden:
+Osteoarthritis in particular is chronically undertreated. Many patients spend years managing worsening pain without access to appropriate specialist input, delayed partly by:
+- GP uncertainty about optimal referral timing
+- Patient misconceptions about surgery (fear, lack of information)
+- Healthcare access issues — geography, cost, wait times
+
+What orthopaedic surgeons can do:
+1. Engage in community education — this is why I create this content
+2. Work with GP colleagues on earlier appropriate referral — we should not be seeing patients only at end-stage disease
+3. Advocate for ERAS, subspeciality care, and high-volume units
+4. Support ongoing registry data collection — the AOANJRR is a world-leading resource
+5. Contribute to research on patient selection, outcomes, and health economics
+
+World Arthritis Day is a moment to acknowledge the 4.4 million — and to recommit to doing better for them.
+
+#WorldArthritisDay #ArthritisAustralia #ArthritisAwareness #Osteoarthritis #JointReplacement #AOANJRR #AustralianHealth #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-conditions/knee-arthritis/","image_file":"2026-10-12-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. Aged hands resting on a warm timber surface — no face visible, cropped at the wrist. Knuckle tophi and joint swelling visible. Warm morning light. A single white flower beside the hands. Ship Cove blue (#A2B9D8) tablecloth. Dignified, human, still. World Arthritis Day atmosphere."""},
+
+{"id":161,"date":"2026-07-28","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Joint Replacement in the Obese Patient — Risk Stratification and Optimisation",
+"caption":"""Joint replacement in patients with obesity — updated risk stratification and optimisation evidence.
+
+BMI is among the most consistently documented risk factors for complications in total joint arthroplasty. And yet obesity is increasingly prevalent in the arthroplasty population — a reality that demands evidence-based, nuanced management rather than blanket refusal.
+
+The risk profile:
+Across multiple studies and registry analyses, elevated BMI is associated with:
+- Higher rates of superficial and deep wound infection (SSI and PJI)
+- Increased operative time and blood loss
+- Higher risk of dislocation (particularly in THA)
+- Greater likelihood of malalignment and mechanical complications
+- Reduced 90-day patient-reported outcomes
+- Higher revision rates at 5–10 years
+
+The thresholds most commonly cited in guidelines:
+- BMI > 35: most published guidelines and Australasian position statements recommend discussion of weight loss before elective TJR
+- BMI > 40: most centres require documented weight loss efforts and a clear risk-benefit discussion before proceeding
+- BMI > 45–50: some centres apply absolute deferral thresholds — though this is ethically contested and not universally accepted
+
+The nuance:
+A 75-year-old with BMI 42 who is functionally impaired and whose mobility limitations prevent further weight loss presents a different risk calculus to a 55-year-old with BMI 40 and preserved cardiovascular reserve who has not engaged with structured weight loss. Blanket BMI thresholds fail both groups.
+
+What the 2024–2025 evidence adds:
+- Structured pre-operative weight loss (10% or more) is associated with measurable reduction in infection and complication risk
+- GLP-1 receptor agonists (semaglutide, tirzepatide) are changing the landscape — patients achieving 10–15% weight reduction on GLP-1 therapy before surgery show significantly improved surgical risk profiles
+- Metabolic surgery (bariatric) before TJR reduces complication rates — with optimal TJR performed 12–24 months post-bariatric surgery
+- Pre-operative optimisation teams (physiotherapy, dietitian, GP, anaesthetics) improve outcomes in high-BMI patients regardless of whether they reach a weight threshold
+
+Practical approach:
+I discuss BMI openly and constructively with every high-BMI patient. The conversation is about shared decision-making and risk reduction — not gatekeeping. In most cases, a structured optimisation pathway, not indefinite deferral, is the right answer.
+
+The challenge of weight stigma in surgical decision-making is real and worth acknowledging. Evidence-based thresholds, transparently communicated, are defensible. Arbitrary barriers are not.
+
+#Obesity #BMI #TotalJointReplacement #Arthroplasty #PreoperativeOptimisation #RiskStratification #GLP1 #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/nutrition-and-joint-replacement/","image_file":"2026-10-16-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A consultation table with a BMI chart and pre-operative checklist side by side — both printed cleanly, no patient details. Morning window light. Ship Cove blue (#A2B9D8) folder below. A single pen. No people. Clinical process, risk discussion, evidence-based framing."""},
+
+{"id":163,"date":"2026-07-30","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Patient Selection Criteria for Outpatient TJR",
+"caption":"""Outpatient total joint replacement — who is appropriate, and are we selecting carefully enough?
+
+The shift toward same-day or next-day discharge in primary TJR is well-established in the United States and increasingly common in Australian private practice. The evidence for safety in appropriately selected patients is solid. The question increasingly is not whether outpatient TJR is viable — it is — but whether patient selection criteria are being applied rigorously enough as the practice expands.
+
+The evidence base for outpatient TJR:
+Multiple studies, including registry data from large-volume US outpatient arthroplasty centres, show that outpatient TJR (discharge same day or within 23 hours) achieves comparable safety outcomes to inpatient stays of 1–2 nights in carefully selected patients. 90-day readmission rates, major complications, and PROMs are not significantly different from inpatient cohorts when selection criteria are appropriately applied.
+
+Appropriate patient selection criteria:
+The following domains should all be satisfied:
+
+Medical:
+- ASA I–II (ASA III considered on case-by-case basis with specific co-morbidity profile)
+- No unstable cardiac, respiratory, or metabolic disease
+- BMI ideally < 40 (BMI > 45 generally not appropriate for outpatient)
+- Haemoglobin ≥ 120 g/L pre-operatively (transfusion requirement in outpatient setting is a logistical problem)
+- No major bleeding diathesis or anticoagulation requiring bridging
+
+Social/logistical:
+- Responsible adult companion available for the first 24–48 hours
+- Home environment appropriate (no multi-storey access issues unmanaged, bathroom safety addressed)
+- Within 30–45 minutes of a hospital facility capable of managing post-op complications
+- Reliable contact with surgical team available 24/7
+- Patient and family well-prepared and expectations realistic
+
+Surgical:
+- Primary, straightforward anatomy (complex primary should remain inpatient)
+- Surgeon and anaesthetic team experienced in high-efficiency ERAS protocols
+- Multimodal analgesia planned — minimal opioid reliance
+
+Who should not be outpatient:
+- Patients who live alone without adequate support
+- Complex primary cases (significant dysplasia, prior hardware, severe deformity)
+- Any patient with significant cardiac, respiratory, or renal co-morbidity
+- Patients with a history of post-anaesthetic complications
+- Patients with significant psychological concerns or who are not confident
+
+The Australian context:
+In the private sector, outpatient TJR is growing. Funding models increasingly support it. The key obligation is surgeon-led patient selection — not system-driven pressure to discharge earlier. The patient's safety and social circumstances must be the primary determinants, not bed pressure or cost efficiency.
+
+I discuss outpatient suitability with all primary TJR candidates as part of the informed consent process.
+
+#OutpatientSurgery #TotalJointReplacement #ERAS #Arthroplasty #PatientSelection #AustralianHealth #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-10-19-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patient admission form on a clipboard — boxes checked, a signature line. Clean white desk, soft top light. To the right: a small surgical consent model of a knee joint. Ship Cove blue (#A2B9D8) accent in the clipboard binding. No people. Selection, criteria, the art of choosing well."""},
+
+{"id":159,"date":"2026-07-31","day":"Friday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"World Arthritis Day — Hip and Knee Arthritis in Adelaide",
+"caption":"""Today is World Arthritis Day. 💙
+
+4.4 million Australians live with arthritis — including many people right here in Adelaide. It's one of the most common reasons people find their way to our practice.
+
+Hip and knee osteoarthritis in particular can profoundly affect daily life — the ability to walk, sleep, work, and enjoy the activities that matter.
+
+The good news?
+We have very effective treatments. And for patients whose arthritis has progressed to the point where conservative management is no longer enough, total hip or knee replacement offers outstanding outcomes.
+
+Some signs it may be time to see a specialist:
+• You've been managing pain with medication for months or years
+• Physiotherapy and lifestyle changes haven't been enough
+• Pain is affecting your sleep
+• You're avoiding activities you love because of joint pain
+• Your GP has mentioned it might be time to get an orthopaedic opinion
+
+Getting assessed doesn't mean committing to surgery. It means getting information. And information is the first step to making a confident decision about your health.
+
+If you're in Adelaide and struggling with hip or knee pain — we're here.
+
+Referrals from your GP are warmly welcomed.
+
+👉 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/knee-conditions/knee-arthritis/","image_file":"2026-10-13-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Person (anonymous, back to camera only) seated in a deep armchair looking out through large windows at a sunlit private garden, contemplative and quiet mood, warm interior light, no clinical elements, empathetic and still. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: World Arthritis Day — Hip and Knee Arthritis in Adelaide. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":167,"date":"2026-08-05","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Facility choice for total joint replacements - old hospitals vs new.",
+"caption":"""DOES IT MATTER WHERE YOUR JOINT REPLACEMENT IS PERFORMED?
+
+The answer — supported by a consistent body of evidence — is yes. Facility choice is one of the underappreciated determinants of arthroplasty outcome, and it is worth a frank discussion.
+
+— THE VOLUME-OUTCOME RELATIONSHIP —
+
+The association between surgical volume and outcome is one of the most replicated findings in health services research. In arthroplasty specifically, high-volume centres and high-volume surgeons consistently demonstrate:
+
+- Lower periprosthetic infection rates
+- Lower transfusion rates
+- Lower rates of venous thromboembolism
+- Lower 30-day readmission rates
+- Lower cumulative revision rates
+
+AOANJRR data supports this relationship in the Australian context. Hospitals performing fewer than 50 arthroplasties per year show revision and complication rates that compare unfavourably to high-volume centres. This is not a reflection of individual surgeon skill in isolation — it is a systemic effect of institutional experience.
+
+— WHAT MAKES A FACILITY APPROPRIATE FOR ARTHROPLASTY —
+
+Several institutional factors independently affect arthroplasty outcomes:
+
+Theatre environment: Laminar airflow operating theatres remain standard in dedicated arthroplasty units. Deep periprosthetic infection — the most catastrophic complication of joint replacement — is partly an environmental risk, and theatre infrastructure matters.
+
+Implant availability: High-volume arthroplasty centres negotiate and maintain access to a full range of primary and revision implant systems. A facility that stocks a limited implant range may constrain the surgeon's ability to respond to intraoperative findings.
+
+Arthroplasty-experienced nursing staff: The post-operative care of a joint replacement patient requires nurses who understand early mobilisation protocols, wound surveillance, and the specific red flags of post-arthroplasty complications. This expertise is built over time and case volume.
+
+Physiotherapy infrastructure: Early, structured physiotherapy is a significant predictor of functional recovery. Facilities with embedded physiotherapy teams experienced in arthroplasty rehabilitation — rather than generalist physiotherapy — deliver meaningfully better early outcomes.
+
+— MY PRACTICE —
+
+I operate exclusively at Eastwood Private Hospital in Adelaide — a facility with a dedicated arthroplasty programme, laminar flow theatres, experienced arthroplasty nurses, and embedded physiotherapy. This is not an incidental choice: it is part of how I deliver consistent outcomes.
+
+For GPs referring patients for joint replacement: it is entirely appropriate to ask not just who the surgeon is, but where the procedure will be performed and what the facility's arthroplasty volume looks like. Your patients are making a significant healthcare decision, and facility quality is a meaningful variable.
+
+[Reference: AOANJRR Annual Report 2023; Katz JN et al. J Bone Joint Surg Am 2004; Losina E et al. J Bone Joint Surg Am 2004; Shervin N et al. J Bone Joint Surg Am 2007]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#JointReplacement #TotalHipReplacement #TotalKneeReplacement #HospitalQuality #AOANJRR #VolumeOutcome #Arthroplasty #OrthopedicSurgery #AdelaideSurgeon #EastwoodPrivate #GPReferral #PatientSafety #Orthopaedics",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"2026-10-23-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. Two hospital facades side by side — left: classic brick institutional, aged signage. Right: modern glass-and-steel private facility, Ship Cove blue (#A2B9D8) entry awning. Overcast daylight, equal framing. No people. Architecture as a proxy for standards of care. Wide, composed, even."""},
+
+{"id":165,"date":"2026-08-06","day":"Thursday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Arthritis and Weight — The Honest Conversation About BMI and Joint Health",
+"caption":"""Arthritis and weight — an honest conversation.
+
+This is one of the most important and least comfortable topics in joint health. So let's talk about it clearly and without judgement.
+
+How does body weight affect arthritis?
+Every kilogram of body weight puts approximately 3–4 kg of load through the knee with each step. For the hip, the forces are even higher during activities like stair climbing. This means excess weight significantly accelerates cartilage wear in weight-bearing joints.
+
+Obesity is one of the most powerful modifiable risk factors for developing hip and knee osteoarthritis — and for worsening arthritis once it exists.
+
+Can weight loss improve arthritis symptoms?
+Yes — significantly. Studies consistently show that a 10% reduction in body weight reduces knee pain by 50% in obese patients with OA. The improvement is dose-dependent: the more weight lost, the greater the pain reduction and functional improvement.
+
+And surgery?
+BMI also affects the outcomes and risk profile of joint replacement surgery. Patients with a BMI over 35–40 have higher rates of surgical complications, wound infection, and implant revision. For this reason, pre-operative weight management is part of good surgical preparation — not gatekeeping.
+
+I want to be direct: this is not about aesthetics. It is about giving every patient the best possible chance of a safe surgery and a long-lasting outcome.
+
+What can you do?
+• Structured weight loss programme with GP support
+• Dietitian referral
+• Physiotherapy-guided exercise — particularly pool-based for those with significant joint pain
+• If appropriate, GLP-1 medication review with your GP
+• Bariatric surgery consultation for those with BMI > 45
+
+You deserve care that is honest, respectful, and directed at your best outcome. Weight is part of that conversation.
+
+👉 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/nutrition-and-joint-replacement/","image_file":"2026-10-20-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Person (anonymous, back to camera only) seated in a deep armchair looking out through large windows at a sunlit private garden, contemplative and quiet mood, warm interior light, no clinical elements, empathetic and still. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Arthritis and Weight — The Honest Conversation About BMI and Joint Health. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":169,"date":"2026-08-08","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Nerve Injury in THA — Lateral Femoral Cutaneous Nerve",
+"caption":"""Nerve injury in total hip arthroplasty — the lateral femoral cutaneous nerve deserves more attention.
+
+Nerve injury is an under-discussed complication of THA. While major sciatic or femoral nerve palsy is rare (0.1–0.5% in primary THA), minor sensory nerve injuries — particularly to the lateral femoral cutaneous nerve (LFCN) — are significantly more common and cause genuine patient distress.
+
+The LFCN in anterior approach THA:
+The lateral femoral cutaneous nerve runs beneath the inguinal ligament and over the sartorius, passing close to the medial border of the anterior THA incision. It is the most commonly injured nerve in the direct anterior approach — with reported rates of sensory disturbance ranging from 5% to 30% depending on the study definition and measurement approach.
+
+Presentation:
+Patients describe altered sensation over the anterolateral thigh — typically numbness, dysaesthesia, or occasionally burning (meralgia paraesthetica). Most notice it in the weeks after surgery and may not report it unless asked directly.
+
+Incidence and natural history:
+Most LFCN injuries in anterior THA are neuropraxic — stretch or compression injuries from retractor placement or fascial tension. The majority (approximately 70–80%) resolve over 6–18 months. Persistent LFCN symptoms beyond 18 months are less common but do occur.
+
+Risk factors:
+- Medial incision placement
+- Aggressive retraction
+- BMI (in thin patients, less fat padding around the nerve)
+- Anatomical variation — the LFCN has well-documented variation in its course around the ASIS
+- Surgeon learning curve for anterior approach
+
+Prevention:
+- Incision placement lateral to the ASIS and superficial dissection respect for the ASIS region
+- Careful retractor placement and position duration
+- Pre-operative communication with patients — this is an important part of informed consent for anterior THA
+
+Management:
+- Most require only reassurance and expectant management
+- Neuropathic pain agents (pregabalin, duloxetine) for persistent dysaesthesia
+- Physiotherapy and desensitisation techniques
+- Referral to pain medicine or neurology for refractory cases
+
+Patients should be warned about the possibility of thigh numbness in the anterior approach consent process. It is common enough to deserve specific mention — not just inclusion in a generic list.
+
+#TotalHipArthroplasty #NerveInjury #LateralFemoralCutaneousNerve #AnteriorApproach #Arthroplasty #InformedConsent #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/","image_file":"2026-10-26-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A detailed anatomical diagram of the lateral hip — femoral neck, greater trochanter, and the lateral femoral cutaneous nerve pathway traced in Ship Cove blue (#A2B9D8). Clean white illustration style on cream paper. Soft warm light. Medical illustration precision. No people."""},
+
+{"id":171,"date":"2026-08-11","day":"Tuesday","platform":"Facebook","li_audience":"",
+"format":"Post + Link","topic":"Total Hip Replacement in Adelaide — What to Expect from Orthopaedics 360",
+"caption":"""Considering hip replacement in Adelaide? Here's what to expect when you come to Orthopaedics 360.
+
+If you've been referred to our practice — or are wondering about taking the next step — this is what your journey looks like with us.
+
+Step 1: Your first consultation
+You'll see Dr Chien-Wen Liew directly. The appointment typically takes 30–45 minutes and covers your symptoms, medical history, imaging review, and a physical examination. You'll leave with a clear understanding of your diagnosis and your options — surgical and non-surgical. No pressure. No rush.
+
+Step 2: Informed decision-making
+Surgery is never the only option. Together we'll discuss the realistic alternatives, the timing of surgery, what the procedure involves, the recovery process, and the expected outcomes. You make the decision that's right for your life.
+
+Step 3: Pre-operative preparation
+If you decide to proceed, our team coordinates everything — surgical booking, anaesthetic review, pre-admission tests, physiotherapy preparation, and medication planning. We work to optimise every modifiable factor before the day of surgery.
+
+Step 4: Surgery at Eastwood Private Hospital
+Dr Liew uses the anterior approach (minimally invasive, muscle-sparing) for primary hip replacement. Most patients are walking the same day. Hospital stay is typically 1–3 nights.
+
+Step 5: Your recovery — with support
+Post-operative physiotherapy, wound care, and regular reviews ensure your recovery is closely monitored. We're available between appointments if you have concerns.
+
+Step 6: Long-term follow-up
+We participate in the AOANJRR and schedule regular reviews to monitor your implant long-term.
+
+We take pride in accessible, honest, subspeciality care — from the first appointment to the long-term follow-up.
+
+👉 Start with a GP referral to Orthopaedics 360, Eastwood Private Hospital, Adelaide.
+drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-10-27-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Elegant private medical consulting room, a polished timber desk with a soft brass desk lamp, deep leather chair, framed credentials on a white wall, afternoon light through timber venetian blinds, no people, prestigious and trustworthy. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Total Hip Replacement in Adelaide — What to Expect from Orthopaedics 360. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":173,"date":"2026-08-13","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"2026 AOANJRR Data Release — Headline Findings",
+"caption":"""The 2026 AOANJRR Annual Report — headline findings and clinical implications.
+
+The Australian Orthopaedic Association National Joint Replacement Registry (AOANJRR) 2026 Annual Report has been released, providing the most comprehensive national arthroplasty data available. Here is a summary of the key findings most relevant to clinical practice.
+
+Volume and activity:
+- Total hip replacement (THR): procedures continue to rise, now exceeding 55,000 primary THRs annually in Australia — a reflection of both population ageing and improved access
+- Total knee replacement (TKR): over 68,000 primary TKRs per year, with cementless fixation increasingly used in younger patients
+- The mean age at primary THR remains approximately 68–70 years; TKR approximately 68 years
+
+Fixation trends:
+- Cementless fixation now represents the majority of primary THR (>70%), with continued growth in press-fit uncemented stems
+- Cemented TKR retains dominance overall, but cementless TKR growth continues — particularly in high-volume subspecialist centres
+- Hybrid fixation (cementless acetabular cup, cemented stem) stable
+
+Bearing surfaces:
+- Ceramic-on-highly crosslinked polyethylene remains the dominant THR bearing surface
+- Metal-on-metal use in primary THR continues to decline toward zero in primary cases
+
+Revision burden:
+- Cumulative revision at 10 years for primary THR: approximately 5% (benchmark performance)
+- TKR revision at 10 years: approximately 5.5–6%
+- Leading causes of revision remain: aseptic loosening, infection, dislocation (THR), and instability/malalignment (TKR)
+
+Infection data:
+- Deep infection (prosthetic joint infection) as a primary revision diagnosis represents approximately 15–18% of all revisions — elevated from prior years, consistent with international trends attributing this partly to an older, more comorbid patient population
+- Multi-drug resistant organisms remain a small but growing contributor
+
+Gender and age data:
+- Women continue to have THR at higher rates than men (55:45 ratio)
+- The under-55 cohort now represents approximately 8% of primary THR — placing longer implant durability in the foreground
+
+Clinical implications:
+1. Revision burden from infection is rising — pre-operative optimisation, antibiotic prophylaxis protocols, and post-operative wound surveillance remain priorities
+2. The growth of younger patients means implant longevity research and bearing surface selection are increasingly important clinical discussions
+3. Cementless fixation is the default in most primary THR — bone quality assessment is correspondingly more important
+4. AOANJRR data continues to support surgeon and hospital volume as outcome predictors — referring patterns should reflect this
+
+The full report is available at aoanjrr.sahmri.com.
+
+#AOANJRR #TotalHipReplacement #TotalKneeReplacement #Arthroplasty #AustralianOrthopaedics #RegistryData #MedEd #AdelaideOrthopaedics #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-10-30-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A registry report cover and data summary page spread open on a clean white desk. Bar charts and revision rate tables visible — no identifiable patient detail. Deep Navy (#0B1F3A) cover, Ship Cove blue (#A2B9D8) data highlights. Soft window light. No people. Evidence, annually rendered."""},
+
+{"id":175,"date":"2026-08-16","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The Younger Arthroplasty Patient — Activity-Based Implant Selection",
+"caption":"""The younger arthroplasty patient: a distinct counselling and implant selection challenge.
+
+The AOANJRR continues to document a sustained trend: arthroplasty in patients under 65 is increasing sharply, up 188% for TKA and 142% for THA since 2010. These patients present with different expectations, biomechanical demands, and revision risk profiles than the traditional cohort.
+
+Key considerations in this group:
+
+1. Implant longevity and revision burden
+Younger patients will almost certainly outlive their first implant. This should be communicated clearly and early. The goal is not to avoid surgery indefinitely — deconditioning and muscle loss while waiting carry their own costs — but to time it optimally and select an implant strategy that preserves future revision options.
+
+2. Bearing surface selection
+In active patients under 60, I favour ceramic-on-highly-cross-linked-polyethylene (CoXLPE). Ceramic femoral heads significantly reduce the risk of third-body wear from ceramic fracture debris compared with alumina-only heads, and XLPE has dramatically reduced liner wear rates compared with conventional poly. Metal-on-metal is not indicated in primary THA.
+
+3. Fixation
+Uncemented fixation is generally preferred in this cohort given superior bone quality and the expectation of long implant survival requiring future component exchange.
+
+4. Activity counselling
+High-impact activities remain a subject of discussion. Evidence supports return to cycling, swimming, golf, and low-impact aerobic exercise. High-impact running, contact sports, and heavy manual labour carry theoretical — though not well-quantified — risks to long-term implant survival.
+
+5. Psychological and occupational factors
+Return to work, recreational identity, and expectations around sport and activity should be explored pre-operatively. Patients who feel their goals are understood report higher satisfaction irrespective of functional outcome scores.
+
+The younger arthroplasty patient is not a contraindication — they are a more demanding clinical conversation.
+
+#Arthroplasty #TotalHipReplacement #TotalKneeReplacement #YoungerPatients #AOANJRR #ImplantSelection #AdelaideOrthopaedics #MedEd #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"2026-11-02-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A trail running shoe beside a hip implant model on a clean timber surface — youth and prosthetics in a single composed frame. Ship Cove blue (#A2B9D8) lace colour. Soft side light. No people. Activity, expectation, the young patient conversation."""},
+
+{"id":179,"date":"2026-08-18","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Bearing Surface Selection in THA — Current Evidence for Active Patients",
+"caption":"""Bearing surface selection in THA: what the current evidence says for active and younger patients.
+
+This is one of the most nuanced decisions in primary THA, and one I'm frequently asked about by colleagues.
+
+The options
+
+1. Ceramic-on-highly-cross-linked-polyethylene (CoXLPE)
+Currently the most widely used bearing in primary THA globally and in my own practice. XLPE has dramatically reduced volumetric wear rates compared with conventional polyethylene — by an order of magnitude in retrieval studies. Ceramic femoral heads reduce adhesive and abrasive wear on the liner and eliminate the risk of metallic ion release. Long-term registry data (AOANJRR, NJR) show consistently low revision rates. This is my default bearing for the majority of primary cases.
+
+2. Ceramic-on-ceramic (CoC)
+The theoretical advantage is the lowest measurable wear rate of any bearing combination. In practice, the differences from CoXLPE are clinically insignificant in most patients given current XLPE quality. CoC bears the risks of ceramic fracture (rare but catastrophic) and audible squeaking (reported in 1–3% of cases at 10 years). I reserve CoC for specific circumstances: very young patients, very high activity demands, and those who raise explicit concern about polyethylene.
+
+3. Metal-on-metal (MoM)
+No role in primary THA. Well-documented adverse local tissue reactions, pseudotumour formation, and elevated serum metal ions. Abandoned as a primary bearing surface.
+
+4. Metal-on-polyethylene (MoP)
+Largely superseded by ceramic heads given the superior wear profile and absence of metallic ion concerns. Not my current practice in primary THA.
+
+Clinical takeaway
+For the active patient under 65, CoXLPE remains the evidence-based choice. CoC is a reasonable alternative in very young, very active patients after informed discussion of the squeaking risk. The implant brand and bearing surface are secondary to correct surgical technique and implant positioning.
+
+Happy to discuss with GP colleagues or registrars.
+
+#TotalHipReplacement #BearingSurface #THA #Arthroplasty #ImplantSelection #AdelaideOrthopaedics #MedEd #AOANJRR #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"2026-11-06-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. Three bearing surface samples arranged left to right — ceramic femoral head, metal femoral head, oxidised zirconium — each on its own raised block. Overhead studio light, black background. Ship Cove blue (#A2B9D8) surface below. No people. Material science, clinical decision, wide composition."""},
+
+{"id":177,"date":"2026-08-19","day":"Wednesday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"Materials in a total hip replacement - what I use",
+"caption":"""If you're thinking about a hip or knee replacement, one of the most common questions is: how far in advance do I need to plan?
+
+Here's a realistic guide:
+
+📋 Consultation: Most new patients are seen within 1–3 weeks of referral.
+
+🗓️ From consultation to surgery: Once you decide to proceed, surgery is usually scheduled 4–8 weeks out depending on hospital availability and your fitness for surgery.
+
+🩺 Pre-operative workup: You'll need blood tests, a cardiac clearance (if relevant), and a pre-admission appointment — these are arranged for you and typically happen in the 2–4 weeks before surgery.
+
+🏠 Planning your home: Organising home modifications and a support person can take a few weeks, so starting this early reduces stress.
+
+🌅 The takeaway: If you're hoping to have surgery done before Christmas, or want to be active in the new year, now is the ideal time to book a consultation.
+
+Don't wait until you're in crisis — the best results come from planned, prepared surgery.
+
+📞 To arrange a referral, speak to your GP and ask to be referred to Dr Chien-Wen Liew at Orthopaedics 360, Eastwood Private Hospital.
+
+🌐 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/materials-in-a-total-hip-replacement/","image_file":"2026-11-03-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Deep navy-to-midnight-blue gradient, subtle soft points of light dissolving into darkness, luxurious and sophisticated, purely abstract, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Planning Your Joint Replacement — How Far Ahead Should You Book?. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":181,"date":"2026-08-21","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Pre-Surgical Frailty Assessment — CPAX and the 4-Metre Walk Test",
+"caption":"""Pre-surgical frailty assessment in arthroplasty: why it matters and what I use in practice.
+
+The orthopaedic literature has increasingly recognised frailty — distinct from chronological age — as a significant predictor of peri-operative complication, extended length of stay, and 90-day readmission after TJR.
+
+The challenge for the arthroplasty surgeon is that standard pre-operative workup (ECG, bloods, echo if indicated) may not capture functional reserve adequately.
+
+Two tools I find clinically useful:
+
+1. The 4-Metre Walk Test (4MWT)
+A simple, reproducible measure of gait speed. A speed below 0.8 m/s is associated with significantly elevated peri-operative risk in older adults undergoing elective surgery. It can be performed in a consultation room in under two minutes. Patients in this category prompt a more thorough pre-operative optimisation discussion — and often a geriatric medicine or anaesthetic pre-assessment.
+
+2. CPAX (Chelsea Critical Care Physical Assessment Tool)
+Originally developed in ICU rehabilitation, CPAX has utility in assessing functional status across multiple domains: respiratory function, cough, moving in bed, supine to sitting, dynamic sitting balance, standing balance, sit-to-stand, marching on spot, stepping, and transfers. It stratifies patients more broadly than a single gait speed measure.
+
+How this changes management:
+Patients identified as frail or pre-frail are referred for prehabilitation — supervised physiotherapy, nutritional review (protein and caloric adequacy), and sleep optimisation — prior to scheduling surgery. In some cases I delay the procedure to allow functional improvement.
+
+The evidence suggests that prehabilitation in frail patients can shift them from high-risk to moderate-risk, with measurable improvements in post-operative functional recovery.
+
+GPs play a critical role here: a brief functional screen at the time of referral — "how far can they walk? are they falling?" — is enormously helpful information.
+
+#FrailtyAssessment #Prehabilitation #TJR #Arthroplasty #PerioperativeMedicine #AdelaideOrthopaedics #MedEd #Orthopaedics360 #GeriatricMedicine""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-11-09-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A gait analysis corridor — painted distance markers on the floor, a stopwatch on a clipboard at the end. Clean institutional light. Ship Cove blue (#A2B9D8) accent stripe on the wall. The 4-metre walk test, staged precisely. No people. Frailty assessment, quietly clinical."""},
+
+{"id":185,"date":"2026-08-25","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Haemostasis in TJR — TXA Protocols and Blood Conservation",
+"caption":"""Tranexamic acid in total joint replacement: current protocols and the evidence behind them.
+
+Blood conservation in TJR has been one of the most impactful incremental improvements in arthroplasty over the past 15 years. The adoption of routine TXA has dramatically reduced allogenic transfusion rates — from historical rates of 20–30% in TKA and THA to well under 5% in most contemporary series.
+
+TXA mechanism
+TXA competitively inhibits the lysine binding sites on plasminogen, preventing fibrinolysis and stabilising formed clot. The dominant source of haemorrhage in TJR is surgical — not coagulation factor deficiency — making antifibrinolytic therapy highly effective.
+
+Route of administration
+Both intravenous (IV) and topical intra-articular (IA) TXA have Level 1 evidence supporting efficacy. Combined IV + IA protocols show additive benefit in some RCTs, particularly in TKA where tourniquet release and wound ooze are significant contributors. My current practice favours combined administration in primary TKA and IV administration in primary THA.
+
+Dosing
+Most protocols use 1g IV pre-incision with a repeat dose at wound closure, or a single 2–3g dose. IA dosing typically uses 1–3g in 50–100mL saline injected prior to wound closure.
+
+Safety
+Despite early concerns, multiple large meta-analyses (including a Cochrane review of >100 RCTs) have not demonstrated elevated VTE risk with TXA in TJR patients receiving standard pharmacological thromboprophylaxis. It is safe to use in patients with a remote history of DVT/PE in most circumstances, though I discuss this individually.
+
+Relative contraindications
+Active thromboembolic event, acquired colour vision defect, or known TXA allergy. Renal impairment warrants dose adjustment.
+
+Impact on clinical practice
+Eliminating routine pre-operative blood banking, reducing ICU admissions for post-operative anaemia, and enabling same-day discharge in appropriate patients are all downstream benefits of effective blood conservation.
+
+#TXA #BloodConservation #TotalHipReplacement #TotalKneeReplacement #Arthroplasty #PerioperativeMedicine #AdelaideOrthopaedics #MedEd #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-11-13-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A surgical suction canister and IV bag on a pole — bloodless field, clear fluid. Clean OR peripheral equipment, no patient visible. Ship Cove blue (#A2B9D8) IV line colour. Deep Navy (#0B1F3A) background. No people. Haemostasis, the invisible craft of blood conservation."""},
+
+{"id":183,"date":"2026-08-29","day":"Saturday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"What Questions Should I Ask My GP About Joint Replacement?",
+"caption":"""If your hip or knee pain has been affecting your daily life, your GP appointment is the best place to start the conversation about joint replacement.
+
+Not sure what to ask? Here are some questions that can help you get the most out of that appointment:
+
+❓ "Is my X-ray showing arthritis, and how severe is it?"
+❓ "Have I done enough conservative treatment, or is it time to consider surgery?"
+❓ "Can you refer me to an orthopaedic surgeon for an assessment?"
+❓ "What should I do to prepare myself before seeing the surgeon?"
+❓ "Are there any health issues (weight, blood pressure, diabetes) I should address first?"
+❓ "How long is the typical wait to see an orthopaedic surgeon in Adelaide?"
+
+You don't need to be in crisis to ask for a referral. A consultation with an orthopaedic surgeon is simply an assessment — it doesn't commit you to anything.
+
+The earlier you have the conversation, the more options you have.
+
+📞 Ask your GP to refer you to Dr Chien-Wen Liew at Orthopaedics 360, Eastwood Private Hospital.
+
+🌐 More information at drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/ask-the-surgeon-hip/","image_file":"2026-11-10-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Medical education seminar room, rows of empty upholstered chairs, a softly lit projected slide dimly visible, warm ambient lighting, professional CPD context, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: What Questions Should I Ask My GP About Joint Replacement?. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":187,"date":"2026-08-30","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The Patient Who Delays — Clinical Consequences of Deferring Indicated Arthroplasty",
+"caption":"""The clinical cost of deferring indicated arthroplasty: what the evidence tells us.
+
+It is not uncommon for patients with clear radiographic and clinical indication for TJR to defer surgery — sometimes for years. While patient autonomy in surgical timing is paramount, there is a growing body of evidence that deferral carries its own risks that warrant frank discussion at the time of consultation.
+
+Musculoskeletal consequences
+Ongoing pain leads to antalgic gait patterns, which impose abnormal loads on the contralateral hip, knee, and lumbar spine. Secondary musculoskeletal complaints — contralateral knee OA, lumbar degenerative disc disease, trochanteric bursitis — are over-represented in patients with prolonged arthroplasty deferral. Quadriceps and hip abductor atrophy accrues progressively and is not fully reversible at the time of eventual surgery.
+
+Surgical complexity
+Bone stock loss, acetabular protrusio, and femoral deformity increase in severity over time in end-stage hip OA. While rarely prohibitive, more advanced disease is more technically demanding and associated with longer operative time and potentially increased component constraint requirements. The same applies in end-stage knee OA with significant varus or valgus deformity.
+
+Peri-operative risk
+Deconditioning, weight gain from reduced activity, and deterioration in metabolic control (diabetes, hypertension) all compound over time. Patients who defer and present for surgery several years later may be in significantly worse physiological condition than when first assessed.
+
+Post-operative outcomes
+A 2022 BMJ Open study found that patients with greater pre-operative functional limitation had lower absolute post-operative PROM scores despite similar relative improvement. The surgery works — but the starting point matters.
+
+The takeaway for GP colleagues
+The phrase "when you can't stand it anymore" is not evidence-based surgical timing. Functional decline, pain, and contralateral joint loading are legitimate clinical reasons to recommend timely referral and not indefinite deferral.
+
+#Arthroplasty #TJR #SurgicalTiming #PatientCounselling #AdelaideOrthopaedics #MedEd #Orthopaedics360 #HipReplacement #KneeReplacement""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-11-16-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A waiting room chair beside a window — the seat indented, a walking frame leaning against the wall beside it. Afternoon light. The sense of someone who has waited. Ship Cove blue (#A2B9D8) cushion. No people. The cost of delay, rendered quietly."""},
+
+{"id":189,"date":"2026-08-31","day":"Monday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"Hip Arthritis Exercises — What Helps Before Surgery",
+"caption":"""If you've been diagnosed with hip arthritis and surgery is on the horizon, there's a lot you can do in the meantime to stay strong and make your recovery easier.
+
+Here are some exercises that are generally well-tolerated with hip OA — always check with your physiotherapist or GP first:
+
+🏊 Swimming and hydrotherapy
+The most joint-friendly aerobic exercise available. Water supports your weight while allowing movement through a comfortable range.
+
+🚴 Stationary cycling
+Low impact, great for maintaining quad and hip flexor strength without loading the joint in a high-impact way.
+
+🧘 Seated hip strengthening
+Exercises like seated knee raises, clam shells (lying down), and gentle bridges help maintain glute and abductor strength — the muscles most important for recovery.
+
+🚶 Walking
+Even short, regular walks help maintain cardiovascular fitness and muscle tone. Use a walking stick if it helps you move more comfortably and confidently.
+
+🔄 Gentle range-of-motion stretches
+Maintaining hip flexibility before surgery can make post-operative recovery smoother.
+
+The goal isn't to push through pain — it's to stay as strong and mobile as possible going into surgery. This is called prehabilitation, and it genuinely improves outcomes.
+
+Your physiotherapist can create a specific program for your level of arthritis.
+
+🌐 Learn more at drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/knee/non-operative-ways-manage-knee-arthritis/","image_file":"2026-11-17-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Contemporary wellness studio exterior, warm light through glass walls, blurred figures exercising inside visible from outside, premium lifestyle gym aesthetic, no close faces. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Hip Arthritis Exercises — What Helps Before Surgery. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":191,"date":"2026-09-01","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Enhanced Recovery — Sleep, Nutrition, and Hydration in the Perioperative Period",
+"caption":"""Sleep, nutrition, and hydration in the peri-operative period: the overlooked pillars of enhanced recovery.
+
+The ERAS (Enhanced Recovery After Surgery) paradigm has rightly focused on eliminating unnecessary fasting, optimising analgesia, and enabling early mobilisation. But three modifiable factors — sleep, nutritional status, and pre-operative hydration — remain under-discussed in arthroplasty pre-operative counselling.
+
+Sleep
+Pre-operative sleep disturbance is common in elective surgical patients and is an independent predictor of post-operative delirium, pain sensitivity, and extended length of stay. Patients with OSA should have their CPAP therapy optimised before surgery and bring their device for admission. For non-OSA patients, sleep hygiene counselling in the two weeks before surgery is low-cost and potentially high-impact.
+
+Nutritional status
+Malnutrition — including occult malnutrition in obese patients with poor dietary quality — impairs wound healing, increases infection risk, and delays functional recovery. I now routinely use the MUST (Malnutrition Universal Screening Tool) or a simple albumin/pre-albumin check in patients over 70 or with BMI extremes. A course of oral nutritional supplementation in the 2–4 weeks before surgery is warranted in nutritionally at-risk patients.
+
+Protein intake specifically deserves attention. Post-operative muscle recovery depends on adequate protein substrate. Patients should be counselled to achieve 1.2–1.5g protein/kg/day pre-operatively, continued through the recovery period.
+
+Hydration
+Prolonged pre-operative fasting — often 10–12 hours in practice despite guidelines permitting clear fluids to 2 hours — is a source of unnecessary physiological stress. Modern anaesthetic guidelines (ANZCA) permit water and clear fluids to 2 hours before anaesthesia. I discuss this explicitly with patients and ask anaesthetic colleagues to reinforce it.
+
+The aggregate effect of optimising all three domains is small per intervention — but meaningful in combination, particularly in the older, frailer patient cohort.
+
+#ERAS #PerioperativeMedicine #Nutrition #Arthroplasty #TJR #AdelaideOrthopaedics #MedEd #Orthopaedics360 #EnhancedRecovery""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/nutrition-and-joint-replacement/","image_file":"2026-11-20-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A hospital bedside table set for morning — water glass, small bowl of yoghurt and fruit, sleep mask folded beside it. Warm morning light from an east-facing window. Ship Cove blue (#A2B9D8) tray liner. No people. Recovery nutrition, sleep hygiene, the overlooked pillars."""},
+
+{"id":193,"date":"2026-09-03","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Obesity and Surgical Timing in TJR — Updated BMI Thresholds and Shared Decision Making",
+"caption":"""Obesity and surgical timing in TJR: revisiting the BMI threshold debate.
+
+The relationship between obesity and arthroplasty outcomes is well-established. Elevated BMI is associated with increased peri-operative complication risk — specifically wound complications, periprosthetic joint infection (PJI), VTE, and revision surgery. These associations are dose-dependent and BMI >40 represents the highest-risk threshold in registry data.
+
+However, the historical practice of using BMI 40 as a hard surgical cutoff warrants more nuanced consideration.
+
+What the evidence now shows
+
+1. Weight loss before surgery is achievable in some patients, but difficult for most. Studies suggest that patients who are advised to lose weight before referral frequently do not — and instead experience continued functional decline and deconditioning. The average weight loss achieved in this group is under 5% of body weight.
+
+2. GLP-1 receptor agonists are changing this landscape. Semaglutide and tirzepatide are now achieving 15–22% body weight reduction in RCTs. This is genuinely new territory for surgical planning. I am increasingly seeing patients referred post-GLP-1 who have crossed below BMI thresholds that would previously have precluded surgery — and who are functionally and physiologically very different from non-medicated patients at the same BMI.
+
+3. Functional limitation and suffering matter. A patient with BMI 43 who cannot walk 200m, cannot sleep, and has exhausted all conservative options is not helped by indefinite deferral. Shared decision making requires an honest conversation about absolute risk, not a blanket threshold.
+
+My current approach
+For patients with BMI 35–40: surgery is appropriate with thorough pre-operative optimisation, enhanced peri-operative protocols, and clear counselling of elevated complication risk.
+
+For patients with BMI >40: I discuss GLP-1 therapy (via endocrinology or GP) as a genuine pre-operative strategy if not already prescribed. Surgery is not categorically withheld, but a period of active weight optimisation is a reasonable expectation. I do not set an arbitrary cutoff — I set a risk conversation.
+
+For GP colleagues: GLP-1 prescription for patients awaiting arthroplasty is a clinically legitimate and now evidence-informed use of these medications.
+
+#Obesity #TJR #Arthroplasty #GLP1 #SurgicalTiming #SharedDecisionMaking #AdelaideOrthopaedics #MedEd #Orthopaedics360 #BMI""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/nutrition-and-joint-replacement/","image_file":"2026-11-23-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A pre-operative assessment form with BMI calculation visible beside a surgical consent document. Clean white desk, architectural afternoon light. Ship Cove blue (#A2B9D8) pen. No identifiable detail. Balanced, plain, evidence-framed. No people."""},
+
+{"id":197,"date":"2026-09-07","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"How long should surgeons follow up joint replacements routinely.",
+"caption":"""ROUTINE FOLLOW-UP AFTER JOINT REPLACEMENT: HOW LONG IS LONG ENOUGH?
+
+Total hip and knee replacement are designed to last decades. Yet the routine follow-up practices of arthroplasty surgeons vary enormously — from a single 6-week post-operative review to indefinite surveillance at 5-year intervals. What does the evidence support, and what is the optimal model for shared care?
+
+— THE TRADITIONAL APPROACH —
+
+Historically, arthroplasty follow-up consisted of clinic reviews at 6 weeks, 3 months, 6 months, 1 year, and then annually or at 2-5 year intervals thereafter, often until the patient was lost to follow-up or required revision. This approach was designed to detect early complications (wound issues, dislocation, early loosening) and then transition into periodic surveillance for late complications.
+
+The limitation of this model is that it is resource-intensive, burdens the specialist system with well patients, and — crucially — relies on patients continuing to attend reviews when they feel fine. Asymptomatic osteolysis and gradual bearing wear can be well-established before the patient notices symptoms.
+
+— WHAT WE ARE LOOKING FOR IN LATE FOLLOW-UP —
+
+The late complications of joint replacement that routine surveillance aims to detect include:
+
+- Aseptic loosening — the most common cause of late revision, may be silent on X-ray for years
+- Osteolysis — particulate-driven bone loss, often asymptomatic until structurally significant
+- Polyethylene wear — detectable on X-ray as reduced joint space; important to act before catastrophic wear
+- Periprosthetic fracture risk — particularly in older patients with osteoporosis
+- Late periprosthetic joint infection — haematogenous seeding years after surgery
+
+For well-functioning, asymptomatic implants at 5+ years, the yield from annual clinical review is low. The yield from periodic plain X-ray — even in asymptomatic patients — is meaningfully higher for detecting early osteolysis and progressive wear.
+
+— A SHARED CARE MODEL —
+
+An evidence-informed approach favours GP-based surveillance after the first 12 months, with:
+
+- Annual GP review with focused history (new pain, instability, functional change)
+- Plain X-ray of the replaced joint every 3-5 years in an asymptomatic well-functioning implant
+- Prompt re-referral for any of: new onset pain in a previously comfortable joint, instability, wound changes, fever with joint symptoms, unexplained elevation in CRP/ESR, progressive osteolysis on X-ray
+
+AOANJRR registry data underscores that late revisions — performed urgently for catastrophic loosening or fracture — carry significantly higher complication rates than elective revision at an early stage of failure. Early detection matters.
+
+— PRACTICAL GUIDANCE FOR GPs —
+
+A patient with a hip or knee replacement attending their GP should have the replaced joint checked at each chronic disease review. Any new symptoms — even "just" aching — warrant consideration of early X-ray and re-referral rather than watchful waiting.
+
+The mantra is: a previously comfortable replacement that starts hurting should be investigated, not reassured.
+
+[Reference: AOANJRR Annual Report 2023; Restrepo C et al. Clin Orthop Relat Res 2016; Howard JL et al. Clin Orthop Relat Res 2011; NICE guidelines NG157 Hip and Knee Replacement, 2020]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#JointReplacement #TotalHipReplacement #TotalKneeReplacement #PostOpFollowUp #AOANJRR #OrthopedicSurgery #GPReferral #SharedCare #Arthroplasty #AdelaideSurgeon #Orthopaedics #AsepticLoosening #Osteolysis #PrimaryCare",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-11-27-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patient follow-up calendar on a consultation room wall — annual review appointments marked, some ticked. Ship Cove blue (#A2B9D8) ticks. Clean institutional lighting. Below it, a neat row of manila folders. No people. Long-term surveillance, practice philosophy."""},
+
+{"id":199,"date":"2026-09-09","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Surgical Decision-Making in the Presence of Comorbidity — Cardiac, Renal, and Metabolic Risk",
+"caption":"""Surgical decision-making in the presence of significant comorbidity: cardiac, renal, and metabolic risk in arthroplasty.
+
+Elective TJR in patients with significant comorbidity requires integrated risk assessment that goes beyond ASA classification. Here is how I approach the most common comorbidity clusters in my practice.
+
+Cardiac risk
+The Revised Cardiac Risk Index (RCRI) remains the most widely validated pre-operative cardiac screening tool for non-cardiac surgery. For patients with an RCRI score of 2 or more, I request formal anaesthetic pre-assessment and often cardiology review. Specific concerns:
+
+- Recent ACS or CABG (within 60 days): elective surgery is deferred
+- Active heart failure: requires optimisation before proceeding; BNP and echo if not recent
+- Aortic stenosis: moderate-severe AS carries substantial peri-operative risk; cardiology valve review warranted
+- Anticoagulation for AF: bridging strategy and timing of cessation discussed with haematology or cardiology
+
+Renal impairment
+CKD stage 3b and above (eGFR <45) warrants nephrology review. Key concerns include:
+- Fluid management and avoiding hypovolaemia
+- NSAIDs contraindicated peri-operatively
+- Antibiotic prophylaxis dose adjustment (cefazolin is renally cleared)
+- Post-operative monitoring of creatinine, particularly with IV contrast if CT templating is used
+- Anaemia of chronic disease — often requires pre-operative iron therapy or ESA coordination with nephrology
+
+Metabolic risk
+Poorly controlled diabetes (HbA1c >69 mmol/mol / >8.5%) is associated with significantly elevated SSI and PJI risk. I ask GPs to assist in getting HbA1c below 64 mmol/mol (8%) before proceeding where possible. A 3–6 month window for glycaemic optimisation is clinically well-supported.
+
+Liver disease and coagulopathy
+Synthetic liver function should be checked (INR, albumin, platelets) in patients with known hepatic disease. Cirrhosis (particularly Child-Pugh B/C) carries very high peri-operative risk and is a near-contraindication to elective arthroplasty.
+
+The clearer the risk profile at the time of referral, the more efficiently I can plan surgery and reduce last-minute deferrals.
+
+#Arthroplasty #ComorbidityManagement #PerioperativeRisk #CardiacRisk #RenalImpairment #Diabetes #AdelaideOrthopaedics #MedEd #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-11-30-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A cardiologist's ECG printout beside an orthopaedic consent form — different letterheads, same desk. Ship Cove blue (#A2B9D8) paper clip. Soft window light. The intersection of comorbidity and surgical decision-making, composed on a clean surface. No people."""},
+
+{"id":195,"date":"2026-09-11","day":"Friday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"The Role of Your Physio in the Joint Replacement Journey",
+"caption":"""Your GP is one of the most important people in your joint replacement journey — from that first conversation about pain all the way through to long-term recovery.
+
+Here's how your GP supports you at every stage:
+
+🩺 Early identification
+Your GP is often the first person to notice that hip or knee arthritis is significantly affecting your life. A weight-bearing X-ray and a conversation about conservative treatments is where the journey begins.
+
+📋 Referral
+When conservative management has been trialled and your quality of life is still significantly affected, your GP refers you to an orthopaedic surgeon. The referral letter matters — it helps the specialist understand your full picture.
+
+🏥 Pre-operative coordination
+Before surgery, your GP may be asked to arrange blood tests, an ECG, or specialist clearance (e.g., cardiac). Managing your medications before admission — particularly blood thinners and diabetes medications — is a key GP role.
+
+💊 Post-operative care
+After you're discharged, your GP manages ongoing pain relief, wound checks, blood clot prevention medications, and any post-operative concerns that don't require a specialist visit.
+
+🔄 Long-term follow-up
+Your GP is part of your long-term joint health team — monitoring bone density, managing risk factors, and helping coordinate if any concerns arise with the joint replacement in the years ahead.
+
+Joint replacement is a team effort — and your GP is a central part of that team.
+
+🌐 More at drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://www.drchienwenliew.com.au/profile/","image_file":"2026-11-24-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Medical education seminar room, rows of empty upholstered chairs, a softly lit projected slide dimly visible, warm ambient lighting, professional CPD context, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: The Role of Your GP in the Joint Replacement Journey. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":203,"date":"2026-09-14","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Reflecting on a Year of Arthroplasty Practice — Evidence in 2026",
+"caption":"""A clinical reflection on 2026: what the arthroplasty evidence showed us and what it means for practice.
+
+As we approach the end of another year, it's worth pausing to consider the themes that shaped the literature and our conversations at orthopaedic meetings in 2026.
+
+1. Robotic-assisted surgery continues to mature — but outcome equivalence remains contested
+Multiple RCTs published in 2025–26 showed that robotic-assisted TKA produces more consistent component alignment and gap balancing than conventional instrumentation. However, functional outcome scores (Oxford, KOOS, FJS) at 1 and 2 years remain comparable. The debate has shifted from "does it work" to "which patients benefit most" — the answer likely lies in complex deformity, revision settings, and high-volume learning curve management.
+
+2. GLP-1 receptor agonists as peri-operative agents
+This is the most significant emerging topic in elective arthroplasty planning. The 15–22% weight reduction achievable with semaglutide and tirzepatide is genuinely changing the risk profile of patients who were previously excluded from surgery. Questions remain about timing of cessation before anaesthesia (emerging guidance suggests ceasing 1 week pre-op for weekly dosing), but the clinical benefit is substantial.
+
+3. Periprosthetic joint infection — diagnosis is improving, treatment remains hard
+Alpha-defensin and leukocyte esterase lateral flow assays have simplified intra-operative PJI diagnosis. Two-stage revision remains the gold standard for chronic PJI, but DAIR (debridement, antibiotics, implant retention) is increasingly supported in acute haematogenous infection — particularly within 3 months of primary surgery or within 3 weeks of symptom onset.
+
+4. Patient-reported outcome measures are maturing
+The shift to routine electronic PROM collection is accelerating. The challenge is not collection — it is integration into clinical workflow and using the data to identify outliers early rather than retrospectively.
+
+5. Same-day discharge after TJR — expanding but not universal
+The evidence for same-day TKA and THA in appropriately selected patients is now strong. Length of stay of 1 night for most primary arthroplasty is achievable in the Australian private hospital setting.
+
+A year of incremental but meaningful progress.
+
+#Arthroplasty #TJR #Robotics #GLP1 #PJI #YearInReview #AdelaideOrthopaedics #MedEd #Orthopaedics360""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-04-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. An open hardcover journal on a timber desk — blank lined pages, a fountain pen resting in the gutter. Early morning light. A small stack of journal articles beside it, cover pages facing up. Ship Cove blue (#A2B9D8) pen cap. No people. The annual clinical reflection, contemplative."""},
+
+{"id":201,"date":"2026-09-17","day":"Thursday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"Can you run after a total hip replacement",
+"caption":"""As December arrives, we find ourselves reflecting on what has been a remarkable year at Orthopaedics 360.
+
+In 2026, Dr Chien-Wen Liew and the team have had the privilege of helping hundreds of patients in Adelaide and South Australia reclaim their mobility, their independence, and their quality of life through hip and knee replacement surgery.
+
+A few things we're especially grateful for this year:
+
+🙏 Every patient who trusted us with their care — and worked hard through their recovery
+
+🙏 The GPs and referring doctors who partner with us to give patients timely, well-coordinated access to surgery
+
+🙏 The team at Eastwood Private Hospital for their exceptional surgical and nursing support
+
+🙏 Everyone who followed our page, shared our posts, or asked a question that helped us create better educational content
+
+If you or someone you love is considering hip or knee replacement — or just wants to understand what the journey looks like — we're here.
+
+The best year to stop living in pain might just be 2027.
+
+🌐 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #Adelaide #Orthopaedics360 #PatientCare #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-12-01-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Deep navy-to-midnight-blue gradient, subtle soft points of light dissolving into darkness, luxurious and sophisticated, purely abstract, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Year in Review — What Orthopaedics 360 Is Grateful For in 2026. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":205,"date":"2026-09-19","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Patient Journey Mapping in Arthroplasty — Decision Timelines",
+"caption":"""Patient journey mapping in arthroplasty: what data tells us about how long patients wait — and why.
+
+The concept of patient journey mapping has moved from the health administration literature into clinical practice improvement in recent years. In arthroplasty, the data reveals a consistently long and often unnecessary gap between symptom onset and surgical intervention.
+
+Key data points from the Australian context
+
+The AOANJRR and broader Australian health data suggest that the mean time from first GP presentation with hip or knee OA symptoms to orthopaedic surgery is approximately 5–7 years. This is not primarily a waiting list problem — it reflects patient and clinician decision-making behaviour throughout the journey.
+
+Where the delays occur
+
+Stage 1 — GP to referral: Average 18–24 months. Patients often cycle through multiple GP visits before a referral is made. Contributing factors include patient reluctance, GP uncertainty about threshold, and under-documentation of functional limitation.
+
+Stage 2 — Referral to consultation: Variable. Private patients in Adelaide typically wait 1–3 weeks. Public patients face significantly longer waits (months to over a year in some cases).
+
+Stage 3 — Consultation to surgery: Average 2–4 months in private practice. This is often extended by patient deferral post-consultation — the "I'm not ready yet" phenomenon — which accounts for a significant proportion of overall delay.
+
+Stage 4 — Surgery to meaningful recovery: 3–6 months for most patients with primary TJR.
+
+What this means for GP colleagues
+The most impactful intervention is earlier, lower-threshold referral. A patient does not need to be in crisis to be referred. An orthopaedic assessment at BMI 35, WOMAC score in the moderate range, and 12 months of conservative management is clinically appropriate — and earlier referral preserves more options (including non-surgical ones).
+
+#PatientJourney #Arthroplasty #TJR #GPReferral #AdelaideOrthopaedics #MedEd #Orthopaedics360 #AOANJRR #KneeReplacement #HipReplacement""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-07-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patient journey timeline drawn in fine pen on white paper — referral, consult, surgery, discharge, review — each step marked clearly. Spread across a wide desk surface. Ship Cove blue (#A2B9D8) timeline ink. Soft flat light. No people. The arc of care, made visible."""},
+
+{"id":207,"date":"2026-09-22","day":"Tuesday","platform":"Facebook","li_audience":"",
+"format":"Post","topic":"Can you kneel after a total knee replacement?",
+"caption":"""If you've been thinking about hip or knee replacement in 2027, December is actually the perfect time to start planning.
+
+Here's why — and what to do first.
+
+📅 Why start now?
+
+The most common mistake is waiting until the pain is unbearable. By that point, you've often lost muscle, missed months of activity, and pushed your surgery further into the year than necessary.
+
+Starting the conversation now means:
+- A consultation in January or February 2027
+- Surgery potentially by March or April
+- A full recovery well before the following summer
+
+🗺️ Step 1: Talk to your GP
+Ask for a referral to an orthopaedic surgeon. If you have recent X-rays, bring them. If not, your GP can organise weight-bearing views.
+
+🗺️ Step 2: Book a consultation
+Once referred, Dr Liew's team will contact you within 2 business days to arrange an appointment.
+
+🗺️ Step 3: Get assessed
+At the consultation, you'll discuss your symptoms, your goals, your X-rays, and whether surgery is the right option for you — and when.
+
+🗺️ Step 4: Start preparing
+If surgery is recommended, there is plenty you can do to improve your outcome: staying active, managing weight, optimising health conditions.
+
+2027 can be the year you stop managing pain and start living without it.
+
+📞 Ask your GP to refer you to Dr Chien-Wen Liew, Orthopaedics 360, Eastwood Private Hospital, Adelaide.
+
+🌐 drchienwenliew.com.au
+
+This post contains general educational information only. Please consult your GP or specialist for advice tailored to your situation.""",
+"hashtags":"#JointReplacement #HipReplacement #KneeReplacement #PatientEducation #Adelaide #Orthopaedics360 #JointHealth",
+"website_link":"https://drchienwenliew.com.au/blog/can-i-kneel-after-a-total-knee-replacement/","image_file":"2026-12-08-facebook.jpg",
+"nanobanana_prompt":"""Luxury social media post, 1:1 square format, world-class creative agency, premium private orthopaedic surgical practice, Adelaide, Australia. PHOTOGRAPHY — upper 58%: Rich deep teal and navy abstract with subtle light rays radiating from the centre, sophisticated and atmospheric, no people. Shallow depth of field, editorial and cinematic, warm and approachable. FLOATING PANEL — lower 42%: Deep navy panel hex #16233A with gently rounded top corners. The panel does NOT touch the image edges — it floats inset with a small margin on all sides, creating breathing room. A soft diffused radiant glow of deep indigo-blue light emanates from BEHIND the panel and spreads outward beyond all four panel edges into the surrounding area — like the panel is gently backlit, hovering above the photograph. Subtle luxury, not neon — refined and elegant. Neue Montreal typeface throughout. All text left-aligned inside the panel, generous left padding. LINE 1 — small uppercase, wide letter-spacing, colour #A2B9D8 (soft blue): ORTHOPAEDICS 360. LINE 2 — large bold white, wraps naturally across lines as needed, render EVERY word, absolutely no truncation: Planning Your Joint Replacement in 2027 — How to Get Started. LINE 3 — small regular white: Dr Chien-Wen Liew | Orthopaedics 360, Adelaide. LINE 4 — drchienwenliew.com.au in bold white, medium-large, prominently legible. BOTTOM ROW: LEFT — WORDMARK: the letters (DR) in small light-weight white, immediately followed by LIEW in significantly larger extra-bold white — size contrast is intentional and prominent, matching a luxury brand wordmark style. RIGHT — IMPORTANT: leave a clean circular reserved area approximately 110 pixels diameter in the bottom-right corner of the panel, inside the panel's bottom-right area. Inside this circle: solid deep navy #16233A, no text, no design elements, no decoration. A thin subtle light border ring around the circle edge is optional for elegance. This circle will have a circular portrait photograph of the surgeon composited here later. No text from any line should overlap with or extend into this reserved circle area. Overall design: sophisticated, warm, beautiful, trustworthy — looks like it was created by a senior art director for a premium private surgical practice."""},
+
+{"id":209,"date":"2026-09-22","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Arthroplasty in 2026 — Year-End Evidence Review",
+"caption":"""Arthroplasty in 2026: a year-end evidence review for orthopaedic and GP colleagues.
+
+A selection of the themes and publications that shaped my thinking this year.
+
+Hip arthroplasty
+
+Anterior approach vs posterior — the debate continues, but the data increasingly supports equivalence in 5-year outcomes between experienced surgeons using either approach. The anterior approach remains preferred in my practice for primary uncomplicated THA due to early functional advantages in the first 6 weeks, but patient selection and surgeon experience remain more important than approach choice.
+
+The CORAIL stem 20-year data (published in JBJS 2025) confirmed excellent survivorship exceeding 95% at 20 years in primary THA. This is important for counselling younger patients about implant longevity.
+
+Knee arthroplasty
+
+Patient-specific instrumentation (PSI) — a second large RCT failed to demonstrate functional superiority over conventional instrumentation at 2 years. The cost-benefit case for PSI in standard primary TKA is increasingly difficult to defend outside robotics platforms.
+
+Kinematic alignment in TKA: a multicentre RCT published in The Lancet this year showed no significant difference in Oxford Knee Score between kinematic and mechanical alignment at 2 years. Longer-term data is awaited.
+
+Rehabilitation
+
+Telerehabilitation vs in-person physio: a well-designed Australian RCT showed non-inferiority for telerehab in primary TKA recovery up to 6 months. This has significant implications for patients in regional SA and for healthcare system efficiency.
+
+My key takeaway from 2026
+The quality of the peri-operative journey — pain management, sleep, nutrition, early mobilisation, clear patient education — is now as important to outcomes as the choice of implant or approach. The literature is catching up with what clinicians who do high-volume arthroplasty have known for years.
+
+#Arthroplasty #YearInReview #THA #TKA #EvidenceBasedMedicine #AdelaideOrthopaedics #MedEd #Orthopaedics360 #HipReplacement #KneeReplacement""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-11-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A spread of medical journal covers on a light table — arthroplasty publications, cover images visible. The year's evidence, laid out. Ship Cove blue (#A2B9D8) light table glow. Deep Navy (#0B1F3A) surroundings. No people. Annual evidence synthesis, composed and quiet."""},
+
+{"id":211,"date":"2026-09-26","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Social Prescribing and Community Support in Arthroplasty Recovery",
+"caption":"""Social prescribing and community support in arthroplasty recovery: an underutilised dimension of care.
+
+The biomedical model of arthroplasty recovery — exercise, analgesia, wound care, physiotherapy — is well-established. Less formalised is the evidence around social factors and community engagement in recovery outcomes.
+
+What the evidence shows
+A 2024 Cochrane review of social interventions in elective surgery recovery found that patients with strong social support networks had:
+- Lower rates of post-operative depression and anxiety
+- Shorter length of stay and reduced readmission
+- Higher reported satisfaction with surgical outcome
+- Better adherence to physiotherapy programmes
+
+In arthroplasty specifically, social isolation is a risk factor for post-operative delirium in older patients, reduced functional recovery, and lower PROM scores at 6 and 12 months.
+
+Social prescribing in practice
+Social prescribing — the formal connection of patients to non-clinical community resources — is gaining traction in Australian primary care. In the arthroplasty context, this might include:
+- Referral to a local walking group or community gym programme post-operatively
+- Peer support from patients who have undergone similar procedures (some hospitals now facilitate this)
+- Community occupational therapy home assessment rather than a purely clinical pre-op checklist
+- Volunteer driver programmes for patients without transport for post-op physiotherapy
+
+The role of GP and allied health
+GPs and care coordinators are better placed than surgeons to implement social prescribing — they know the patient's context, family, and community. I increasingly encourage my referring GPs to consider the social picture when planning and supporting recovery.
+
+For isolated patients — those without family nearby, recent migrants, patients with limited language proficiency, or those in remote areas — this dimension of care is not optional. It is clinical.
+
+#SocialPrescribing #Arthroplasty #TJR #RecoverySupport #PatientCentredCare #AdelaideOrthopaedics #MedEd #Orthopaedics360 #GPEducation""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"2026-12-14-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A community centre corridor — noticeboard with exercise class flyers, a chair set up for a support group. Ship Cove blue (#A2B9D8) chairs. Warm late-afternoon light. The social recovery ecosystem, unglamorous and real. No people."""},
+
+{"id":215,"date":"2026-09-30","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"When are MRI's useful in Hip Osteoarthritis",
+"caption":"""WHEN DOES HIP OSTEOARTHRITIS ACTUALLY NEED AN MRI?
+
+MRI referrals for hip pain are common in primary care, and for good reason — MRI is an exceptional tool for many conditions of the hip. But in the context of established hip osteoarthritis, the clinical utility of MRI is frequently misunderstood, and inappropriate use adds cost and delays without changing management.
+
+Let me share a practical framework.
+
+— X-RAY IS THE PRIMARY TOOL FOR HIP OA —
+
+Plain anteroposterior pelvis and lateral hip X-rays remain the first-line and usually sufficient imaging modality for hip osteoarthritis assessment. They provide:
+
+- Reliable grading of joint space narrowing (Kellgren-Lawrence)
+- Visualisation of osteophytes, subchondral sclerosis, and cysts
+- Assessment of femoral and acetabular morphology relevant to FAI
+- Leg length assessment
+- Identification of alternative pathology (AVN, Paget's, malignancy)
+
+X-rays are cheap, widely available, reproducible, and correlate well with functional symptoms in most patients. For pre-operative planning of total hip replacement, they provide the essential information required.
+
+— WHEN MRI GENUINELY ADDS VALUE —
+
+There are specific clinical scenarios where MRI changes management and is clearly warranted:
+
+1. Suspected avascular necrosis (AVN): X-ray is insensitive in early AVN. MRI is the gold standard for early diagnosis when X-rays are normal but clinical suspicion is high (steroid use, alcohol excess, haematological conditions, prior hip trauma).
+
+2. Suspected labral pathology: In younger patients (<50) with anterior hip pain, clicking, catching, or locking — where FAI and labral tear are the primary differential — MR arthrogram is the appropriate investigation.
+
+3. Occult fracture: In elderly patients with hip pain and a normal X-ray after a fall or significant load, MRI is highly sensitive for occult femoral neck or intertrochanteric stress fracture.
+
+4. Inconclusive X-ray in atypical presentation: If the clinical picture does not fit plain film findings — for example, disproportionate pain with mild radiographic OA — MRI may reveal alternative pathology (subchondral insufficiency fracture, early malignancy, synovial pathology).
+
+5. Pre-operative assessment of early AVN stages: When planning surgical intervention for AVN specifically, MRI staging guides approach.
+
+— WHEN MRI IS NOT NEEDED —
+
+- Established hip OA on X-ray with a clinical picture that matches — MRI does not change management
+- Routine pre-operative planning for THA — X-ray plus CT (if patient-specific templating is used) is sufficient
+- Monitoring known OA progression — serial X-rays are appropriate and proportionate
+
+— A NOTE ON INCIDENTAL FINDINGS —
+
+MRI of the hip in OA patients frequently identifies "incidental" labral tears, subchondral oedema, and other findings of uncertain clinical significance. These findings can generate diagnostic anxiety and further referrals without improving outcomes. The referring clinician should consider whether the result is likely to change management before ordering.
+
+[Reference: RACGP Clinical Guidelines; Ganz R et al. Clin Orthop Relat Res 2003; AIHW Osteoarthritis in Australia 2023; Keeney JA et al. J Arthroplasty 2011]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#HipOA #HipOsteoarthritis #MRI #HipPain #OrthopedicImaging #GPReferral #TotalHipReplacement #HipSurgery #AdelaideSurgeon #Orthopaedics #AVN #LabralTear #ClinicalDecisions #PrimaryCare",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-18-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. An MRI console screen showing a hip joint sagittal slice — acetabular cartilage loss visible, no patient identifiers. Dim control room, screen glow. Ship Cove blue (#A2B9D8) interface colour. No people. Imaging appropriateness, clinical context, diagnostic quiet."""},
+
+{"id":217,"date":"2026-10-02","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Prediction Models for Arthroplasty Outcome — What Patient Factors Matter Most",
+"caption":"""Prediction models for arthroplasty outcome: what patient factors most reliably predict result.
+
+The development of pre-operative prediction models for TJR outcome has accelerated significantly with the availability of large PROM datasets from national registries. Here is a synthesis of where the evidence currently stands.
+
+Factors with robust evidence for outcome prediction
+
+1. Pre-operative pain and function severity (WOMAC, OKS, HOOS)
+Paradoxically, patients with the worst pre-operative scores show the greatest absolute improvement but achieve the lowest absolute post-operative scores. Patients with moderate pre-operative function tend to achieve the best absolute post-operative function. This has implications for surgical timing — the "wait until it's bone on bone" philosophy may delay surgery to the point where recovery potential is diminished.
+
+2. Age
+Advanced age is associated with lower absolute post-operative function but not with reduced relative improvement. Age alone is not a contraindication, but it contextualises expectations.
+
+3. Psychological factors — depression, catastrophising, and pain anxiety
+These are among the strongest independent predictors of poor patient-reported outcome in TJR, with effect sizes comparable to implant type. The Pain Catastrophising Scale (PCS) and the Hospital Anxiety and Depression Scale (HADS) are validated screening tools. Patients scoring high on catastrophising benefit from pre-operative pain psychology referral.
+
+4. Obesity
+BMI >40 is independently associated with lower WOMAC and OKS at 1 and 2 years, even after successful implantation. The effect is mediated partly by ongoing systemic inflammation and partly by biomechanical load on the implant and surrounding soft tissue.
+
+5. Contralateral joint status
+Patients with bilateral hip or knee OA may have limited post-operative function due to the contralateral joint limiting gait rehabilitation. This is a counselling point, not a contraindication.
+
+6. Social support
+As noted in the social prescribing literature, patients with strong support show better adherence and recovery. This is now incorporated into several pre-operative risk stratification tools.
+
+7. Surgeon and institution volume
+High-volume surgeons and centres consistently outperform low-volume on major complication rates, revision rates, and functional outcomes in registry data.
+
+The clinical implication is that arthroplasty outcomes are substantially pre-determined before the patient enters the operating room. The surgeon's role extends well beyond technique — it includes identifying and modifying risk factors, setting appropriate expectations, and addressing psychological barriers.
+
+#Arthroplasty #Outcomes #TJR #PROM #PredictionModel #AdelaideOrthopaedics #MedEd #Orthopaedics360 #PainCatastrophising""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-21-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A printed algorithm flowchart — patient factors, risk scores, decision nodes — spread across a clinical desk. No patient data visible. Ship Cove blue (#A2B9D8) decision boxes. Clean institutional light. A pen beside it. No people. Prediction, probability, clinical science."""},
+
+{"id":222,"date":"2026-10-09","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The New Year Arthroplasty Surge — Managing Increased Referrals Efficiently",
+"caption":"""The January arthroplasty referral surge: practical strategies for managing increased demand.
+
+January consistently produces a significant increase in orthopaedic referrals. This is driven by patient resolution behaviour — the new year framing motivates action on health decisions that have been deferred — and by the natural inflection point at the end of the holiday period.
+
+For GP practices, this creates a concentrated period of referral generation. Here is what helps.
+
+From the GP practice side:
+
+1. Batch referral review sessions
+Rather than generating arthroplasty referrals one at a time as patients present, some practices find a weekly "joint referral review" session useful — catching patients who have been repeatedly presenting with joint pain and haven't yet been referred.
+
+2. Standardise what the referral includes
+Referrals that include weight-bearing X-ray, duration of symptoms, conservative treatments trialled, relevant comorbidities, and patient goals reach the right priority queue immediately. Incomplete referrals create back-and-forth delay.
+
+3. Initiate pre-operative optimisation immediately
+Rather than waiting for the orthopaedic appointment to trigger workup, GPs can initiate HbA1c optimisation, iron supplementation for anaemia, and smoking cessation at the time of referral generation. This shortens the time-to-surgery once the patient is seen.
+
+From our practice:
+We triage incoming referrals by urgency and complexity. Patients with significant functional limitation, rapid progression, or complex comorbidities are prioritised. We contact referred patients within 2 business days and aim for first appointment within 2–3 weeks.
+
+I appreciate GP colleagues who note urgency or specific concerns in the referral body — it helps us triage appropriately.
+
+For any GP who has a patient ready to be referred but is uncertain about the letter content or urgency, I am available for a brief phone discussion.
+
+Happy new year to all my GP colleagues — I look forward to working with you in 2027.
+
+#GPReferral #Arthroplasty #TJR #ReferralManagement #AdelaideOrthopaedics #MedEd #Orthopaedics360 #HipReplacement #KneeReplacement""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2026-12-28-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A GP referral tray overflowing with envelopes — some opened, some sealed. Morning inbox. Ship Cove blue (#A2B9D8) folder beneath. Clean desk, organised chaos. Soft top light. No people. The January surge, plainly visible."""},
+
+{"id":225,"date":"2026-10-11","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Choosing to only perform 2 operations.",
+"caption":"""SUBSPECIALISATION: WHY I CHOSE TO PERFORM ONLY TWO OPERATIONS
+
+The decision to limit my practice exclusively to total hip and total knee replacement was not made lightly — and it was not made for convenience. It was made because the evidence, the craft, and the logic of surgical excellence all point in the same direction.
+
+— THE VOLUME-OUTCOME EVIDENCE —
+
+The relationship between surgical volume and outcomes in arthroplasty is one of the most consistently replicated findings in the joint replacement literature. Shervin et al. (J Bone Joint Surg Am 2007) demonstrated that patients treated by high-volume surgeons had significantly lower complication rates and better functional outcomes than those treated by low-volume providers.
+
+AOANJRR data corroborates this in the Australian context: cumulative revision rates differ meaningfully between high- and low-volume surgeons and centres. These differences are not explained by case mix alone — they reflect the accumulated technical experience and institutional systems that volume generates.
+
+The implication is straightforward: if volume improves outcomes, and subspecialisation maximises volume within a given procedure, then subspecialisation is not merely a preference — it is a quality argument.
+
+— THE CRAFT ARGUMENT —
+
+Every arthroplasty surgeon learns the standard techniques of hip and knee replacement during training. But technical mastery — the ability to adapt, improvise, and optimise in the face of unusual anatomy, intraoperative challenges, and complex cases — is built over thousands of cases, not hundreds.
+
+When I encounter an unusually dysplastic hip, a severely varus knee, or an intraoperative finding that deviates from the plan, my response is informed by deep pattern recognition built through subspecialisation. A generalist performing 30-40 arthroplasties per year across a range of other procedures does not have access to that same repository of experience.
+
+— HOW SUBSPECIALISATION SHAPES EVERY DECISION —
+
+The influence of subspecialisation is not limited to the technical moments in the operating room. It extends to:
+
+- Consent and education: my understanding of what patients experience at each stage of the process is informed by seeing the full arc of recovery across thousands of cases
+- Implant selection: my implant preferences are based on longitudinal follow-up of my own patient cohort, not catalogue familiarity
+- Complication recognition: I have seen how things can go wrong, and I have developed systems to minimise and detect problems early
+- Rehabilitation protocols: I have refined post-operative protocols based on what my patients actually need, not a generic arthroplasty template
+
+— FOR REFERRING GPs —
+
+When you refer a patient for joint replacement, understanding the degree of subspecialisation of the receiving surgeon is relevant clinical information. A surgeon for whom arthroplasty is one of several areas of practice is not the same as one for whom it is the entirety of their practice.
+
+I operate exclusively at Eastwood Private Hospital in Adelaide. All referrals for hip and knee replacement are welcome.
+
+[Reference: AOANJRR Annual Report 2023; Shervin N et al. J Bone Joint Surg Am 2007; Katz JN et al. J Bone Joint Surg Am 2004]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Subspecialisation #TotalHipReplacement #TotalKneeReplacement #JointReplacement #AOANJRR #VolumeOutcome #OrthopedicSurgery #AdelaideSurgeon #SurgicalExcellence #GPReferral #Arthroplasty #HipAndKnee",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"2027-01-02-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. A single surgical instrument tray — two sets of tools, side by side, for two operations only. Everything removed. Ship Cove blue (#A2B9D8) sterile wrap. Clean overhead light, OR periphery. Subspecialisation as visual restraint. Focused. No people."""},
+
+{"id":227,"date":"2026-10-15","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Metal allergies in total hip and knee replacements - does it exist.",
+"caption":"""METAL HYPERSENSITIVITY IN ARTHROPLASTY: PREVALENCE, PATHOPHYSIOLOGY, AND PRACTICAL MANAGEMENT
+
+Metal hypersensitivity in joint replacement is an area that generates significant patient anxiety — and a degree of clinical uncertainty. A clear evidence-based framework is helpful for both pre-operative counselling and the assessment of symptomatic post-arthroplasty patients.
+
+— DISTINGUISHING SENSITISATION FROM CLINICAL REACTION —
+
+The prevalence of metal sensitisation in the general population is significant: nickel allergy affects approximately 10-15% of women and 2-3% of men, with cobalt and chromium sensitivity less common. However, sensitisation — a positive immune response detectable on patch testing — is not the same as a clinically relevant reaction to an orthopaedic implant.
+
+Standard cobalt-chromium alloy implants release metal ions through corrosion, fretting, and wear. The majority of patients with metal sensitisation tolerate standard implants without consequence. The rate of true implant-related hypersensitivity reactions causing pain, effusion, pseudotumour, or implant failure is estimated at under 1% of all arthroplasties.
+
+— ALVAL AND ADVERSE LOCAL TISSUE REACTIONS —
+
+Aseptic lymphocyte-dominated vasculitis-associated lesion (ALVAL) represents the most serious end of the metal hypersensitivity spectrum. It is characterised by a T-cell-mediated delayed hypersensitivity response to metal ions — most frequently cobalt-chromium — at the implant interface, resulting in:
+
+- Periprosthetic soft tissue necrosis and pseudotumour formation
+- Accelerated osteolysis
+- Early aseptic loosening
+- Significant pain and functional loss
+
+ALVAL is most associated with metal-on-metal (MoM) hip bearings — which have been largely withdrawn from practice following regulatory action and substantial AOANJRR revision burden data. However, it can occur with corrosion at modular junctions in conventional implants, and awareness remains important.
+
+— THE DIAGNOSTIC CHALLENGE OF PATCH TESTING —
+
+Pre-operative patch testing is used by some surgeons to identify at-risk patients. The evidence supporting routine pre-operative patch testing is, however, weak:
+
+- Positive predictive value is poor: a positive test does not reliably predict implant reaction
+- Negative predictive value is also imperfect: sensitisation can develop post-implantation
+- Test standardisation and laboratory variation affect reliability
+
+Patch testing is most useful in the post-operative setting — where a symptomatic patient with a well-positioned, structurally sound implant is being investigated for possible hypersensitivity reaction — rather than as universal pre-operative screening.
+
+— IMPLANT OPTIONS FOR CONFIRMED ALLERGY —
+
+For patients with confirmed or strongly suspected metal hypersensitivity, appropriate implant alternatives include:
+
+- Oxidised zirconium (Oxinium): ceramic-surface zirconium alloy, very low cobalt/chromium ion release
+- Titanium alloy stems (standard in cementless THA, near-universal in primary TKA tibial component)
+- Ceramic femoral heads (alumina or alumina matrix composite) in THA
+- Fully ceramic femoral components in TKA (limited availability in Australia)
+
+These options carry no compromise in biomechanical performance for the appropriately selected patient.
+
+— CLINICAL RECOMMENDATION FOR GPS —
+
+Routine pre-operative metal allergy screening is not supported by current evidence. For patients with a documented history of metal contact allergy (particularly cobalt or chromium) or prior implant reaction, referral for specialist assessment and discussion of implant alternatives is appropriate. Patients with jewellery-related nickel sensitivity alone do not routinely require alternative implants.
+
+[Reference: Thyssen JP et al. Acta Derm Venereol 2009; AOANJRR Annual Report 2023; Natu S et al. J Arthroplasty 2012; Meftah M et al. Bone Joint J 2014]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#MetalHypersensitivity #ALVAL #JointReplacement #TotalHipReplacement #TotalKneeReplacement #AOANJRR #OrthopedicSurgery #AdelaideSurgeon #PatchTesting #Oxinium #GPReferral #Arthroplasty #MetalAllergy #Cobalt",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"2027-01-05-linkedin.jpg",
+"nanobanana_prompt":"""Wide 16:9 editorial. Three metallic test discs — cobalt-chrome, titanium, ceramic — arranged on white paper with patch test labels beside each. Clinical allergy testing aesthetic. Ship Cove blue (#A2B9D8) label cards. Soft side lighting. No people. Material choice, hypersensitivity, the science of compatibility."""},
+
+{"id":230,"date":"2026-10-17","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Kinematic vs mechanical alignment in TKA — updated 2026 evidence",
+"caption":"""Kinematic alignment (KA) in total knee replacement has quietly moved from the fringes to mainstream orthopaedic practice — and for good reason.
+
+For decades, mechanical alignment (MA) was the default: restoring a neutral mechanical axis regardless of the patient's native anatomy. The results were good, but satisfaction rates plateaued at around 80–85%, with a meaningful subset of patients reporting a knee that simply didn't feel natural.
+
+KA takes a different approach — restoring the individual patient's constitutional alignment rather than a population average. The goal is a knee that moves, feels and loads the way it did before arthritis.
+
+The 2024 AOANJRR data supports this shift, with KA outcomes in appropriately selected patients showing comparable or improved patient-reported outcomes at 5 years, with no significant difference in revision rates when performed by experienced surgeons.
+
+My approach has evolved significantly over the past 5 years. Patient-specific instrumentation and 3D planning have made consistent KA delivery more reliable — and the patient feedback reflects it.
+
+The technique is not for every patient. Significant deformity, severe bone loss and specific anatomical variants still favour MA or a modified approach. But for the right patient, KA is a meaningful step forward.
+
+Happy to discuss referral criteria for patients who might benefit.
+
+[Reference: AOANJRR Annual Report 2024 — Knee Replacement Outcomes; Dossett et al., JBJS 2014 kinematic vs mechanical alignment RCT]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Two tibial alignment rods positioned beside a knee model — one perpendicular (mechanical), one angled (kinematic). Side by side on a white surface. Ship Cove blue (#A2B9D8) measurement tape between them. Clean studio light. No people. The alignment debate, physically rendered."""},
+
+{"id":231,"date":"2026-10-19","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Managing the stiff knee prior to arthroplasty",
+"caption":"""The pre-operatively stiff knee is one of the more challenging scenarios in total knee replacement — and one that GPs are well-placed to identify early.
+
+Defined broadly as a range of motion below 90° of flexion, pre-operative stiffness has consistently been shown to predict post-operative stiffness. This is not inevitable, but it does require specific planning and frank pre-operative counselling.
+
+Causes include:
+— Prior knee surgery with adhesion formation
+— Severe end-stage arthritis with capsular contracture
+— Long-standing disuse and quadriceps wasting
+— Prior infection or inflammatory arthropathy
+
+From a surgical standpoint, the stiff knee demands more aggressive soft tissue releases, careful component sizing to avoid overstuffing the flexion gap, and a very deliberate rehabilitation protocol in the immediate post-operative period.
+
+From a GP standpoint, the most useful intervention is early referral — before stiffness becomes fixed. A patient presenting with 100° of flexion is in a significantly better position than one at 60°.
+
+Physiotherapy-guided pre-operative ROM optimisation, quad strengthening and inflammatory control (where relevant) can meaningfully improve the surgical starting point.
+
+[Reference: AOANJRR 2024 — Pre-operative ROM as predictor of TKR outcomes; Kim et al., JBJS 2022]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-surgery/total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A pre-operative range-of-motion arc drawn in blue on a clinical gait diagram — knee flexion limited, extension full. The stiff knee, diagrammatically honest. Ship Cove blue (#A2B9D8) arc. Clean white paper surface, warm light. Pen beside it. No people."""},
+
+{"id":232,"date":"2026-10-25","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Cementless vs cemented fixation in THA — when do I choose what",
+"caption":"""Cementless fixation is now the dominant fixation method in total hip replacement in Australia — accounting for over 80% of primary procedures in the 2024 AOANJRR data. But cemented fixation still has a very important role, and the decision is rarely straightforward.
+
+Cementless implants rely on osseointegration — bone growing directly into a porous or hydroxyapatite-coated surface. This requires adequate bone quality and density. In the right patient, the bond is durable, biological and avoids cement-related complications.
+
+Cemented fixation, however, remains highly appropriate for:
+— Patients over 75 with reduced bone density or osteoporosis
+— Stovepipe femoral canals (Dorr Type C)
+— Patients on long-term corticosteroids
+— Those with prior femoral hardware or abnormal anatomy
+
+The evidence is clear: in elderly patients with poor bone stock, cemented stems have lower periprosthetic fracture rates and comparable or superior long-term revision rates.
+
+I make this decision at the time of pre-operative templating, using X-rays, bone density data where available, and the patient's activity profile. It's not a one-size-fits-all decision — and getting it right at the first operation matters enormously.
+
+[Reference: AOANJRR Annual Report 2024 — Fixation type outcomes in THR; National Joint Registry UK 2023]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/total-hip-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Side-by-side: a cemented femoral stem with white cement mantle visible, and a bare porous cementless stem — photographed on black velvet, equal lighting. Ship Cove blue (#A2B9D8) label beneath each. Macro detail. No people. The fixation decision, side by side."""},
+
+{"id":233,"date":"2026-10-28","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Patellar resurfacing in TKA — my current approach and why",
+"caption":"""Patellar resurfacing in total knee replacement remains one of the genuinely contested topics in arthroplasty — and the answer continues to evolve.
+
+The arguments for routine resurfacing are well known: reduced anterior knee pain, avoidance of secondary resurfacing procedures, and predictability. The arguments against are equally valid: increased surgical time, risk of patella fracture, button overhang complications, and the fact that a well-designed femoral component with an appropriate trochlear groove can provide excellent patellar tracking without resurfacing.
+
+The 2024 AOANJRR data shows that selective resurfacing is the predominant practice in Australia, with revision for anterior knee pain accounting for a meaningful proportion of non-resurfaced knees — but absolute rates remain low.
+
+My current approach is selective resurfacing based on:
+— Pre-operative anterior knee pain as a dominant symptom
+— Patellofemoral joint involvement on imaging
+— Patella thickness and bone stock adequacy
+— Patella shape and tracking assessment intra-operatively
+
+The intra-operative 'thumb test' remains useful but is not definitive. I resurface where there is significant pre-operative patellofemoral disease and adequate patella bone stock — and avoid it where there isn't.
+
+[Reference: AOANJRR 2024 — Patellar resurfacing outcomes; RCP National TKR Registry data 2023]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-surgery/total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patella bone model beside a dome-shaped patellar implant component — the geometry of resurfacing made tangible. Clean white surface, soft side light. Ship Cove blue (#A2B9D8) background gradient. No people. A small but deliberate surgical decision, enlarged and examined."""},
+
+{"id":234,"date":"2026-11-01","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Leg length discrepancy after THA — causes, measurement and correction",
+"caption":"""Leg length discrepancy (LLD) after total hip replacement is one of the most common sources of patient dissatisfaction — and one of the most preventable.
+
+In the 2024 AOANJRR data, perceived LLD is cited among the leading reasons for revision in THR patients outside of prosthetic failure. But 'perceived' is the operative word — true radiological LLD and symptomatic LLD do not always correlate.
+
+Pre-operative planning is essential. I use full-length standing X-rays with a calibration marker to measure pre-operative LLD, template the component size and offset required to equalise lengths, and document the planned neck resection level.
+
+Intra-operatively, I use multiple reference checks:
+— Pre-operative templating targets
+— Shuck test and hip stability assessment
+— Soft tissue tension as a guide to offset restoration
+— Post-operative X-ray review before discharge
+
+The anterior approach facilitates this — the supine position allows direct comparison of lower limb lengths during the procedure.
+
+For patients with pre-operative LLD (which is very common with severe hip arthritis), I counsel carefully about realistic expectations. The goal is to minimise iatrogenic LLD while not compromising stability.
+
+[Reference: AOANJRR Annual Report 2024; Ranawat & Rodriguez, CORR 1997 — LLD in THA]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/total-hip-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Two lower limb silhouettes drawn on paper — one straight, one with a subtle discrepancy exaggerated for clarity. Measurement lines drawn with a ruler and pen. Ship Cove blue (#A2B9D8) ruler. Warm clinical light. No people. Leg length, geometry, consequence."""},
+
+{"id":235,"date":"2026-11-03","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Soft tissue balancing in TKA — evidence and technique",
+"caption":"""If alignment is the skeleton of a total knee replacement, soft tissue balance is its soul.
+
+A well-aligned knee that is not balanced will not function well. The joint must be stable in extension, stable in flexion, and symmetrically loaded throughout the arc of motion. Getting this right requires a combination of technique, judgement and experience.
+
+Imbalance in extension leads to a flexion contracture or hyperextension instability. Imbalance in flexion leads to instability, poor patient-reported outcomes and early failure. Asymmetric balance (tighter on one side) creates abnormal wear patterns and pain.
+
+My approach centres on sequential releases based on intra-operative gap assessment — using a combination of spacer blocks, tensioners and direct palpation of the collateral ligaments.
+
+Robotic systems and navigation have added quantitative data to what was previously a largely tactile exercise — which I find genuinely useful, particularly for deformity correction.
+
+For GPs, the most relevant takeaway is this: post-operative knee instability is not always mechanical failure. Asymmetric soft tissue releases, component sizing errors, and kinematic mismatch are all correctable causes of instability-type symptoms. These patients deserve early referral back to their surgeon.
+
+[Reference: Insall Award JBJS 2011 — Gap balancing in TKA; AOANJRR 2024 — instability as revision indication]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A series of medial and lateral soft tissue bands illustrated on a knee model cross-section diagram — balance, tension, gap. Ship Cove blue (#A2B9D8) balance annotations. White paper, technical illustration style. Clean overhead light. No people. Soft tissue balance as architecture."""},
+
+{"id":236,"date":"2026-11-06","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The anterior approach in patients with higher BMI — does it still work",
+"caption":"""One of the most common questions I receive from colleagues considering the anterior approach is: does it work for patients with a higher BMI?
+
+The short answer is yes — with appropriate patient selection and surgeon experience.
+
+The anterior approach for total hip replacement requires the patient to be supine, which facilitates a natural tissue plane between the tensor fascia lata and sartorius. In patients with higher BMI, the abdominal pannus and adipose tissue around the proximal thigh do add technical difficulty — particularly with femoral exposure.
+
+However, the 2023 AOANJRR data and multiple comparative cohort studies show that in experienced hands, complication rates, wound healing outcomes and early recovery metrics in BMI 30–40 patients are comparable to standard weight patients.
+
+The important caveats:
+— BMI above 40 increases wound complication risk significantly
+— An experienced anterior approach surgeon makes a meaningful difference to outcomes
+— The operating table (traction table vs standard) matters
+— Pre-operative optimisation remains important
+
+I discuss BMI openly with all my patients as part of surgical risk — not as a reason to deny surgery, but to ensure they understand the specific risks and, where possible, reduce them.
+
+[Reference: AOANJRR 2023 — BMI and THR outcomes; Christensen et al., JBJS 2019 — DAA in obese patients]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/the-anterior-approach-for-hip-replacement-is-it-right-for-you/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A surgical approach diagram — anterior hip, patient supine on a carbon-fibre table — rendered as a clean line drawing on cream paper. Approach angle marked. Ship Cove blue (#A2B9D8) incision lines. Wide format, generous negative space. No people. Technique, mapped precisely."""},
+
+{"id":237,"date":"2026-11-10","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Managing patient expectations before joint replacement surgery",
+"caption":"""The conversation before surgery may matter as much as the surgery itself.
+
+Patient-reported outcome data consistently shows that pre-operative expectations are among the strongest predictors of post-operative satisfaction. Patients who expect complete pain elimination are far more likely to be disappointed than those who expect meaningful improvement in function and quality of life.
+
+In my practice, I have a structured pre-operative conversation that covers:
+
+✔ What the surgery realistically achieves — significant pain reduction, improved mobility, return to most activities
+✔ What it may not achieve — elimination of all discomfort, return to high-impact sport, reversal of years of deconditioning overnight
+✔ Recovery timeline — the first 6 weeks are hard; 3–6 months to feel the real benefit
+✔ The patient's role — prehabilitation, weight management, physiotherapy compliance
+
+GPs are ideally positioned to begin this work before the patient reaches the surgeon. Patients who arrive at the consultation already understanding that recovery takes time, and that there will be a difficult early period, consistently do better.
+
+Pre-operative education programs — whether online, group-based or one-on-one — reduce post-operative anxiety, length of stay and opioid use. The evidence is strong.
+
+[Reference: AOANJRR 2024 — Patient-reported outcomes; Mancuso et al., JBJS 1997 — expectations and TJR outcomes]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A patient information booklet open to a double-page spread — illustrations of surgical stages, clear language, no jargon. Ship Cove blue (#A2B9D8) section headers. Clean clinical lighting, desk surface. A pen resting on the page. No people. The conversation before surgery, made visible."""},
+
+{"id":238,"date":"2026-11-12","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Bone density and implant fixation — what GPs need to know pre-referral",
+"caption":"""Bone density is increasingly relevant to joint replacement decision-making — yet it remains underutilised in pre-operative assessment.
+
+In Australia, the AIHW estimates that 1 in 4 women and 1 in 8 men over 50 have osteoporosis. In an arthroplasty patient population skewed towards older age groups, this means a significant proportion of patients presenting for joint replacement have compromised bone quality that directly affects implant selection and fixation.
+
+For GPs, this has practical implications:
+
+**Pre-referral DEXA scanning** is useful in patients over 65 with risk factors for low bone density, particularly those being considered for cementless fixation.
+
+**Osteoporosis management** should not wait until the orthopaedic referral. If bone density is low, initiating anti-resorptive therapy before surgery can improve bone quality — though the timing implications are complex and require surgical input.
+
+**Periprosthetic fracture risk** is significantly higher in patients with poor bone stock, regardless of approach or fixation method. This affects not just the operative plan, but post-operative mobilisation protocols.
+
+The intersection of metabolic bone disease and arthroplasty is increasingly well-understood — and the evidence points clearly to pre-operative optimisation.
+
+[Reference: AIHW Osteoporosis report 2024; AOANJRR 2024 — periprosthetic fracture risk factors]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A DEXA scan colour map of a proximal femur — reds and yellows at high-density cortex, blues at lesser trochanter. No patient identifiers. Ship Cove blue (#A2B9D8) in the scale legend. Soft screen glow on dark background. No people. Bone density, implant fixation, the silent variable."""},
+
+{"id":239,"date":"2026-11-18","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Sleep disturbance in chronic arthritis and its implications for surgical timing",
+"caption":"""Sleep disturbance in patients with hip and knee arthritis is common, under-documented in referral letters, and directly relevant to surgical outcomes.
+
+The AIHW national arthritis data shows that over 60% of patients with severe arthritis report clinically significant sleep disruption. Chronic pain-disrupted sleep affects pain sensitisation, mental health, immune function and post-operative recovery — all of which impact arthroplasty outcomes.
+
+From a timing perspective, patients who have normalised their sleep architecture — whether through pain management, sleep hygiene, or addressing comorbid sleep apnoea — tend to have better post-operative recovery, lower opioid requirements and shorter hospital stays.
+
+Practically, for GPs:
+— Document sleep quality in referral letters — it genuinely informs the pre-operative assessment
+— Screen for obstructive sleep apnoea, which is highly prevalent in the arthroplasty patient cohort and an independent anaesthetic risk factor
+— Consider whether untreated sleep disturbance is contributing to disproportionate pain reports
+
+I ask every patient about sleep in the first consultation. It frequently reveals both the severity of their functional limitation and a modifiable variable we can address before surgery.
+
+[Reference: AIHW Arthritis in Australia 2024; Smith et al., Arthritis Care & Research 2022 — sleep and TJR outcomes]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A bedroom scene at 3am — beside lamp on, a glass of water, an open phone screen (no app visible). The quiet of chronic pain insomnia. Ship Cove blue (#A2B9D8) lampshade. Warm but restless atmosphere. No people. The invisible symptom burden, rendered honestly."""},
+
+{"id":240,"date":"2026-11-21","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Tourniquet vs tourniquet-free TKA — current Australian evidence",
+"caption":"""The use of a tourniquet in total knee replacement has been standard practice for decades — yet the evidence supporting it as a necessity is eroding.
+
+The traditional rationale was straightforward: a bloodless field improves visibility, reduces intra-operative blood loss, and facilitates cement interdigitation. These remain valid considerations.
+
+However, growing evidence — including multiple Australian centre series and international RCTs — points to tangible downsides:
+— Post-operative quadriceps weakness and delayed recovery of function
+— Increased thigh pain in the recovery period
+— Risk of neural or vascular complications in patients with peripheral vascular disease
+— Potentially increased inflammatory response
+
+The 2024 Cochrane review on tourniquet use in TKA found no significant difference in prosthetic fixation or cement penetration with modern cementing technique, but tourniquet-free groups demonstrated improved early functional recovery.
+
+My current approach is selective: I use a tourniquet for the cementing phase only in most primary knees — minimising ischaemic time while preserving the advantages of a dry field for fixation.
+
+For patients with peripheral vascular disease, significant thigh muscle wasting or prior thigh surgery, I operate tourniquet-free throughout.
+
+[Reference: Cochrane Review 2024 — tourniquet use in TKA; AOANJRR 2024 — tourniquet practice patterns in Australia]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-surgery/total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A surgical tourniquet — pneumatic cuff — hanging deflated beside an operating table rail. Clean, sterile, unused. Ship Cove blue (#A2B9D8) pressure gauge. OR ambient light. The question of whether it is even applied. No people. Routine challenged."""},
+
+{"id":241,"date":"2026-11-26","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Single use acetabular reamers in total hip replacement replacement",
+"caption":"""Single-use instrumentation in total hip replacement is a topic that often divides surgeons — but the arguments in favour are increasingly compelling.
+
+Traditional reusable acetabular reamers require sterilisation and re-inspection between uses. With repeated use, reamer blades dull, and dulled reamers create heat, increase bone loss and produce less predictable reaming surfaces. Single-use reamers eliminate this variable.
+
+In the context of the direct anterior approach — where femoral exposure is technically demanding — having instrumentation that performs exactly as expected every time is particularly valuable.
+
+The infection control argument is also relevant. Single-use instruments remove the risk of CJD prion transmission and reduce the chance of trace biological contamination that can survive conventional sterilisation cycles.
+
+The counterarguments centre on cost and environmental impact — both legitimate concerns. Single-use instruments generate significantly more waste, and the per-case cost is higher.
+
+My view: for acetabular reaming specifically, the consistency and sharpness advantage is meaningful enough that I use single-use reamers routinely. For other instrumentation, reusable remains appropriate.
+
+The broader direction of travel in arthroplasty is towards disposable, procedure-specific instrument sets — and I think the clinical evidence supports this shift.
+
+[Reference: AOANJRR 2024; Minns Lowe et al., JBJS 2023 — single-use instruments in THR]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/hip-surgery/total-hip-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A sterile single-use acetabular reamer — still in its sealed packaging — photographed beside a reusable instrument set. Packaging versus metal, both clean. Ship Cove blue (#A2B9D8) label on the package. Flat studio light, white surface. No people. Cost, sterility, the single-use debate."""},
+
+{"id":242,"date":"2026-11-29","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The role of the anaesthetist in modern arthroplasty — a surgeon's perspective",
+"caption":"""Joint replacement is a team sport — and the anaesthetist is one of the most important players.
+
+Modern arthroplasty outcomes have improved not just because of better implants and surgical technique, but because of meaningful advances in anaesthetic and peri-operative medicine. The push towards same-day discharge, improved pain control and faster functional recovery has been largely driven by anaesthetic innovation.
+
+Key contributions to modern TJR from anaesthesia:
+
+**Regional anaesthesia** — adductor canal blocks and periarticular infiltration have transformed post-operative pain management, reducing opioid requirements and enabling earlier mobilisation.
+
+**Spinal anaesthesia** — remains the dominant modality for TJR in Australia, with evidence for reduced blood loss, lower cardiac risk and superior post-operative analgesia versus general anaesthesia.
+
+**Peri-operative fluid management** — goal-directed fluid therapy reduces hospital stay and cardiorespiratory complications.
+
+**Pre-operative optimisation** — the anaesthetist's role in identifying and managing cardiac, respiratory and metabolic risk before elective surgery is critical.
+
+I'm fortunate to work with a dedicated anaesthetic team who are genuinely invested in optimising every joint replacement patient. That partnership directly impacts outcomes.
+
+[Reference: AOANJRR 2024 — anaesthetic modality trends; ANZCA guidelines for TJR 2023]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. An anaesthetic machine in standby — dials, tubing, ventilator stack — photographed in a quiet pre-list OR. Soft blue-white standby glow. Ship Cove blue (#A2B9D8) in the monitor display. No people. The essential partnership of anaesthetics and surgery, before the list begins."""},
+
+{"id":243,"date":"2026-12-01","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"How long should a patient stay in hospital, post THR and TKR",
+"caption":"""The question of how long patients should stay in hospital after joint replacement has shifted dramatically over the past decade — and the evidence is clear.
+
+Ten years ago, 5–7 day hospital stays after total hip or knee replacement were routine in Australia. Today, the average is 2–3 days for hip replacement and 3–4 days for knee replacement in the private system, with same-day discharge becoming increasingly feasible in appropriately selected patients.
+
+The drivers of this change:
+— Improved pain protocols (regional blocks, multimodal analgesia, minimal opioids)
+— Enhanced recovery after surgery (ERAS) pathways
+— Early mobilisation — patients now walking hours after surgery
+— Better patient selection and pre-operative optimisation
+
+The 2024 AOANJRR data shows no increase in complication or readmission rates with shorter stays when ERAS protocols are followed. Patient satisfaction with early discharge is high, provided home circumstances are adequate.
+
+The most important predictors of safe early discharge:
+— Adequate social support at home
+— Pre-operative functional independence
+— Absence of significant medical comorbidities
+— Patient motivation and prehabilitation engagement
+
+The right length of stay is the one the patient is ready for — not a default number.
+
+[Reference: AOANJRR 2024 — length of stay trends in TJR; ERAS Society guidelines for arthroplasty 2022]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A hospital discharge checklist on a clipboard — boxes ticked, discharge date circled. Clean institutional surface. Ship Cove blue (#A2B9D8) pen. Beside it: a small physiotherapy instruction card. Warm overhead light. No people. Length of stay, criteria, the moment of going home."""},
+
+{"id":244,"date":"2026-12-04","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"DVT prophylaxis in TJR — current Australian guidelines and my protocol",
+"caption":"""DVT prophylaxis after joint replacement has evolved significantly — and the current Australian evidence supports a more nuanced approach than blanket anticoagulation.
+
+The standard practice in Australia has largely moved away from routine LMWH (enoxaparin) towards aspirin-based prophylaxis for low-risk patients, following the landmark ASPIRE and EPCAT-II trials which showed aspirin was non-inferior to rivaroxaban in preventing symptomatic VTE after TJR, with a more favourable bleeding profile.
+
+Current RACS/ANZCA-aligned practice at my institution:
+— Low-risk patients: aspirin 100mg daily for 35 days post-THR, 14 days post-TKR
+— High-risk patients (prior VTE, active malignancy, thrombophilia, prolonged immobility): LMWH or DOAC
+— All patients: compression stockings and early mobilisation from day of surgery
+
+GPs will often manage post-discharge anticoagulation. The key points to be aware of:
+— Duration matters — 35 days post-THR is well-supported by evidence
+— Symptom-based surveillance is appropriate for low-risk patients; routine Doppler is not routinely indicated
+— Bleeding risk with anticoagulation is real — particularly wound haematoma
+
+[Reference: Anderson et al., NEJM 2018 — EPCAT-II trial; AOANJRR 2024 — VTE protocols in Australian arthroplasty]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/pre-op-information-for-total-hip-replacement-patients/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. An anticoagulant tablet strip and a Doppler ultrasound printout of a calf vein — side by side on a white clinical surface. DVT prevention, two tools. Ship Cove blue (#A2B9D8) accent on the packaging. Soft even light. No patient identifiers. No people."""},
+
+{"id":245,"date":"2026-12-08","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Complex primary TKA — managing significant coronal plane deformity",
+"caption":"""Total knee replacement in the presence of significant coronal plane deformity — whether varus or valgus — is among the more technically demanding scenarios in arthroplasty.
+
+Severe varus deformity (>15°) is the more common presentation in my practice and requires systematic medial soft tissue release, careful bone resection to equalise the gaps, and sometimes stems or augments to manage bone loss.
+
+Valgus deformity presents different challenges: the lateral structures are typically contracted, the lateral femoral condyle is often deficient, and the peroneal nerve can be at risk during correction.
+
+The overarching principle is the same regardless of direction: achieve balanced, stable flexion and extension gaps through releases — not through asymmetric bone resection that sacrifices the joint line.
+
+Pre-operative planning is essential:
+— Long-leg standing films to quantify the deformity
+— 3D CT planning where deformity is severe or unusual
+— Templating for potential augments or stemmed components
+— Consent that includes longer operative time and potential constrained implant need
+
+These cases should ideally go to high-volume arthroplasty surgeons — the learning curve for complex deformity is steep.
+
+[Reference: AOANJRR 2024 — complex TKA revision rates; Ranawat, CORR 1990 — valgus TKA principles]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-surgery/total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A varus knee deformity diagram — mechanical axis line drawn far medial of neutral — beside a corrected post-operative alignment image. Clean illustration style on white paper. Ship Cove blue (#A2B9D8) corrected axis line. Wide desk surface. Pen resting alongside. No people."""},
+
+{"id":246,"date":"2026-12-13","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Is inpatient rehabilitation still necessary after joint replacement?",
+"caption":"""The role of inpatient rehabilitation after joint replacement is one of the more actively debated topics in Australian arthroplasty practice — and the evidence has shifted significantly.
+
+A decade ago, a 1–2 week inpatient rehab stay following total hip or knee replacement was not uncommon. Today, the AOANJRR and multiple Australian RCTs support home-based physiotherapy as the default pathway for uncomplicated, community-dwelling patients.
+
+The key trial evidence (including the Australian-led RACS study and the Cochrane 2021 review on post-arthroplasty rehabilitation setting) consistently shows comparable functional outcomes at 12 months between inpatient rehab and home-based protocols — with home programs being more cost-effective and associated with higher patient satisfaction.
+
+Inpatient rehabilitation remains appropriate for specific groups:
+— Patients living alone without adequate support
+— Complex medical comorbidities requiring monitoring
+— Significant functional limitation or high-falls risk
+— Bilateral procedures
+— Patients in rural or remote areas
+
+The message for GPs: most patients will do well at home with a structured physiotherapy program. Where inpatient rehab is genuinely indicated, the referral pathway should be planned pre-operatively.
+
+[Reference: Cochrane Review 2021 — rehabilitation after TJR; AOANJRR 2024 — rehab patterns and outcomes]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A rehabilitation gym — parallel bars, exercise mats, step platform — clean and empty. Morning light through high windows. Ship Cove blue (#A2B9D8) exercise bands hanging neatly. The space between surgery and home, quiet and purposeful. No people."""},
+
+{"id":247,"date":"2026-12-15","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Pain management after TJR — transitioning away from opioids",
+"caption":"""Post-operative pain management after joint replacement has undergone a genuine revolution — and the shift away from opioids is one of the most positive developments in modern arthroplasty.
+
+The traditional model was opioid-centred: strong analgesics in the early post-operative period, tapering over weeks. The problem is well-documented: opioid dependence post-arthroplasty is a real and measurable complication, with Australian data showing that a proportion of patients who were opioid-naive before surgery are still using opioids at 12 months.
+
+Modern multimodal analgesia protocols at my institution:
+— Pre-operative: celecoxib, gabapentin, paracetamol — loading the pain pathways before the incision
+— Intra-operative: spinal anaesthesia, periarticular infiltration (ropivacaine, ketorolac, adrenaline)
+— Adductor canal block for TKR
+— Post-operative: regular paracetamol + celecoxib, ice, elevation — opioids as rescue only
+
+The result: most of my patients use minimal opioids post-operatively, and many use none at all.
+
+For GPs seeing patients in the first 2–6 weeks: if opioid requests are escalating rather than reducing, this warrants review. The clinical picture may reflect undertreated pain, poor technique, or early opioid dependence that needs specific management.
+
+[Reference: AOANJRR 2024 — opioid use post-arthroplasty; Kehlet & Dahl, Lancet 2003 — multimodal analgesia]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/patient-portal/pre-operative-information/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A pain scale diagram and an opioid tapering schedule side by side on a white desk. Lines, numbers, a step-down graph. Ship Cove blue (#A2B9D8) annotations. Clean flat light. No patient identifiers. No people. Post-operative analgesia, transitioning away from dependence."""},
+
+{"id":248,"date":"2026-12-17","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Year in review — key arthroplasty papers and practice changes from 2026",
+"caption":"""As 2026 draws to a close, it's worth pausing on some of the most meaningful shifts in arthroplasty practice over the past year.
+
+**The AOANJRR 2026 Annual Report** confirmed what many of us have seen clinically: cementless fixation continues to dominate in primary THR (>82%), kinematic alignment adoption is growing in TKR, and same-day discharge is no longer an exception.
+
+**Patient-reported outcome measures** continue to rise in importance. PROMs data from Australian registries now provides meaningful benchmarking against which individual practice can be measured — a development I actively welcome.
+
+**GLP-1 agonists and surgical timing** — the emergence of Ozempic and Wegovy in the patient population has created new clinical questions around muscle loss, nutritional status, and optimal timing of surgery in patients who are actively losing weight. The guidance is still evolving.
+
+**Sustainability in orthopaedics** — single-use instrument sets, sterilisation resource consumption, and implant packaging are all under increasing scrutiny. This will shape practice over the next decade.
+
+The fundamentals remain unchanged: careful patient selection, meticulous surgical technique, and a genuine partnership with patients and GPs around preparation and recovery. That doesn't change.
+
+[Reference: AOANJRR Annual Report 2026 — published December 2026]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A stack of arthroplasty journals open and spread across a wide desk — publication dates visible, cover images of joint anatomy. Ship Cove blue (#A2B9D8) page tabs. Warm late-afternoon desk light. A single pen. No people. The year in evidence, collected."""},
+
+{"id":249,"date":"2026-12-21","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Holiday period wound care — what to advise post-arthroplasty patients",
+"caption":"""The Christmas and New Year period presents specific challenges for patients recovering from recent joint replacement — and GPs are often the first point of contact.
+
+Post-arthroplasty wounds are typically healed by 3 weeks, but the first 6 weeks remain the window of highest infection risk. Patients who had surgery in November or early December will be in this window over the holiday period.
+
+Key messages to reinforce:
+
+**Wound care:** Wound should be dry and intact. Any ooze, redness extending beyond the wound edge, increasing warmth or fever warrants same-day contact with the surgical team or ED.
+
+**Activity:** Walking is good. Long haul flights, extended sitting and prolonged heat exposure (pools, spas) should be avoided in the first 6 weeks.
+
+**Alcohol:** Moderate consumption is not prohibited but affects sleep, hydration, pain perception and anticoagulation compliance. Worth mentioning.
+
+**Anticoagulation:** Aspirin or LMWH dosing must not be interrupted — this applies over Christmas too.
+
+**Escalation:** If in doubt, contact the surgical team. We would rather a call over Christmas than manage a late-presenting infection in January.
+
+GP practices often have reduced hours over the break — ensuring patients have a clear escalation pathway before they leave hospital is important.
+
+[Reference: AOANJRR 2024 — wound complication rates and timing; NICE NG157 — surgical site infections guidance]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/pre-op-information-for-total-hip-replacement-patients/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A wound care kit on a bathroom vanity — sterile gauze, antiseptic, wound closure strips — summer light through a window. Ship Cove blue (#A2B9D8) waterproof dressing packaging. Clean, domestic but clinical. No people. Holiday wound care, brought home."""},
+
+{"id":250,"date":"2026-12-23","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Merry christmas from Dr Chien-Wen Liew",
+"caption":"""To all my colleagues, GPs, allied health partners and team members — a very Merry Christmas and a restful break.
+
+This has been a year of meaningful advances in our field and a privilege to work alongside so many dedicated people in the care of our patients.
+
+For the patients who had surgery this year and are now moving through Christmas without the hip or knee pain that was holding them back — this is exactly why we do what we do.
+
+Wishing everyone a safe and joyful holiday season.
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement
+Orthopaedics 360 | Eastwood Private Hospital, Adelaide
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#MerryChristmas #Orthopaedics #Adelaide #Orthopaedics360 #JointReplacement #HipReplacement #KneeReplacement #HappyHolidays",
+"website_link":"https://www.drchienwenliew.com.au/profile/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A clinic entrance decorated for Christmas — a wreath on the glass door, warm fairy lights inside, through the window. Ship Cove blue (#A2B9D8) ribbon on the wreath. Soft gold evening light. No people. The quiet dignity of a clinical year ending well. Warm. Graceful."""},
+
+{"id":251,"date":"2026-12-28","day":"Monday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Reflecting on 2026 — what has genuinely changed in my arthroplasty practice",
+"caption":"""Reflecting on a year in practice always brings both pride and useful discomfort.
+
+Pride in the outcomes — patients returning to golf, walking their dogs, playing with grandchildren. Outcomes that can only be measured in the quality of someone's daily life, not in a registry dataset.
+
+Useful discomfort in the cases that challenged me. The revision that was more complex than anticipated. The wound that healed slowly. The patient whose expectations, despite careful pre-operative counselling, weren't fully met.
+
+These are the cases that drive you to read more carefully, plan more thoroughly, and communicate more clearly.
+
+What has genuinely changed in my practice this year:
+— Greater consistency in kinematic alignment delivery with PST
+— A refined prehabilitation conversation — earlier, more specific, more empowering
+— More structured post-operative PROMs review
+— A deeper appreciation of the GP partnership in preparing patients well
+
+The privilege of operating on people who trust you with something as fundamental as their mobility is not something I take lightly.
+
+Thank you to every patient, colleague and team member who has been part of this year.
+
+Looking forward to 2027.
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/profile/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A timber writing desk with a closed journal, a fountain pen, and a small framed certificate on the wall behind — blurred. Late-afternoon light. Ship Cove blue (#A2B9D8) journal cover. The year's end reflection, private and deliberate. No people. Stillness, accomplishment."""},
+
+{"id":252,"date":"2027-01-02","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Icing modalities after TKR",
+"caption":"""Ice is one of the simplest, most evidence-based and most underutilised tools in early knee replacement recovery — and how you apply it matters.
+
+Post-operative swelling and pain in the first 2 weeks after TKR can significantly impede rehabilitation. Effective cryotherapy reduces inflammatory mediators, limits swelling, reduces analgesic requirements and improves patient comfort.
+
+What the evidence supports:
+
+**Continuous cold therapy devices** (circulating ice water units) show superior outcomes to intermittent ice packs in multiple RCTs — reducing swelling, improving ROM and reducing opioid requirements at 72 hours. They are practical for home use and widely available in Australia.
+
+**Standard ice packs** remain effective when applied correctly: 20 minutes on, 40 minutes off, skin protected, multiple times per day.
+
+**Compression with cold** (cryo-cuff style devices) outperforms cold alone in several trials — the combined effect on swelling is additive.
+
+What to advise patients:
+— Ice consistently for the first 2 weeks, particularly after physio
+— Protect the skin — never apply ice directly
+— Elevation concurrent with icing maximises the effect
+
+GPs seeing TKR patients post-discharge should ask about ice use. Many patients stop icing too early because no one reinforced the message.
+
+[Reference: Kullenberg et al., Knee Surgery 2006; Singh et al., JBJS 2012 — cryotherapy in TKR]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/pre-op-information-for-total-knee-replacement-patients/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A cryotherapy ice pack beside a post-operative knee brace on a clean white surface. Clinical but domestic. Ship Cove blue (#A2B9D8) brace fabric. Cool-toned side light, white background. Simple, evidence-based recovery. No people. Ice, elevation, time."""},
+
+{"id":253,"date":"2027-01-05","day":"Tuesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"AOANJRR 2026 annual report — headline findings for total hip replacement",
+"caption":"""The AOANJRR 2026 Annual Report has been released — and the headline data for total hip replacement makes for reassuring and instructive reading.
+
+Key findings for THR in Australia (2026 data):
+
+📊 **Volume:** Australia performs approximately 57,000 total hip replacements annually — a figure that continues to rise with an ageing population.
+
+📊 **Fixation:** Cementless fixation now exceeds 82% of primary THR procedures. Cemented fixation shows a higher rate in the 80+ age group, consistent with evidence for better outcomes in low bone density patients.
+
+📊 **Approach:** The direct anterior approach now accounts for approximately 45% of all primary THR in Australia — a significant increase from 5 years prior.
+
+📊 **Survival:** 15-year implant survival rates for primary cementless THR remain above 94% — among the best in the world.
+
+📊 **Revision:** The most common revision indications remain aseptic loosening, periprosthetic fracture and instability. Infection remains low but is the most resource-intensive revision cause.
+
+The registry data is a genuine quality benchmark — and Australia's performance in joint replacement outcomes remains world-class.
+
+[Reference: AOANJRR Annual Report 2026 — Hip Replacement Chapter]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://www.drchienwenliew.com.au/hip/longevity-of-a-hip-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. An open AOANJRR annual report — hip replacement data tables visible, revision rates and implant survival curves. Ship Cove blue (#A2B9D8) cover colour. Warm desk light. A pen annotating the margins. No patient identifiers. No people. Registry evidence, directly engaged."""},
+
+{"id":254,"date":"2027-01-09","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"AOANJRR 2026 annual report — headline findings for total knee replacement",
+"caption":"""Following last week's post on hip replacement data, here are the headline AOANJRR 2026 findings for total knee replacement.
+
+Key findings for TKR in Australia (2026 data):
+
+📊 **Volume:** Approximately 62,000 total knee replacements performed annually in Australia — the most common major joint procedure performed.
+
+📊 **Alignment:** Kinematic and modified mechanical alignment together now account for over 35% of cases — a dramatic increase from near-zero a decade ago.
+
+📊 **Patient-reported outcomes:** Satisfaction rates for TKR remain lower than THR (approximately 80% vs 92% at 2 years) — a persistent gap that the field continues to work on.
+
+📊 **Implant survival:** 15-year revision rate for primary TKR remains below 6% — representing durable results across a large, heterogeneous patient population.
+
+📊 **Revision causes:** Aseptic loosening, infection and instability are the leading revision indications. Pain without loosening (unexplained) remains a challenging and relatively common reason for patient dissatisfaction without achieving registry-level revision.
+
+📊 **Young patients:** The under-65 cohort continues to grow — now representing over 30% of primary TKR. Implant longevity requirements for this group are significantly higher.
+
+[Reference: AOANJRR Annual Report 2026 — Knee Replacement Chapter]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #AOANJRR #ClinicalResearch #JointReplacement #EvidenceBasedMedicine #SurgicalOutcomes",
+"website_link":"https://www.drchienwenliew.com.au/knee/knee-replacement-techniques/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. An open AOANJRR annual report — knee replacement section, prosthesis survival curves and satisfaction data visible. Ship Cove blue (#A2B9D8) highlighted row. Clean desk, warm light. A pen. No identifiable data. No people. The knee data, given its due."""},
+
+{"id":255,"date":"2027-01-13","day":"Wednesday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Anticoagulation management in patients on warfarin undergoing TJR",
+"caption":"""Managing patients on long-term warfarin undergoing total joint replacement requires careful coordination between the surgical, medical and GP teams.
+
+Warfarin is still prescribed for a meaningful proportion of older patients — most commonly for atrial fibrillation, mechanical heart valves, or prior VTE. In this cohort, the standard approach is bridging anticoagulation — but the optimal bridging protocol remains an area of active debate.
+
+Current Australian practice (aligned with NPS MedicineWise and RACS guidance):
+
+**For AF patients:** NOAC substitution (where eligible) is increasingly preferred over warfarin bridging — simpler, lower bleeding risk, no need for INR monitoring.
+
+**For mechanical valve patients:** Warfarin cannot be substituted; LMWH bridging is required and must be coordinated carefully around the operative window.
+
+**INR timing:** Target INR <1.5 on the day of surgery. This typically requires warfarin cessation 5 days pre-operatively.
+
+**GP role:**
+— Document the indication for anticoagulation clearly in referrals
+— Facilitate pre-operative INR testing
+— Manage the post-operative resumption with the surgical team's guidance
+
+Communication between GP, cardiologist/haematologist and surgeon around the perioperative period is essential for these patients.
+
+[Reference: NPS MedicineWise — perioperative anticoagulation 2024; RACS surgical safety guidelines]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/pre-op-information-for-total-hip-replacement-patients/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A warfarin monitoring booklet beside an INR result printout and a surgical consent form. Three documents, one clinical decision. Ship Cove blue (#A2B9D8) folder. Clean white surface, flat light. No patient identifiers. No people. Anticoagulation management, plainly composed."""},
+
+{"id":256,"date":"2027-01-15","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Ceramic bearing surfaces in THA — what the 2026 registry data shows",
+"caption":"""Ceramic bearing surfaces in total hip replacement have become standard of care for most patients under 65 in my practice — and the 2026 AOANJRR data continues to support this.
+
+The core advantage of ceramic-on-highly-crosslinked-polyethylene (CoXLP) is dramatically reduced wear. Wear rates for modern ceramic-poly bearings are measured in microns per year — an order of magnitude lower than historical metal-on-polyethylene.
+
+The clinical translation:
+— Reduced osteolysis around the acetabular component
+— Lower aseptic loosening rates at long-term follow-up
+— Appropriate for young, active patients who will demand more from the implant
+
+The concerns about ceramic fracture are historically overstated. Modern 4th-generation alumina-zirconia ceramics have fracture rates below 0.005% in registry data — this is a negligible risk with modern ceramics.
+
+Squeaking remains a real but uncommon complication (~0.5–1%), associated with component malpositioning and edge loading rather than the material itself.
+
+For older, lower-activity patients, highly crosslinked polyethylene-on-polyethylene provides excellent wear properties at lower cost and simpler surgical technique.
+
+The bearing surface decision is always individualised — but for most patients under 70, ceramic gives the best long-term wear profile.
+
+[Reference: AOANJRR 2026 — bearing surface analysis; Hannouche et al., JBJS 2021 — ceramic bearings long-term data]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. Three ceramic femoral heads in graduating sizes — 28mm, 32mm, 36mm — arranged in a row on a black velvet surface. Studio light catches the alumina surface — glass-smooth, scratch-free. Ship Cove blue (#A2B9D8) background gradient. No people. Bearing surface excellence, material precision."""},
+
+{"id":257,"date":"2027-01-22","day":"Friday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Tibial component design in TKA — current options and evidence base",
+"caption":"""Tibial component design in total knee replacement has evolved considerably, and the choice between all-polyethylene and metal-backed tibia remains clinically relevant.
+
+**Metal-backed tibial components** are dominant in Australia — the AOANJRR 2026 data shows they account for over 95% of primary TKR. Advantages include modular liner exchange if wear occurs, and cement fixation that is well-understood.
+
+**All-polyethylene tibial components** have experienced a resurgence in interest, particularly in older, lower-activity patients. Multiple studies show comparable outcomes and lower revision rates in patients over 75, with the advantage of lower cost and simpler technique.
+
+**Cementless tibial fixation** is the area of most active development:
+— Titanium trabecular surfaces and hydroxyapatite coatings now show bone ingrowth equivalent to hip replacement
+— Avoiding cement removes the risk of cement debonding, a known failure mode
+— AOANJRR data shows comparable revision rates at 10 years for cementless vs cemented tibia in patients under 65
+
+**Symmetric vs asymmetric tibial trays:** Asymmetric trays provide better cortical coverage and more anatomical fit — particularly relevant for kinematic alignment.
+
+The tibial side of TKR gets less attention than the femoral side, but it's often where failures originate.
+
+[Reference: AOANJRR 2026 — tibial fixation analysis; Hennessy et al., JBJS 2023 — all-poly tibia outcomes]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/knee-surgery/total-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A tibial tray component — tibial baseplate and polyethylene insert separated — photographed on a white surface. Keel geometry visible from below. Macro light, crisp edges. Ship Cove blue (#A2B9D8) in the tibial tray colour. No people. Component design, functional anatomy."""},
+
+{"id":258,"date":"2027-01-24","day":"Sunday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"The young active patient requesting joint replacement — how I approach this conversation",
+"caption":"""The under-55 patient requesting joint replacement is one of the most nuanced consultations in arthroplasty — and it comes up more frequently than ever.
+
+AOANJRR 2026 data shows the under-65 cohort now represents over 30% of primary TKR and 25% of THR — proportions that have increased year on year.
+
+The clinical tension is real:
+On one hand, implants have a finite lifespan. A 50-year-old with a knee replacement will almost certainly face revision surgery.
+On the other hand, years of severe pain, disability, and declining physical activity carry their own health consequences — metabolic, cardiovascular and psychological.
+
+My approach to this conversation:
+
+**Non-surgical optimisation first** — I ask whether everything reasonable has been tried: physiotherapy, weight management, injections, activity modification.
+
+**Realistic implant longevity counselling** — not pessimistic, but honest. Modern implants last 15–25 years in well-selected younger patients.
+
+**Activity discussion** — I do not restrict patients to 'low-impact only' as a blanket rule. High-functioning recovery is increasingly achievable.
+
+**Shared decision-making** — this is their life, their pain, their values. My role is to inform, not gatekeep.
+
+The patient who is 52, exhausted, unable to work, and has failed all conservative management deserves the same access to relief as someone who is 70.
+
+[Reference: AOANJRR 2026 — young patient outcomes; Nwachukwu et al., JBJS 2023 — younger arthroplasty patients]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/blog/am-i-too-old-for-a-hip-or-knee-replacement/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A bicycle helmet, trail shoe, and a hip implant model arranged on a timber surface — the active lifestyle and the prosthetic, together. Ship Cove blue (#A2B9D8) helmet colour. Natural daylight, warm. No people. The young patient's expectation, visible without words."""},
+
+{"id":259,"date":"2027-01-28","day":"Thursday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Pre-operative anaemia in TJR — impact on outcomes and optimisation strategies",
+"caption":"""Pre-operative anaemia is one of the most common and most underaddressed modifiable risk factors in elective joint replacement — and GPs are ideally placed to identify and treat it.
+
+Australian studies estimate that 15–25% of patients presenting for total hip or knee replacement have pre-operative haemoglobin below 130g/L. This significantly increases the risk of peri-operative transfusion, post-operative fatigue, delayed recovery and hospital length of stay.
+
+The most common causes in this patient population:
+— Iron deficiency anaemia (most common, most treatable)
+— Anaemia of chronic disease
+— B12/folate deficiency
+— Chronic kidney disease
+
+**What GPs can do pre-referral or after referral:**
+— Check FBE and iron studies at the time of orthopaedic referral
+— Initiate IV iron infusion for iron deficiency (oral iron is often poorly tolerated and absorbed in this population)
+— Target Hb >130g/L (ideally >140g/L) 4–6 weeks before surgery
+— Communicate the result and treatment to the surgical team
+
+Transfusion carries real risks — infection, transfusion reactions, longer stays. Pre-operative optimisation is safer, cheaper and better for patients.
+
+[Reference: AIHW 2024 — anaemia prevalence in surgical patients; Patient Blood Management Guidelines NHMRC 2023]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://www.drchienwenliew.com.au/patient-portal/pre-op-information-for-total-hip-replacement-patients/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A haemoglobin result printout — low Hb circled in red — beside an iron infusion IV bag. Pre-operative optimisation, two tools. Ship Cove blue (#A2B9D8) IV line colour. Clean clinical surface, flat even light. No patient identifiers. No people."""},
+
+{"id":260,"date":"2027-01-30","day":"Saturday","platform":"LinkedIn","li_audience":"",
+"format":"Post","topic":"Elective arthroplasty in 2027 — what GPs and patients should know about access",
+"caption":"""As we move into 2027, it's worth reflecting on where elective arthroplasty sits in the Australian healthcare landscape — and what patients and GPs should know about access, timing and preparation.
+
+**Demand continues to grow.** An ageing population, rising rates of obesity-driven osteoarthritis, and increasing activity expectations in older Australians mean the demand for joint replacement is not declining.
+
+**Private wait times remain manageable.** For patients with appropriate private health cover, access to a high-volume surgeon typically allows surgery within 4–12 weeks of consultation — significantly faster than the public system, where median wait times exceed 200 days nationally.
+
+**Technology is improving, not complicating.** Kinematic alignment, patient-specific instrumentation and robotic assistance have improved the consistency of outcomes without dramatically increasing complexity.
+
+**What patients should do now if considering surgery in 2027:**
+— Book a GP referral — get the process started
+— Have pre-operative bloods, X-rays and a DEXA if over 65
+— Begin prehabilitation — strength, weight, nutrition all matter
+— Choose your surgeon carefully — volume and specialisation matter
+
+I'm available for new consultations in 2027. Happy to accept referrals.
+
+[Reference: AIHW Elective Surgery Waiting Times Report 2025–26; AOANJRR 2026]
+
+Dr Chien-Wen Liew
+Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
+drchienwenliew.com.au""",
+"hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #GPEducation #PrimaryCare #SurgicalReferral #AustralianMedicine #AOANJRR",
+"website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
+"nanobanana_prompt":"""Wide 16:9 editorial. A GP referral letter and a surgical information pamphlet side by side on a wide desk. Clean heading fonts, no personal data visible. Ship Cove blue (#A2B9D8) letterhead accent. Warm morning light. A coffee cup slightly out of focus. The GP-surgeon conversation, 2027. No people."""},
+
+{"id":275,"date":"2026-05-05","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Patient Specific Technology for Total Hip Replacements",
+"caption":"""Every hip replacement I perform begins weeks before the patient enters the operating theatre.
+
+Using 3D CT imaging, I perform your surgery virtually — planning the exact size, position, and orientation of each implant component before making a single cut.
+
+Then a custom jig, manufactured specifically for your anatomy, guides every step of the actual procedure. And during surgery, real-time intraoperative X-ray confirms the final position before wound closure.
+
+This level of precision was impossible a decade ago.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#patientspecifictechnology #hipreplacement #3dplanning #orthopaedics #hipresurfacing #adelaideorthopaedics #drchienwenliew #orthopaedics360",
+"website_link":"https://drchienwenliew.com.au/blog/enhanced-accuracy-during-hip-replacement-surgery/","image_file":"2026-05-05-instagram.jpg",
+"nanobanana_prompt":"""Close-up of a detailed 3D anatomical planning model or engineering diagram of a hip joint, no people. Clean white clinical surface. Soft directional light. Precision instruments nearby, out of focus. Technical, exact, high-craft atmosphere. Ship Cove blue (#A2B9D8) accents."""},
+
+{"id":276,"date":"2026-05-08","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"No restrictions. Walking the same day. This is what modern hip replacement looks like.",
+"caption":"""The hip replacement of 20 years ago required a long recovery with strict movement restrictions — no bending, no crossing your legs, no driving for months.
+
+That's not the operation I perform.
+
+The direct anterior approach means muscles are moved aside, not cut. Patients walk the same day. Drive at 2 weeks. Sit normally in any chair.
+
+Swipe to see what the recovery actually looks like 👇
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hipreplacement #directanteriorapproach #orthopaedicsurgery #hippain #jointreplacementsurgery #adelaideorthopaedics #drchienwenliew #hipreplacementsurgeon",
+"website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement/","image_file":"2026-05-08-instagram.jpg",
+"nanobanana_prompt":"""Serene private hospital recovery room, no people. Warm afternoon light through large windows onto crisp white bed linen. White orchid on the windowsill. Clean, calm, reassuring. Soft depth of field. Ship Cove blue tones throughout."""},
+
+{"id":277,"date":"2026-05-12","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Why I don't cut a single muscle to replace your hip.",
+"caption":"""The difference between surgical approaches isn't just technical — it changes your recovery.
+
+The direct anterior approach runs between muscles that are supplied by different nerves, meaning those muscles are at much lower risk of injury. No cutting. No detaching.
+
+Here's what that means for your recovery 👇
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#directanteriorapproach #hipreplacement #musclesparingshipsurgery #hiprecovery #orthopaedics #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/anterior-approach-is-it-right-for-you/","image_file":"2026-05-12-instagram.jpg",
+"nanobanana_prompt":"""Bright, clean orthopaedic clinic corridor. No people. Modern architecture, polished floor reflecting soft natural light. Ship Cove blue accent walls. Warm but clinical. Wide angle, symmetrical composition."""},
+
+{"id":278,"date":"2026-05-15","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Your hip replacement isn't meant to last 10 years. It's meant to last your lifetime.",
+"caption":"""The '10–15 year' figure you may have heard for hip replacement longevity is outdated.
+
+Data from the Australian Joint Replacement Registry — covering over 796,000 hip replacements — tells a very different story.
+
+91.6% of implants are still functioning at 20 years. And with modern materials and technique, that figure continues to improve.
+
+If you've been told to 'wait until you're older', it may be worth getting a second opinion.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hipreplacement #hipimplant #jointreplacement #orthopaedics #longevity #hiparthritis #australianorthopaedics #drchienwenliew #orthopaedics360",
+"website_link":"https://drchienwenliew.com.au/blog/longevity-of-a-hip-replacement/","image_file":"2026-05-15-instagram.jpg",
+"nanobanana_prompt":"""Macro close-up of a hip prosthesis implant on a clean white surface. Titanium and ceramic components. Medical photography style. Clean clinical light. No people. Bokeh background. Professional scientific feel."""},
+
+{"id":279,"date":"2026-05-19","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Kinematic Alignment for Total Knee Replacements",
+"caption":"""Most knee replacements aim to make your leg mechanically straight. Kinematic alignment takes a fundamentally different approach.
+
+The goal is to match the position of the implant to your own pre-arthritic knee anatomy — not a textbook ideal, but your individual geometry.
+
+Every knee is different. Even your left and right differ. The technique has been studied for over two decades, and when coupled with a medial pivot implant design, it aims to restore the natural feel and motion of your knee.
+
+Here's what that means in practice.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#kinematicalignment #kneereplacement #patientspecific #orthopaedics #kneesurgery #medialpivot #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/kinematic-alignment-for-total-knee-replacements/","image_file":"2026-05-19-instagram.jpg",
+"nanobanana_prompt":"""Close-up of precise architectural or engineering blueprints showing symmetrical leg alignment geometry. No people. Clean white background. Technical drawing lines and measurements visible. Professional, bespoke, precision-engineered atmosphere. Ship Cove blue (#A2B9D8) accents."""},
+
+{"id":280,"date":"2026-05-22","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Medial pivot designs for knee replacements",
+"caption":"""A normal knee doesn't move like a simple hinge.
+
+It bends, straightens, rotates, opens and closes laterally — and is tighter on the medial side than the lateral. This is what a medial pivot implant is designed to replicate.
+
+When combined with kinematic alignment, the result is a knee replacement built around how your knee actually moves — not around a simplified mechanical model.
+
+This is the implant design I use for every total knee replacement.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#medialpivot #kneereplacement #kinematicalignment #kneesurgery #orthopaedics #patientspecific #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/knee-replacement-techniques/","image_file":"2026-05-22-instagram.jpg",
+"nanobanana_prompt":"""Abstract geometric diagram or physical model suggesting rotational movement and joint mechanics. Clean minimal surface, no people. Soft directional light. Scientific, elegant, precise. Warm cream tones with Ship Cove blue accents."""},
+
+{"id":281,"date":"2026-05-26","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Can you run after hip replacement? The honest answer most surgeons won't give you.",
+"caption":"""The standard advice is: avoid long-distance running on hard surfaces.
+
+But that's not the whole story.
+
+About 75% of patients who wanted to return to running after hip replacement actually did. Some people have run very long distances on a single hip replacement for over 20 years.
+
+The truth is: it depends on you — your running mechanics, your muscle strength, your implant, and how you run.
+
+This isn't a blanket yes or no. It's an individual conversation.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#runningafterhipreplacement #hipreplacement #activerecovery #orthopaedics #hiprecovery #sportsorthopaedics #drchienwenliew #jointreplacement",
+"website_link":"https://drchienwenliew.com.au/blog/can-i-run-after-a-total-hip-replacement/","image_file":"2026-05-26-instagram.jpg",
+"nanobanana_prompt":"""Empty running track at golden hour. No people. Long straight track disappearing into soft bokeh light. Warm amber and blue tones. Sense of possibility and open horizon. Track markings visible in foreground."""},
+
+{"id":282,"date":"2026-05-29","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Hour by hour: exactly what happens the day of your hip replacement.",
+"caption":"""For most patients, surgery day is a mix of nerves and the unknown.
+
+Here is exactly what happens — from the moment you arrive to your first steps in recovery.
+
+Knowing what to expect makes a real difference. Save this for yourself or someone preparing for surgery. 📌
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hipreplacement #surgeryprep #surgeryday #whattoexpect #orthopaedics #hiprecovery #drchienwenliew #adelaideorthopaedics #patienteducation",
+"website_link":"https://drchienwenliew.com.au/blog/what-happens-on-the-day-of-a-hip-or-knee-replacement/","image_file":"2026-05-29-instagram.jpg",
+"nanobanana_prompt":"""Bright private hospital corridor leading to theatre, no people. Clean polished floors, warm lighting from recessed ceiling lights. Double doors slightly ajar at end of corridor. Calm, professional, reassuring atmosphere."""},
+
+{"id":283,"date":"2026-06-02","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"What you eat in the 4 weeks before surgery can change your outcome.",
+"caption":"""Nutrition is one of the most overlooked parts of preparing for joint replacement surgery.
+
+Your body needs specific nutrients to heal wounds, recover from anaesthetic, rebuild muscle, and support immune function.
+
+Here's what I tell every patient in the lead-up to surgery. Save this if you or someone you love has surgery coming up. 📌
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#surgerynustrition #prehabilitation #hipreplacement #kneereplacement #surgeryprep #proteinintake #drchienwenliew #orthopaedics #healthspan",
+"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-02-instagram.jpg",
+"nanobanana_prompt":"""Overhead flat lay of nutritious foods on a clean white marble surface. Salmon fillet, eggs, Greek yoghurt, leafy greens, nuts, lemon. No people. Warm natural light. Clean food photography style. No processed food."""},
+
+{"id":284,"date":"2026-06-05","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"5 risks of hip replacement surgery — and exactly how each one is managed.",
+"caption":"""Like all operations, hip replacement carries risks. Understanding them — and what we do to reduce each one — helps you make an informed decision.
+
+These are the 5 most important risks, in plain language.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hipreplacement #surgerysafety #orthopaedics #risksofhipreplacement #patienteducation #drchienwenliew #adelaideorthopaedics #jointreplacement",
+"website_link":"https://drchienwenliew.com.au/blog/total-hip-replacement-risk-factors/","image_file":"2026-06-05-instagram.jpg",
+"nanobanana_prompt":"""Clean orthopaedic surgery setting without people. Sterile instrument tray with gleaming surgical tools. Operating theatre lights visible above, out of focus. Professional clinical photography. Blue-white light."""},
+
+{"id":285,"date":"2026-06-09","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Your surgeon trains 8 times a week. Here's why that matters for you.",
+"caption":"""Orthopaedic surgery is a physical craft as much as an intellectual one.
+
+It demands standing for hours, moving with millimetre precision, and making complex decisions while managing multiple variables simultaneously.
+
+I train for agility. I run. I lift. Not as a hobby — as professional preparation.
+
+When I push through a hard interval session, I am rehearsing the same qualities I rely on in the operating theatre: stamina, composure under fatigue, and focus when things get difficult.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#surgeonlife #orthopaedicsurgeon #physicianhealth #VO2max #healthspan #hyrox #drchienwenliew #performancemedicine #surgeonfitness",
+"website_link":"https://drchienwenliew.com.au/blog/why-a-surgeon-trains-like-an-athlete/","image_file":"2026-06-09-instagram.jpg",
+"nanobanana_prompt":"""Empty Hyrox-style training facility or athletic track at dawn. No people. Dramatic low raking light across the floor. Rowing machine or sleds in background, out of focus. Aspirational, disciplined, high-performance atmosphere."""},
+
+{"id":286,"date":"2026-06-12","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Knee replacements last 10-15 years only...right? WRONG",
+"caption":"""The '10–15 year lifespan' figure comes from early-generation knee implants — basic materials with genuine limitations in wear and fixation.
+
+That generation is over.
+
+Modern knee replacements use cobalt chromium alloys with a surface so smooth it reduces wear particle generation dramatically. The polyethylene bearing is highly cross-linked, engineered to resist wear at a molecular level.
+
+Australian Joint Replacement Registry data now shows the vast majority of knee replacements functioning well beyond 15 years. If you've been told to wait — it's worth understanding what the current evidence actually says.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#kneereplacement #kneereplacementlongevity #orthopaedics #kneemyths #jointreplacement #cobaltchromium #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/what-is-my-hip-or-knee-replacement-made-of/","image_file":"2026-06-12-instagram.jpg",
+"nanobanana_prompt":"""Macro close-up of a knee prosthesis — cobalt chromium femoral component and polyethylene insert on a clean white clinical surface. No people. Sharp focus on materials texture. Medical photography lighting. Scientific, precise, reassuring."""},
+
+{"id":287,"date":"2026-06-16","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Kneeling after a total knee replacement. Yes or No?",
+"caption":"""For years, kneeling after knee replacement was considered impossible.
+
+That's no longer accurate.
+
+With the right incision placement, approximately 80% of our patients can now kneel after their procedure. The implant itself is not the limiting factor — kneeling places no risk of damage to a knee replacement.
+
+The key is the incision. Cuts placed at the front of the knee, over the kneecap, create scar tissue that makes kneeling uncomfortable. The lateral curved incision I use avoids this entirely.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#kneereplacement #kneeling #kneereplacementrecovery #orthopaedics #lateralincision #kneesurgery #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/can-i-kneel-after-a-total-knee-replacement/","image_file":"2026-06-16-instagram.jpg",
+"nanobanana_prompt":"""Person's lower legs in a garden — kneeling beside plants, no face visible. Warm natural light. Lifestyle photography feel. Clean outdoor setting. Hopeful, active, functional. No clinical elements. Soft bokeh background."""},
+
+{"id":288,"date":"2026-06-19","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Hallmark symptoms of hip osteoarthritis",
+"caption":"""Hip arthritis doesn't always feel like hip pain.
+
+The classic presentation is groin pain — but it frequently radiates to the buttock, lateral thigh, and even the knee. Many patients are surprised to learn their knee pain is actually coming from the hip.
+
+The other hallmarks: pain that's worse getting out of a car, rising from a low chair, or walking on uneven ground. And night pain — pain that wakes you from sleep — is a red flag that the joint has reached a significant stage.
+
+Here's what to look for.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hiparthritis #hiparthritissymptoms #hippain #hipreplacement #orthopaedics #groinpain #adelaideorthopaedics #drchienwenliew",
+"website_link":"https://drchienwenliew.com.au/blog/hip-arthritis/","image_file":"2026-06-19-instagram.jpg",
+"nanobanana_prompt":"""Warm lifestyle scene — person's lower body walking slowly on an uneven cobblestone path, no face visible. Warm golden afternoon light. Suggests the challenge and effort of movement. Dignified, human, relatable. No clinical elements. Soft bokeh background."""},
+
+{"id":289,"date":"2026-06-23","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Knee arthritis isn't just knee pain. Here's what it does to your whole body.",
+"caption":"""Most people think of knee arthritis as pain in the knee.
+
+But when the knee can't straighten fully, a fixed flexion deformity develops — effectively shortening the leg. This puts strain on the hip, the lower back, and the entire kinetic chain.
+
+When the knee can't bend past 90 degrees, stairs, cars, and low chairs become impossible.
+
+Knee arthritis is a whole-body condition. Here's what you need to know.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#kneearthritis #kneepain #kneereplacement #orthopaedics #adelaideorthopaedics #drchienwenliew #kneepain #jointpain #kneerecovery",
+"website_link":"https://drchienwenliew.com.au/blog/knee-arthritis/","image_file":"2026-06-23-instagram.jpg",
+"nanobanana_prompt":"""Empty walking path through a lush park at golden hour. No people. Stone path curves gently through green trees. Warm amber light. Sense of life and mobility. Peaceful, aspirational. No clinical elements."""},
+
+{"id":290,"date":"2026-06-26","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Week by week: what knee replacement recovery actually looks like.",
+"caption":"""Knee replacement recovery is not a straight line — but it follows a predictable pattern.
+
+Here's what to expect week by week, from your first steps in hospital to walking confidently at 12 months.
+
+Save this for yourself or someone preparing for surgery. 📌
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#kneerecovery #kneereplacement #orthopaedics #kneereplacementrecovery #adelaideorthopaedics #drchienwenliew #kneesurgery #jointreplacement",
+"website_link":"https://drchienwenliew.com.au/blog/total-knee-replacement-recovery/","image_file":"2026-06-26-instagram.jpg",
+"nanobanana_prompt":"""Sunlit physiotherapy room with parallel bars, no people. Clean light wood floors, large windows with garden view. Warm, hopeful atmosphere. Medical yet inviting. Depth of field."""},
+
+{"id":291,"date":"2026-06-30","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Nutrition and Hip and Knee Replacements",
+"caption":"""What you eat in the weeks before joint replacement surgery is not a minor detail.
+
+Your nutritional status directly influences wound healing, muscle recovery, infection risk, and how quickly you return to function.
+
+Patients who go into surgery malnourished or protein-deficient consistently show slower recovery and poorer wound healing. The good news: nutrition is one of the most modifiable factors you control. Protein is the key and often it's coupled with creatine and glutamine for more benefits. There are some preparations specifically made for peri-surgery nutrition.
+
+Here's exactly what I tell every patient preparing for hip or knee replacement.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#surgerynutrition #prehabilitation #hipreplacement #kneereplacement #proteinintake #surgeryprep #adelaideorthopaedics #drchienwenliew #healthspan",
+"website_link":"https://drchienwenliew.com.au/blog/nutrition-and-joint-replacements/","image_file":"2026-06-30-instagram.jpg",
+"nanobanana_prompt":"""Overhead flat lay of nutritious whole foods on a clean white marble surface. Salmon, eggs, Greek yoghurt, leafy greens, nuts, lemon, glass of water. No people. Warm natural light. Clean food photography style. No processed food."""},
+
+{"id":292,"date":"2026-07-03","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Why do we verify a hip replacement position during surgery",
+"caption":"""Before I close the wound on every hip replacement, I take an intraoperative X-ray.
+
+This is not routine practice everywhere — but for me, it's non-negotiable.
+
+Cup position, stem alignment, and leg length are all confirmed in real time before any implant is permanently secured. If something is not optimal, I adjust it then and there.
+
+Our surgical table is carbon fibre specifically to allow this scan without obstruction. The few minutes it takes can change the outcome for years.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#hipreplacement #intraoperativexray #surgeryprecision #orthopaedics #anteriortapproach #adelaideorthopaedics #drchienwenliew #patientspecific",
+"website_link":"https://drchienwenliew.com.au/blog/enhanced-accuracy-during-hip-replacement-surgery/","image_file":"2026-07-03-instagram.jpg",
+"nanobanana_prompt":"""Clean, empty operating theatre interior — no people. Carbon fibre surgical table under bright theatre lights. Sterile blue drapes visible, surgical instrument tray in background out of focus. Clinical, precise, professional. Soft blue-white light."""},
+
+{"id":293,"date":"2026-07-07","day":"Tuesday","platform":"Instagram","li_audience":"",
+"format":"Post","topic":"Stem cells for arthritis: what the science actually shows (not what the ads say).",
+"caption":"""Stem cell therapy for knee arthritis sounds compelling — and the marketing is everywhere.
+
+But when placebo-controlled trials are actually conducted, the results are sobering.
+
+A systematic review and meta-analysis of multiple randomised controlled trials found no major improvement in pain or function compared to saline injection.
+
+The technology is fascinating. The science continues to develop. But it is not yet a proven treatment — and routine clinical use is estimated to be 5–10 years away.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#stemcells #kneearthritis #evidencebased #orthopaedics #medicalmyths #kneepain #drchienwenliew #orthopaedics360 #kneejoint",
+"website_link":"https://drchienwenliew.com.au/blog/stem-cells-current-research-saying/","image_file":"2026-07-07-instagram.jpg",
+"nanobanana_prompt":"""Scientific laboratory setting, no people. Microscope on clean lab bench, soft blue-white light. Test tubes in rack, bokeh background. Scientific, rigorous, thoughtful atmosphere. No people, no clinical drama."""},
+
+{"id":294,"date":"2026-07-10","day":"Friday","platform":"Instagram","li_audience":"",
+"format":"Carousel","topic":"Pre-hab. How to prepare your body for a hip or knee replacement",
+"caption":"""Surgery can replace the joint. What you do in the weeks beforehand determines what you get out of it.
+
+Prehabilitation — structured preparation before a joint replacement — is one of the most underutilised tools patients have. The evidence is clear: patients who go into surgery stronger, better nourished, and better prepared recover faster and achieve better results.
+
+Here are the four things that consistently make the biggest difference.
+
+Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
+drchienwenliew.com.au 🔗 Link in bio""",
+"hashtags":"#prehabilitation #surgeryprep #hipreplacement #kneereplacement #strengthtraining #patienteducation #adelaideorthopaedics #drchienwenliew #jointreplacementprep",
+"website_link":"https://drchienwenliew.com.au/blog/patient-factors-in-outcomes/","image_file":"2026-07-10-instagram.jpg",
+"nanobanana_prompt":"""Peaceful outdoor morning scene — a yoga mat or exercise mat set up on a timber deck, no people. Lush green garden in soft bokeh background. Morning light. Aspirational, active, healthy lifestyle feel. No clinical elements."""},
 ]

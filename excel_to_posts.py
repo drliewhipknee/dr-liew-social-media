@@ -45,6 +45,12 @@ def escape_for_python(text: str) -> str:
     return text
 
 
+def escape_for_inline(text: str) -> str:
+    """Make a string safe for use inside regular double-quoted Python strings.
+    Escapes any embedded double-quote characters."""
+    return text.replace('"', '\\"')
+
+
 def row_to_dict(headers, row) -> dict:
     d = {}
     for h, cell in zip(headers, row):
@@ -65,13 +71,20 @@ def build_post_entry(d: dict) -> str:
     hashtags        = d.get("Hashtags", "")
     website_link    = d.get("Website Link", "")
     image_file      = d.get("Image File", "")
-    image_prompt    = d.get("Image Prompt", "")
+    # Use "Kie.ai Image Description" (col 13) as the primary prompt.
+    # Fall back to "Image Prompt" (col 11) for any posts that don't have one yet.
+    kie_desc        = d.get("Kie.ai Image Description", "").strip()
+    image_prompt    = d.get("Image Prompt", "").strip()
+    prompt          = kie_desc if kie_desc else image_prompt
 
     caption_escaped = escape_for_python(caption)
-    prompt_escaped  = escape_for_python(image_prompt)
+    prompt_escaped  = escape_for_python(prompt)
+    # Escape any embedded double-quotes in fields written as inline "..." strings
+    topic_escaped   = escape_for_inline(topic)
+    fmt_escaped     = escape_for_inline(fmt)
     lines = [
         f'{{"id":{post_id},"date":"{date}","day":"{day}","platform":"{platform}","li_audience":"{li_audience}",',
-        f'"format":"{fmt}","topic":"{topic}",',
+        f'"format":"{fmt_escaped}","topic":"{topic_escaped}",',
         f'"caption":"""{caption_escaped}""",',
         f'"hashtags":"{hashtags}",',
         f'"website_link":"{website_link}","image_file":"{image_file}",',
@@ -142,7 +155,22 @@ def main():
     else:
         print("WARNING: posts_data2.py has syntax errors:", r2.stderr[:200])
 
-    print("\n✅ Done! Run 'Push Data Fixes to GitHub.command' to push changes.")
+    # Always regenerate the HTML Post Editor so it stays in sync with Excel
+    print("\nRegenerating Social Media Post Editor HTML...")
+    try:
+        html_script = SCRIPT_DIR.parent / "generate_html.py"
+        if not html_script.exists():
+            # Try same directory
+            html_script = SCRIPT_DIR / "generate_html.py"
+        r3 = subprocess.run([sys.executable, str(html_script)], capture_output=True, text=True)
+        if r3.returncode == 0:
+            print(r3.stdout.strip() or "  ✅  Social Media Post Editor.html updated")
+        else:
+            print(f"  ⚠️  HTML regeneration failed: {r3.stderr[:200]}")
+    except Exception as e:
+        print(f"  ⚠️  Could not regenerate HTML: {e}")
+
+    print("\n✅ Done! Run 'Push Images to GitHub.command' to push changes.")
 
 
 if __name__ == "__main__":

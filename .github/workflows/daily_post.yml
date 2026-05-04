@@ -1,4 +1,4 @@
-name: LinkedIn Post (8:00am ACST)
+name: LinkedIn Post (8:00am ACST — Daily check)
 
 on:
   schedule:

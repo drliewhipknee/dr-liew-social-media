@@ -293,7 +293,7 @@ def post_instagram(post: dict, images: list[Path], dry_run: bool) -> str | None:
 # LINKEDIN  (new Posts API — /rest/posts, LinkedIn-Version 202401)
 # ══════════════════════════════════════════════════════════════════════════════
 
-LI_VERSION = "202603"
+LI_VERSION = "202604"
 
 
 def _li_get_member_urn(token: str) -> str:
@@ -358,7 +358,7 @@ def _li_post_new(author_urn: str, token: str, caption: str, image_path: Path | N
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json",
-        "LinkedIn-Version": "202604",
+        "LinkedIn-Version": LI_VERSION,
         "X-Restli-Protocol-Version": "2.0.0",
     }
 
@@ -411,6 +411,9 @@ def post_linkedin(post: dict, images: list[Path], dry_run: bool) -> dict:
         caption += "\n\n" + post["hashtags"]
     if post.get("website_link"):
         caption += f"\n\n{post['website_link']}"
+
+    # LinkedIn REST API truncates text at bullet characters (•) — replace with dashes
+    caption = caption.replace("•", "-")
 
     audience = (post.get("li_audience") or "Both").lower()
     image    = images[0] if images else None
