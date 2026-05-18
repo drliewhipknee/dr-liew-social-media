@@ -187,7 +187,13 @@ For GPs referring patients for hip replacement: asking your patient's surgeon ho
 
 Dr Chien-Wen Liew
 Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
-drchienwenliew.com.au""",
+drchienwenliew.com.au
+
+— PATIENT-SPECIFIC TECHNOLOGY AND FLUOROSCOPY: THE IDEAL COMBINATION —
+
+Intraoperative fluoroscopy becomes even more powerful when combined with pre-operative patient-specific planning. CT-based 3D templating allows the surgeon to define precise cup inclination, anteversion, offset, and leg length targets before the patient enters the operating theatre.
+
+When that pre-operative plan is then verified in real time with fluoroscopy, the result is a closed-loop system: plan precisely, execute precisely, confirm precisely. Deviations from the pre-operative plan are identified and corrected before closure. In our practice, this combination — patient-specific CT planning followed by intraoperative fluoroscopic verification — represents the current standard for primary THA.""",
 "hashtags":"#TotalHipReplacement #HipArthroplasty #IntraoperativeImaging #Fluoroscopy #OrthopedicSurgery #AOANJRR #AdelaideSurgeon #ComponentPositioning #HipSurgery #Orthopaedics #JointReplacement #SurgicalPrecision #MedicalEducation #GPReferral",
 "website_link":"https://www.drchienwenliew.com.au/hip-surgery/frequently-asked-questions-before-total-hip-replacement-surgery/","image_file":"",
 "nanobanana_prompt":"""Wide 16:9 editorial. A radiolucent operating table rail with a sterile drape at the edge — no patient, no surgeon. Beside it, a C-arm fluoroscopy unit in the middle-ground, soft-focused. OR theatre lighting from above, casting clean shadows. Deep Navy (#0B1F3A) background beyond the lit field. No people. Precision atmosphere."""},
@@ -241,7 +247,16 @@ Pre-operative PROM scores have become one of the strongest predictors of post-op
 
 When assessing readiness for referral, functional limitation as reported by the patient is as valid an indicator as X-ray grade. A patient with OA grade 2 radiographically but Oxford Knee Score of 18 is functionally impaired and deserves orthopaedic assessment.
 
-drchienwenliew.com.au""",
+drchienwenliew.com.au
+
+**Oxford Hip Score and Oxford Knee Score — available on our website**
+
+For GPs assessing functional severity before referral, the Oxford Hip Score (OHS) and Oxford Knee Score (OKS) are validated, 12-item patient-completed questionnaires that correlate strongly with operative decision-making. A score below 27/48 on either instrument is associated with significant functional impairment and generally warrants specialist review.
+
+Both scoring tools are available directly on our website under the Hip Replacement and Knee Replacement procedure pages — patients can complete these before their consultation to give us a pre-visit functional baseline.
+
+Hip: https://drchienwenliew.com.au/hip-surgery/total-hip-replacement/
+Knee: https://drchienwenliew.com.au/knee-surgery/total-knee-replacement/""",
 "hashtags":"#Orthopaedics #Arthroplasty #JointReplacement #TotalHipReplacement #TotalKneeReplacement #SurgicalTechnique #ClinicalEvidence #AOANJRR",
 "website_link":"https://drchienwenliew.com.au/learn-hip/","image_file":"",
 "nanobanana_prompt":"""Wide 16:9 editorial. A printed patient outcome questionnaire on a clean white clinical desk — pen resting across it, uncapped. Soft window light from the left. Blurred laptop screen in background with a faint graph visible. Ship Cove blue (#A2B9D8) folder beside the form. No people. Data, care, evidence. Simple and composed."""},
@@ -298,7 +313,7 @@ Orthopaedic Surgeon — Hip & Knee Replacement | Adelaide
 drchienwenliew.com.au""",
 "hashtags":"#KinematicAlignment #KneeReplacement #TotalKneeArthroplasty #TKR #JointReplacement #OrthopedicSurgery #AOANJRR #KneeAlignment #ArthroplastyDebate #AdelaideSurgeon #Orthopaedics #KneeImplant #MedactagMK #PersonalisedKnee #GPReferral",
 "website_link":"https://www.drchienwenliew.com.au/knee-conditions/knee-arthritis/","image_file":"",
-"nanobanana_prompt":"""Wide 16:9 editorial. A total knee replacement tibial component and femoral component arranged on a pristine white surface — the polyethylene insert between them. Macro lens, soft side light picking up machined edges. Ship Cove blue (#A2B9D8) depth in the background bokeh. No people. Mechanical precision, wide-format negative space."""},
+"nanobanana_prompt":"""Wide 16:9 editorial. LEFT HALF: Abstract 3D render of a ball-and-socket joint — smooth ceramic sphere sitting perfectly in a curved cup, no labels, pure form. Deep Navy (#0B1F3A) background. Ship Cove blue (#A2B9D8) ambient glow. RIGHT HALF: A flat-lay grid of four different total knee replacement implant designs photographed on a white surface — tibial trays and femoral components from different design philosophies side by side, including a medial pivot design. Ultra-sharp product photography. No people. Wide editorial composition, dramatic lighting split between left and right halves."""},
 
 {"id":100,"date":"2026-05-19","day":"Tuesday","platform":"Facebook","li_audience":"",
 "format":"Post + Link","topic":"Kinematic alignment - the paradigm shift and how it differs",
@@ -3293,7 +3308,7 @@ Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
 drchienwenliew.com.au 🔗 Link in bio""",
 "hashtags":"#directanteriorapproach #hipreplacement #musclesparingshipsurgery #hiprecovery #orthopaedics #adelaideorthopaedics #drchienwenliew",
 "website_link":"https://drchienwenliew.com.au/blog/anterior-approach-is-it-right-for-you/","image_file":"2026-05-12-instagram.jpg",
-"nanobanana_prompt":"""Bright, clean orthopaedic clinic corridor. No people. Modern architecture, polished floor reflecting soft natural light. Ship Cove blue accent walls. Warm but clinical. Wide angle, symmetrical composition."""},
+"nanobanana_prompt":"""Wide 1:1 square editorial. The hip anatomy — femoral head, neck, and acetabulum — illustrated as a clean 3D anatomical diagram. Ship Cove blue (#A2B9D8) on Deep Navy (#0B1F3A). Muscle groups labelled schematically: gluteus medius, iliopsoas, short external rotators. No people, no surgical figures, no logos. Medical illustration style, clear and authoritative.|Wide 1:1 square editorial. A side-by-side surgical approach comparison diagram — two schematic cross-sections of the hip, one showing a posterior approach with muscles cut and retracted, one showing an anterior approach with muscles separated but intact. Clean line art on deep navy background, Ship Cove blue (#A2B9D8) annotations. No people, no logos, no branding.|Wide 1:1 square editorial. Abstract lifestyle scene — a pair of legs walking briskly on a path outdoors, cropped at the knee, no face visible. Natural morning light, green grass background. Movement, confidence, recovery. No clinical setting, no logos.|Wide 1:1 square editorial. A post-operative timeline infographic — horizontal timeline from Day 0 to Week 12, key milestones marked: walking same day, discharge, driving, return to sport. Ship Cove blue (#A2B9D8) timeline line on Deep Navy (#0B1F3A). Clean sans-serif labels. No people, no logos."""},
 
 {"id":278,"date":"2026-05-15","day":"Friday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Your hip replacement isn't meant to last 10 years. It's meant to last your lifetime.",
@@ -3341,7 +3356,7 @@ Dr Chien-Wen Liew | Hip & Knee Replacement Surgeon, Adelaide
 drchienwenliew.com.au 🔗 Link in bio""",
 "hashtags":"#medialpivot #kneereplacement #kinematicalignment #kneesurgery #orthopaedics #patientspecific #adelaideorthopaedics #drchienwenliew",
 "website_link":"https://drchienwenliew.com.au/blog/knee-replacement-techniques/","image_file":"2026-05-22-instagram.jpg",
-"nanobanana_prompt":"""Abstract geometric diagram or physical model suggesting rotational movement and joint mechanics. Clean minimal surface, no people. Soft directional light. Scientific, elegant, precise. Warm cream tones with Ship Cove blue accents."""},
+"nanobanana_prompt":"""Wide 1:1 square editorial. A dense, richly layered composition of knee-related graphics — anatomical cross-section diagram of the knee joint overlapping with a tibial component engineering blueprint, a range-of-motion arc overlay, and a partial satisfaction graph. All rendered in Ship Cove blue (#A2B9D8) and white linework on Deep Navy (#0B1F3A). Abstract, technical, visually complex. No people, no logos. The aesthetic of a high-end surgical planning schematic."""},
 
 {"id":281,"date":"2026-05-26","day":"Tuesday","platform":"Instagram","li_audience":"",
 "format":"Post","topic":"Can you run after hip replacement? The honest answer most surgeons won't give you.",
